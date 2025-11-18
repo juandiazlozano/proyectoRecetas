@@ -1,13 +1,13 @@
-<!doctype html>
-<html>
-<head><meta charset="utf-8"><title>{{ receta.nombre }}</title></head>
-<body>
-<h1>{{ receta.nombre }}</h1>
-<p><strong>Categoría:</strong> {{ receta.categoria }}</p>
-<p><strong>Origen:</strong> {{ receta.origen }}</p>
-<p><strong>Ingredientes:</strong> {{ receta.ingredientes }}</p>
-<p><strong>Descripción:</strong> {{ receta.descripcion }}</p>
-<p><strong>Tiempo:</strong> {{ receta.tiempo_preparacion }} minutos — <strong>Dificultad:</strong> {{ receta.dificultad }}</p>
-<a href="{% url 'recetas:index' %}">Volver</a>
-</body>
-</html>
+{% extends "recetas/base.html" %}
+
+{% block title %}Detalle de Receta{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h2>{{ receta.nombre }}</h2>
+    <p><strong>Descripción:</strong> {{ receta.descripcion }}</p>
+    <p><strong>Ingredientes:</strong> {{ receta.ingredientes }}</p>
+    <p><strong>Preparación:</strong> {{ receta.preparacion }}</p>
+    <a href="/" class="btn btn-secondary">Volver</a>
+</div>
+{% endblock %}

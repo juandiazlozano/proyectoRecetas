@@ -1,10 +1,15 @@
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Recetas</title>
-</head>
-<body>
+{% extends "recetas/base.html" %}
+
+{% block title %}Inicio - Recetas{% endblock %}
+
+{% block content %}
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a Recetas</h1>
+    <p class="lead">Explora y crea tus recetas favoritas.</p>
+    <a href="/crear" class="btn btn-primary">Crear Receta</a>
+    <a href="/recomendador" class="btn btn-info">Recomendación de Recetas</a>
+</div>
+{% endblock %}
 
 <h1>Recetas (muestra)</h1>
 
