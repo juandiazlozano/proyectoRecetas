@@ -1,4 +1,4 @@
-from django.shortcuts import render, get_object_or_404, redirect
+from django.shortcuts import render, redirect, get_object_or_404
 from .models import Receta
 from .forms import RecetaForm
 import pickle
@@ -6,14 +6,14 @@ import os
 import numpy as np
 
 def index(request):
-    recetas = Receta.objects.all()[:50]
+    recetas = Receta.objects.all()
     return render(request, 'recetas/index.html', {'recetas': recetas})
 
 def detalle(request, pk):
     receta = get_object_or_404(Receta, pk=pk)
     return render(request, 'recetas/detalle.html', {'receta': receta})
 
-def crear_receta(request):
+def crear(request):
     if request.method == 'POST':
         form = RecetaForm(request.POST)
         if form.is_valid():
@@ -68,3 +68,8 @@ def recomendador(request):
             "ingredientes": lista_ing
         }
     )
+
+def eliminar_receta(request, pk):
+    receta = get_object_or_404(Receta, pk=pk)
+    receta.delete()
+    return redirect('recetas:index')

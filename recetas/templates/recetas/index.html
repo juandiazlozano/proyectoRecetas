@@ -3,11 +3,46 @@
 {% block title %}Inicio - Recetas{% endblock %}
 
 {% block content %}
-<div class="text-center">
+<div class="text-center mb-4">
     <h1 class="display-4">Bienvenido a Recetas</h1>
     <p class="lead">Explora y crea tus recetas favoritas.</p>
     <a href="/crear" class="btn btn-primary">Crear Receta</a>
     <a href="/recomendador" class="btn btn-info">Recomendación de Recetas</a>
+</div>
+
+<div class="container">
+    <h2 class="mb-3">Recetas guardadas</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Ingredientes</th>
+                <th>Preparación</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for receta in recetas %}
+            <tr>
+                <td>{{ receta.nombre }}</td>
+                <td>{{ receta.descripcion }}</td>
+                <td>{{ receta.ingredientes }}</td>
+                <td>{{ receta.preparacion }}</td>
+                <td>
+                    <form method="post" action="{% url 'recetas:eliminar' receta.pk %}" style="display:inline;">
+                        {% csrf_token %}
+                        <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('¿Seguro que deseas eliminar esta receta?');">Eliminar</button>
+                    </form>
+                </td>
+            </tr>
+            {% empty %}
+            <tr>
+                <td colspan="5">No hay recetas guardadas.</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </div>
 {% endblock %}
 
