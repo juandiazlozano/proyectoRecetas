@@ -1,0 +1,1001 @@
+nombre,categoria,origen,ingredientes,descripcion,tiempo_preparacion,dificultad
+Receta 1,ensalada,India,"banano, sal, maíz, limón, fresas, aguacate, carne, vinagre","Receta deliciosa con sal, banano, carne, fresas, vinagre.",102,fácil
+Receta 2,sopa,EE.UU.,"papa, espinaca, miel, soya, frijoles, aceite de oliva, pescado","Receta deliciosa con aceite de oliva, espinaca, frijoles.",16,fácil
+Receta 3,almuerzo,Colombia,"pasta, aceite de oliva, aguacate, yogur, zanahoria","Receta deliciosa con aceite de oliva, zanahoria, pasta, yogur.",33,media
+Receta 4,postre,Colombia,"lentejas, pera, leche, carne, tomate, pan","Receta deliciosa con pan, lentejas, pera, leche, tomate, carne.",24,media
+Receta 5,sopa,Japón,"huevo, banano, salsa de tomate, miel, arroz, cebolla, vinagre","Receta deliciosa con banano, salsa de tomate, arroz, miel, cebolla.",113,media
+Receta 6,desayuno,Italia,"salsa de tomate, maíz, pimienta, espinaca, lentejas, cebolla, pepino","Receta deliciosa con pimienta, salsa de tomate, pepino, lentejas.",120,difícil
+Receta 7,bebida,China,"pimienta, salsa de tomate, mostaza, maíz, aceite de oliva, zanahoria, limón","Receta deliciosa con maíz, salsa de tomate, pimienta, aceite de oliva.",41,fácil
+Receta 8,sopa,India,"yogur, pimienta, pera, pan, pescado, leche, banano, tomate, mantequilla, espinaca","Receta deliciosa con tomate, pescado, yogur, espinaca, mantequilla, pan.",28,difícil
+Receta 9,almuerzo,España,"limón, champiñones, aceite de oliva, pollo, espinaca, pescado, maíz, frijoles","Receta deliciosa con frijoles, champiñones, espinaca, pollo, limón.",38,fácil
+Receta 10,ensalada,China,"maíz, fresas, tomate, pepino, mantequilla, leche, espinaca, miel, aceite de oliva, mostaza","Receta deliciosa con miel, mantequilla, pepino, espinaca, tomate.",118,fácil
+Receta 11,postre,Italia,"pera, salsa de tomate, pimienta, pasta, cebolla, pepino, tomate, lentejas","Receta deliciosa con salsa de tomate, cebolla, pasta.",45,difícil
+Receta 12,almuerzo,China,"pimienta, aguacate, maíz, lentejas, queso, limón, banano, mantequilla, yogur, manzana","Receta deliciosa con limón, lentejas, mantequilla.",35,difícil
+Receta 13,postre,México,"mostaza, pepino, arroz, mantequilla, pera, banano, frijoles, manzana, pasta, aceite de oliva","Receta deliciosa con pasta, pera, banano, mantequilla, pepino.",113,media
+Receta 14,desayuno,EE.UU.,"mostaza, mantequilla, pescado, huevo, frijoles","Receta deliciosa con pescado, frijoles, huevo, mantequilla, mostaza.",67,fácil
+Receta 15,almuerzo,Francia,"mostaza, pepino, zanahoria, ajo, arroz","Receta deliciosa con ajo, pepino, arroz.",44,media
+Receta 16,sopa,EE.UU.,"miel, soya, queso, pollo, mostaza, sal, yogur, pepino, cebolla, tomate","Receta deliciosa con cebolla, tomate, miel, queso.",119,media
+Receta 17,desayuno,Japón,"miel, pepino, maíz, espinaca, pimienta, ajo, pera, carne, arroz, pasta","Receta deliciosa con arroz, pera, pasta, carne, pepino.",76,difícil
+Receta 18,bebida,Italia,"tomate, aguacate, pan, mantequilla, pescado, sal, pepino, maíz, papa, banano","Receta deliciosa con papa, aguacate, sal, tomate.",22,difícil
+Receta 19,cena,Italia,"pan, mostaza, limón, aguacate, pimienta","Receta deliciosa con limón, aguacate, pan, pimienta, mostaza.",119,difícil
+Receta 20,sopa,EE.UU.,"mostaza, arroz, pera, aceite de oliva, huevo, espinaca, queso, pepino","Receta deliciosa con queso, espinaca, huevo, pera, mostaza.",41,fácil
+Receta 21,bebida,EE.UU.,"cebolla, vinagre, lentejas, pollo, miel, pasta, manzana, pepino, queso, limón","Receta deliciosa con lentejas, manzana, queso, vinagre.",34,fácil
+Receta 22,snack,Japón,"salsa de tomate, limón, queso, zanahoria, frijoles, papa, mostaza","Receta deliciosa con mostaza, salsa de tomate, frijoles.",44,difícil
+Receta 23,almuerzo,Japón,"miel, tomate, fresas, ajo, queso, pera","Receta deliciosa con ajo, tomate, pera, queso, miel, fresas.",67,fácil
+Receta 24,sopa,Francia,"zanahoria, frijoles, miel, leche, pera","Receta deliciosa con zanahoria, miel, frijoles.",52,difícil
+Receta 25,cena,Francia,"mostaza, queso, miel, salsa de tomate, espinaca, huevo, aguacate","Receta deliciosa con aguacate, queso, salsa de tomate, espinaca, huevo.",80,media
+Receta 26,snack,Colombia,"soya, frijoles, sal, mantequilla, ajo, champiñones, pera","Receta deliciosa con sal, ajo, pera.",36,fácil
+Receta 27,snack,Francia,"vinagre, ajo, espinaca, sal, pasta","Receta deliciosa con espinaca, ajo, pasta, vinagre, sal.",20,fácil
+Receta 28,ensalada,España,"yogur, mantequilla, lentejas, banano, champiñones, limón, miel, cebolla","Receta deliciosa con yogur, mantequilla, lentejas.",80,fácil
+Receta 29,snack,Perú,"frijoles, pepino, lentejas, champiñones, mantequilla, pera","Receta deliciosa con frijoles, pera, pepino, mantequilla, lentejas.",119,media
+Receta 30,almuerzo,China,"ajo, leche, yogur, espinaca, pan, sal, carne, queso","Receta deliciosa con espinaca, yogur, carne, pan, ajo, leche.",36,fácil
+Receta 31,desayuno,India,"mostaza, vinagre, leche, sal, huevo, pan, pepino, lentejas","Receta deliciosa con leche, pan, vinagre, huevo.",87,difícil
+Receta 32,ensalada,Italia,"fresas, manzana, yogur, ajo, pera, pan, lentejas, soya, papa, aceite de oliva","Receta deliciosa con aceite de oliva, papa, yogur, ajo, manzana, soya.",95,difícil
+Receta 33,desayuno,Japón,"banano, champiñones, carne, zanahoria, lentejas, pescado, sal, tomate, yogur, ajo","Receta deliciosa con tomate, champiñones, zanahoria, carne, lentejas, pescado.",79,fácil
+Receta 34,almuerzo,México,"banano, pan, vinagre, pera, cebolla","Receta deliciosa con banano, cebolla, pan, pera, vinagre.",33,difícil
+Receta 35,bebida,Colombia,"tomate, mostaza, manzana, pan, leche","Receta deliciosa con leche, tomate, mostaza.",58,media
+Receta 36,snack,Francia,"ajo, fresas, tomate, espinaca, papa, banano, pimienta","Receta deliciosa con papa, banano, fresas, tomate.",39,media
+Receta 37,sopa,Colombia,"pera, aceite de oliva, yogur, tomate, maíz, leche, frijoles, sal","Receta deliciosa con pera, frijoles, sal, yogur, tomate.",102,fácil
+Receta 38,desayuno,EE.UU.,"fresas, champiñones, salsa de tomate, mantequilla, yogur","Receta deliciosa con yogur, mantequilla, champiñones, salsa de tomate.",101,media
+Receta 39,cena,Colombia,"tomate, manzana, cebolla, sal, zanahoria, frijoles, mostaza, queso, maíz, pasta","Receta deliciosa con maíz, tomate, frijoles.",112,fácil
+Receta 40,desayuno,Francia,"banano, salsa de tomate, fresas, papa, huevo, champiñones, pera, soya","Receta deliciosa con pera, banano, champiñones, fresas.",72,media
+Receta 41,postre,Perú,"manzana, papa, mantequilla, pescado, fresas","Receta deliciosa con papa, mantequilla, manzana, fresas, pescado.",68,media
+Receta 42,sopa,Francia,"banano, miel, pasta, aguacate, pescado, ajo","Receta deliciosa con ajo, pasta, miel, pescado, aguacate, banano.",41,fácil
+Receta 43,snack,EE.UU.,"pescado, zanahoria, manzana, queso, yogur, fresas","Receta deliciosa con pescado, zanahoria, manzana, fresas, yogur.",83,fácil
+Receta 44,almuerzo,Francia,"champiñones, limón, arroz, fresas, pimienta, yogur, banano","Receta deliciosa con pimienta, yogur, fresas, champiñones, banano, arroz.",14,fácil
+Receta 45,desayuno,EE.UU.,"yogur, lentejas, mantequilla, salsa de tomate, espinaca, soya, pimienta, champiñones, queso, manzana","Receta deliciosa con queso, mantequilla, yogur.",9,fácil
+Receta 46,postre,Italia,"pera, pimienta, fresas, ajo, zanahoria, champiñones, pescado","Receta deliciosa con champiñones, pimienta, pera, pescado, ajo.",61,media
+Receta 47,sopa,México,"lentejas, espinaca, papa, yogur, pepino, zanahoria, salsa de tomate, miel","Receta deliciosa con salsa de tomate, lentejas, zanahoria, pepino, yogur.",62,fácil
+Receta 48,desayuno,Perú,"yogur, pepino, banano, huevo, miel, zanahoria","Receta deliciosa con yogur, pepino, huevo, banano.",101,difícil
+Receta 49,snack,China,"mantequilla, fresas, banano, pasta, vinagre, cebolla","Receta deliciosa con pasta, banano, fresas, cebolla, vinagre, mantequilla.",119,fácil
+Receta 50,bebida,EE.UU.,"ajo, manzana, queso, mostaza, leche, pasta, pescado, cebolla, mantequilla, yogur","Receta deliciosa con pasta, ajo, cebolla, manzana, mantequilla.",79,fácil
+Receta 51,snack,Japón,"sal, aguacate, cebolla, pepino, pescado, pollo, aceite de oliva, ajo, limón, pera","Receta deliciosa con sal, cebolla, pepino, aceite de oliva, pollo, pera.",18,difícil
+Receta 52,postre,España,"limón, maíz, mostaza, zanahoria, queso, champiñones, pimienta, pera","Receta deliciosa con maíz, limón, pimienta, pera, mostaza.",71,difícil
+Receta 53,postre,China,"pepino, aguacate, fresas, frijoles, queso","Receta deliciosa con frijoles, queso, pepino, fresas, aguacate.",100,media
+Receta 54,almuerzo,Japón,"aceite de oliva, arroz, manzana, carne, champiñones, queso, pimienta, pasta, tomate","Receta deliciosa con tomate, aceite de oliva, manzana, carne, queso.",22,difícil
+Receta 55,cena,Japón,"limón, soya, pera, banano, lentejas, frijoles","Receta deliciosa con soya, lentejas, limón, banano.",44,fácil
+Receta 56,sopa,México,"leche, banano, sal, miel, limón, queso","Receta deliciosa con limón, leche, sal, banano, miel, queso.",7,media
+Receta 57,postre,EE.UU.,"sal, carne, pimienta, arroz, pescado, miel, pera, salsa de tomate, frijoles, pasta","Receta deliciosa con pescado, pera, sal, frijoles.",68,fácil
+Receta 58,almuerzo,China,"tomate, lentejas, frijoles, cebolla, yogur, pollo, aguacate, mostaza, mantequilla","Receta deliciosa con cebolla, mostaza, pollo, aguacate, lentejas.",103,difícil
+Receta 59,sopa,Italia,"yogur, frijoles, cebolla, limón, aceite de oliva","Receta deliciosa con frijoles, cebolla, yogur, limón, aceite de oliva.",85,media
+Receta 60,almuerzo,China,"limón, miel, soya, queso, lentejas, banano","Receta deliciosa con queso, limón, soya, lentejas.",21,difícil
+Receta 61,sopa,México,"salsa de tomate, pimienta, queso, huevo, soya, sal, fresas","Receta deliciosa con sal, soya, huevo, pimienta, fresas, salsa de tomate.",30,media
+Receta 62,ensalada,Colombia,"soya, pasta, pollo, pan, aguacate, manzana, yogur, pepino","Receta deliciosa con yogur, pasta, soya, pollo.",42,difícil
+Receta 63,snack,Japón,"pepino, manzana, ajo, pan, sal, espinaca, miel","Receta deliciosa con pepino, manzana, sal, pan.",52,media
+Receta 64,ensalada,México,"maíz, pollo, pepino, lentejas, papa, salsa de tomate, leche, pimienta","Receta deliciosa con lentejas, salsa de tomate, pepino.",79,fácil
+Receta 65,almuerzo,México,"papa, fresas, vinagre, pescado, tomate","Receta deliciosa con pescado, tomate, papa, vinagre.",42,media
+Receta 66,cena,Francia,"espinaca, arroz, papa, lentejas, sal, aguacate, soya, zanahoria","Receta deliciosa con zanahoria, lentejas, papa.",113,fácil
+Receta 67,snack,India,"pescado, yogur, zanahoria, maíz, arroz, leche, mantequilla, frijoles, vinagre","Receta deliciosa con pescado, mantequilla, zanahoria, vinagre, arroz, leche.",64,fácil
+Receta 68,cena,México,"sal, pescado, ajo, mantequilla, queso, frijoles, vinagre, pasta, pollo, tomate","Receta deliciosa con vinagre, queso, tomate, sal, pollo, pasta.",57,difícil
+Receta 69,almuerzo,España,"leche, manzana, banano, papa, pasta, pescado, zanahoria, maíz","Receta deliciosa con papa, banano, pasta, manzana, leche.",16,difícil
+Receta 70,almuerzo,España,"carne, pollo, arroz, pasta, pepino, zanahoria, papa","Receta deliciosa con pepino, papa, pollo.",45,media
+Receta 71,bebida,Francia,"mostaza, manzana, mantequilla, pollo, arroz","Receta deliciosa con mostaza, arroz, pollo.",99,difícil
+Receta 72,snack,Colombia,"lentejas, mostaza, ajo, pescado, salsa de tomate, vinagre","Receta deliciosa con vinagre, salsa de tomate, mostaza, lentejas.",111,media
+Receta 73,sopa,Japón,"huevo, cebolla, maíz, miel, yogur, soya","Receta deliciosa con yogur, cebolla, soya, huevo, miel.",33,fácil
+Receta 74,postre,China,"ajo, huevo, champiñones, fresas, mantequilla, limón, soya, cebolla","Receta deliciosa con fresas, mantequilla, ajo.",30,fácil
+Receta 75,bebida,China,"zanahoria, pescado, mantequilla, miel, lentejas","Receta deliciosa con pescado, miel, zanahoria, mantequilla, lentejas.",28,media
+Receta 76,sopa,Japón,"yogur, tomate, arroz, frijoles, manzana, pepino, fresas, pan, queso","Receta deliciosa con pepino, yogur, manzana, arroz, queso, tomate.",104,fácil
+Receta 77,cena,Francia,"mantequilla, carne, fresas, arroz, pollo, limón","Receta deliciosa con limón, pollo, carne, arroz.",27,media
+Receta 78,cena,EE.UU.,"frijoles, yogur, huevo, vinagre, papa, pimienta, salsa de tomate","Receta deliciosa con huevo, salsa de tomate, frijoles, vinagre, papa.",89,difícil
+Receta 79,cena,EE.UU.,"vinagre, banano, pera, huevo, cebolla, aceite de oliva","Receta deliciosa con banano, aceite de oliva, pera, vinagre, cebolla.",54,difícil
+Receta 80,almuerzo,Italia,"cebolla, pera, lentejas, soya, frijoles, banano, pescado","Receta deliciosa con frijoles, lentejas, soya, pera.",53,difícil
+Receta 81,postre,Colombia,"soya, mostaza, pan, pera, aceite de oliva, pollo, salsa de tomate, manzana","Receta deliciosa con salsa de tomate, mostaza, pera, manzana, pollo, pan.",62,difícil
+Receta 82,desayuno,Perú,"queso, huevo, salsa de tomate, ajo, frijoles, papa","Receta deliciosa con frijoles, huevo, queso.",73,fácil
+Receta 83,almuerzo,Colombia,"mantequilla, banano, manzana, queso, soya, limón, papa, vinagre, ajo, pan","Receta deliciosa con banano, mantequilla, ajo.",83,media
+Receta 84,snack,Colombia,"banano, arroz, pepino, zanahoria, aguacate, pan, sal, ajo, salsa de tomate","Receta deliciosa con sal, aguacate, arroz, ajo.",36,difícil
+Receta 85,cena,Italia,"maíz, banano, frijoles, pan, zanahoria, tomate, pescado, aceite de oliva","Receta deliciosa con zanahoria, pan, tomate, maíz.",22,fácil
+Receta 86,cena,Francia,"pepino, pan, salsa de tomate, pescado, yogur, mantequilla, maíz, tomate, pimienta","Receta deliciosa con pepino, pan, pimienta.",105,difícil
+Receta 87,sopa,EE.UU.,"papa, mostaza, mantequilla, maíz, sal, champiñones","Receta deliciosa con sal, maíz, mostaza.",95,difícil
+Receta 88,bebida,Francia,"champiñones, carne, lentejas, fresas, limón","Receta deliciosa con carne, fresas, limón.",61,fácil
+Receta 89,snack,Francia,"frijoles, papa, champiñones, miel, pan, pollo, mantequilla, carne","Receta deliciosa con pan, carne, champiñones, papa.",83,media
+Receta 90,bebida,Italia,"mostaza, pera, salsa de tomate, pollo, aguacate, espinaca, tomate, banano","Receta deliciosa con tomate, pollo, espinaca, salsa de tomate, mostaza, pera.",47,fácil
+Receta 91,cena,España,"yogur, aguacate, pera, vinagre, banano, champiñones, leche, huevo, queso","Receta deliciosa con leche, vinagre, pera, yogur, huevo, aguacate.",94,fácil
+Receta 92,bebida,Perú,"pasta, soya, carne, zanahoria, huevo, cebolla, pan, salsa de tomate, leche","Receta deliciosa con carne, cebolla, pan, huevo, pasta.",16,difícil
+Receta 93,bebida,India,"vinagre, maíz, espinaca, pan, frijoles, arroz, papa","Receta deliciosa con papa, pan, espinaca, maíz, arroz, frijoles.",48,difícil
+Receta 94,sopa,Perú,"aguacate, limón, zanahoria, pan, maíz, champiñones, queso","Receta deliciosa con pan, aguacate, queso, limón.",112,difícil
+Receta 95,ensalada,Japón,"mostaza, frijoles, pollo, pasta, leche, queso, papa, arroz, tomate, espinaca","Receta deliciosa con arroz, mostaza, queso, pollo.",77,difícil
+Receta 96,postre,México,"tomate, pollo, yogur, salsa de tomate, cebolla, pan, pescado, pera","Receta deliciosa con salsa de tomate, yogur, pera, cebolla, tomate, pan.",109,difícil
+Receta 97,almuerzo,Italia,"aguacate, mostaza, tomate, limón, frijoles, arroz","Receta deliciosa con arroz, tomate, frijoles, mostaza, limón.",89,media
+Receta 98,snack,Perú,"espinaca, pan, frijoles, vinagre, papa, aceite de oliva, pimienta","Receta deliciosa con frijoles, papa, espinaca, pan.",60,difícil
+Receta 99,bebida,EE.UU.,"pasta, tomate, banano, carne, arroz, pimienta, ajo, zanahoria","Receta deliciosa con zanahoria, pasta, tomate, banano, pimienta.",109,media
+Receta 100,cena,China,"limón, ajo, aceite de oliva, pepino, aguacate, tomate, miel, papa","Receta deliciosa con papa, miel, aguacate.",110,difícil
+Receta 101,almuerzo,India,"queso, pepino, tomate, soya, cebolla, pasta, aguacate, vinagre","Receta deliciosa con pepino, pasta, cebolla, tomate, vinagre, queso.",55,fácil
+Receta 102,snack,Italia,"papa, pan, soya, cebolla, pera, arroz, limón, champiñones","Receta deliciosa con pera, limón, soya.",51,media
+Receta 103,ensalada,México,"manzana, arroz, champiñones, soya, banano","Receta deliciosa con champiñones, soya, arroz, banano, manzana.",91,difícil
+Receta 104,snack,EE.UU.,"banano, frijoles, lentejas, vinagre, yogur, aguacate, aceite de oliva, queso","Receta deliciosa con queso, banano, frijoles.",99,fácil
+Receta 105,bebida,EE.UU.,"manzana, leche, tomate, pan, cebolla, ajo, pepino","Receta deliciosa con cebolla, tomate, ajo, pan.",17,media
+Receta 106,ensalada,Francia,"espinaca, arroz, cebolla, mantequilla, leche, banano, sal, zanahoria, miel","Receta deliciosa con sal, leche, arroz.",37,difícil
+Receta 107,snack,Perú,"pepino, pasta, zanahoria, miel, huevo, leche","Receta deliciosa con pepino, pasta, leche, huevo.",87,media
+Receta 108,bebida,China,"yogur, leche, pepino, banano, mantequilla, aceite de oliva, miel","Receta deliciosa con pepino, mantequilla, yogur, banano.",48,media
+Receta 109,postre,China,"zanahoria, salsa de tomate, frijoles, queso, carne","Receta deliciosa con frijoles, zanahoria, salsa de tomate, queso.",27,fácil
+Receta 110,almuerzo,India,"pera, fresas, frijoles, banano, sal, salsa de tomate","Receta deliciosa con sal, salsa de tomate, banano.",6,difícil
+Receta 111,postre,Colombia,"carne, arroz, soya, miel, queso, maíz","Receta deliciosa con maíz, arroz, miel, soya, queso, carne.",76,fácil
+Receta 112,ensalada,EE.UU.,"vinagre, ajo, sal, pasta, lentejas, aguacate","Receta deliciosa con ajo, lentejas, aguacate, vinagre.",63,fácil
+Receta 113,ensalada,China,"soya, tomate, aceite de oliva, queso, leche","Receta deliciosa con tomate, aceite de oliva, soya.",10,difícil
+Receta 114,cena,España,"champiñones, frijoles, maíz, mantequilla, yogur, zanahoria, pepino, leche, banano, limón","Receta deliciosa con yogur, mantequilla, banano, leche.",70,difícil
+Receta 115,desayuno,México,"arroz, banano, vinagre, limón, soya, cebolla, papa","Receta deliciosa con papa, vinagre, soya, banano.",85,media
+Receta 116,sopa,Francia,"manzana, soya, maíz, aceite de oliva, pera, pasta, vinagre, pollo","Receta deliciosa con vinagre, pasta, aceite de oliva, maíz.",57,fácil
+Receta 117,ensalada,Colombia,"soya, mostaza, tomate, huevo, leche, pasta, lentejas","Receta deliciosa con soya, tomate, huevo, mostaza.",36,media
+Receta 118,desayuno,Japón,"maíz, arroz, mantequilla, huevo, frijoles, manzana, queso, cebolla","Receta deliciosa con mantequilla, arroz, huevo, queso, manzana, cebolla.",33,fácil
+Receta 119,desayuno,India,"carne, arroz, mostaza, pan, cebolla","Receta deliciosa con carne, arroz, cebolla, pan.",26,media
+Receta 120,snack,Japón,"frijoles, mostaza, maíz, ajo, espinaca","Receta deliciosa con maíz, ajo, frijoles, mostaza.",71,fácil
+Receta 121,cena,Perú,"pera, vinagre, maíz, aceite de oliva, soya","Receta deliciosa con soya, maíz, pera.",65,difícil
+Receta 122,desayuno,EE.UU.,"lentejas, sal, zanahoria, cebolla, pescado, limón, pimienta","Receta deliciosa con limón, pescado, cebolla, sal, zanahoria, pimienta.",24,fácil
+Receta 123,desayuno,España,"pepino, leche, tomate, champiñones, limón, queso, zanahoria","Receta deliciosa con limón, leche, zanahoria, tomate, queso, pepino.",115,fácil
+Receta 124,sopa,España,"aceite de oliva, fresas, cebolla, miel, banano, sal, frijoles, pescado, salsa de tomate, pera","Receta deliciosa con sal, miel, cebolla.",81,media
+Receta 125,bebida,EE.UU.,"pepino, ajo, salsa de tomate, aguacate, queso, vinagre","Receta deliciosa con salsa de tomate, vinagre, ajo, queso, aguacate, pepino.",31,fácil
+Receta 126,bebida,China,"huevo, manzana, yogur, pimienta, frijoles","Receta deliciosa con huevo, frijoles, manzana, pimienta, yogur.",41,difícil
+Receta 127,snack,Italia,"vinagre, pepino, champiñones, limón, huevo, leche","Receta deliciosa con leche, vinagre, limón.",27,difícil
+Receta 128,almuerzo,Francia,"miel, mostaza, carne, pimienta, arroz, aceite de oliva","Receta deliciosa con miel, mostaza, arroz.",15,media
+Receta 129,ensalada,India,"huevo, manzana, arroz, champiñones, zanahoria, tomate, banano","Receta deliciosa con arroz, tomate, manzana, huevo.",59,media
+Receta 130,desayuno,Perú,"espinaca, lentejas, banano, aguacate, pera, tomate","Receta deliciosa con espinaca, aguacate, lentejas, pera, tomate, banano.",32,fácil
+Receta 131,cena,EE.UU.,"limón, yogur, papa, queso, espinaca, salsa de tomate, mantequilla","Receta deliciosa con salsa de tomate, yogur, espinaca, limón.",103,difícil
+Receta 132,ensalada,EE.UU.,"frijoles, espinaca, vinagre, manzana, champiñones, pimienta, limón, aguacate, queso","Receta deliciosa con manzana, vinagre, pimienta.",32,fácil
+Receta 133,postre,Colombia,"queso, soya, pasta, tomate, salsa de tomate, pepino, sal, miel","Receta deliciosa con soya, sal, miel, queso, tomate.",65,difícil
+Receta 134,cena,Colombia,"vinagre, pollo, carne, aguacate, arroz, pan, frijoles","Receta deliciosa con pan, vinagre, pollo.",65,difícil
+Receta 135,almuerzo,España,"aguacate, ajo, maíz, arroz, champiñones","Receta deliciosa con ajo, maíz, arroz, aguacate.",89,difícil
+Receta 136,bebida,Francia,"cebolla, sal, yogur, arroz, carne, maíz, pasta, vinagre, ajo","Receta deliciosa con carne, pasta, sal, maíz.",16,media
+Receta 137,sopa,España,"cebolla, zanahoria, mantequilla, huevo, mostaza, pimienta, maíz, salsa de tomate, frijoles","Receta deliciosa con maíz, mantequilla, cebolla, pimienta, zanahoria, frijoles.",23,media
+Receta 138,postre,México,"cebolla, pescado, leche, frijoles, aceite de oliva, manzana, champiñones, carne, limón, arroz","Receta deliciosa con pescado, leche, cebolla.",105,difícil
+Receta 139,cena,Japón,"aceite de oliva, miel, espinaca, frijoles, fresas","Receta deliciosa con espinaca, frijoles, fresas, miel, aceite de oliva.",80,difícil
+Receta 140,sopa,India,"arroz, sal, zanahoria, lentejas, soya, aceite de oliva, leche","Receta deliciosa con zanahoria, arroz, leche.",54,fácil
+Receta 141,ensalada,Perú,"mantequilla, pera, leche, ajo, fresas, zanahoria","Receta deliciosa con leche, pera, fresas, mantequilla, zanahoria.",52,difícil
+Receta 142,postre,Colombia,"leche, frijoles, pera, vinagre, huevo, miel, yogur, espinaca","Receta deliciosa con leche, espinaca, vinagre.",76,fácil
+Receta 143,bebida,India,"pasta, yogur, zanahoria, cebolla, tomate, banano, pollo, limón, pera, champiñones","Receta deliciosa con cebolla, champiñones, tomate.",63,fácil
+Receta 144,almuerzo,EE.UU.,"yogur, papa, maíz, cebolla, aguacate, pan","Receta deliciosa con aguacate, papa, yogur.",18,fácil
+Receta 145,bebida,Perú,"sal, salsa de tomate, limón, tomate, espinaca","Receta deliciosa con tomate, sal, espinaca, salsa de tomate, limón.",78,difícil
+Receta 146,bebida,Japón,"limón, salsa de tomate, arroz, fresas, mostaza","Receta deliciosa con fresas, limón, salsa de tomate, arroz, mostaza.",113,fácil
+Receta 147,snack,India,"pescado, leche, tomate, aceite de oliva, mantequilla, pan, pimienta, lentejas, huevo, yogur","Receta deliciosa con aceite de oliva, yogur, huevo, mantequilla, tomate, pescado.",94,media
+Receta 148,ensalada,India,"limón, fresas, pera, papa, maíz, aguacate","Receta deliciosa con papa, limón, fresas, aguacate, maíz.",119,media
+Receta 149,bebida,Italia,"pasta, pescado, vinagre, mostaza, papa, sal","Receta deliciosa con pasta, sal, vinagre, papa, pescado, mostaza.",48,difícil
+Receta 150,sopa,México,"sal, leche, banano, yogur, champiñones, aguacate, papa, frijoles, mantequilla, mostaza","Receta deliciosa con papa, mantequilla, leche, sal, frijoles.",78,fácil
+Receta 151,snack,Italia,"soya, mostaza, cebolla, maíz, zanahoria","Receta deliciosa con zanahoria, maíz, mostaza, soya.",112,fácil
+Receta 152,ensalada,México,"mostaza, champiñones, zanahoria, aceite de oliva, miel, manzana","Receta deliciosa con miel, champiñones, manzana, mostaza, aceite de oliva, zanahoria.",112,difícil
+Receta 153,almuerzo,Colombia,"tomate, pimienta, soya, aguacate, banano","Receta deliciosa con tomate, banano, pimienta, aguacate, soya.",18,media
+Receta 154,cena,EE.UU.,"champiñones, manzana, pimienta, mostaza, lentejas, queso, fresas, maíz, pollo, pescado","Receta deliciosa con queso, mostaza, pimienta.",46,fácil
+Receta 155,desayuno,Colombia,"pera, pollo, huevo, vinagre, pan, leche","Receta deliciosa con pan, leche, pollo.",13,fácil
+Receta 156,ensalada,Perú,"manzana, sal, yogur, soya, vinagre, zanahoria, lentejas","Receta deliciosa con sal, vinagre, manzana, yogur, zanahoria, soya.",66,fácil
+Receta 157,cena,Italia,"pan, champiñones, vinagre, carne, arroz, frijoles","Receta deliciosa con vinagre, champiñones, pan.",10,difícil
+Receta 158,sopa,EE.UU.,"ajo, lentejas, pepino, sal, pasta, vinagre, miel, aceite de oliva, carne","Receta deliciosa con carne, vinagre, miel, aceite de oliva, lentejas.",45,media
+Receta 159,snack,China,"banano, manzana, espinaca, limón, pimienta, mostaza, huevo, pescado","Receta deliciosa con pescado, espinaca, pimienta, mostaza.",38,fácil
+Receta 160,cena,Japón,"soya, champiñones, limón, carne, salsa de tomate, lentejas, papa","Receta deliciosa con champiñones, soya, carne, papa, salsa de tomate, limón.",49,media
+Receta 161,snack,EE.UU.,"frijoles, pescado, champiñones, lentejas, pepino, pasta, pera","Receta deliciosa con champiñones, frijoles, pepino, lentejas, pasta.",120,fácil
+Receta 162,bebida,EE.UU.,"champiñones, lentejas, fresas, mostaza, yogur","Receta deliciosa con fresas, lentejas, yogur.",49,fácil
+Receta 163,almuerzo,México,"limón, arroz, miel, pan, aceite de oliva, pepino, yogur, espinaca, huevo","Receta deliciosa con miel, aceite de oliva, yogur, limón.",57,media
+Receta 164,snack,Perú,"maíz, arroz, fresas, champiñones, ajo, mostaza, frijoles","Receta deliciosa con ajo, champiñones, frijoles.",120,media
+Receta 165,ensalada,China,"pan, aceite de oliva, pimienta, pepino, lentejas, miel, carne, espinaca, limón","Receta deliciosa con espinaca, miel, lentejas, pan, pepino.",65,media
+Receta 166,sopa,México,"mostaza, yogur, maíz, pimienta, arroz, huevo, manzana, tomate, limón, champiñones","Receta deliciosa con tomate, maíz, champiñones, mostaza, yogur.",7,media
+Receta 167,almuerzo,Francia,"aguacate, ajo, arroz, fresas, maíz","Receta deliciosa con maíz, arroz, ajo, aguacate, fresas.",110,fácil
+Receta 168,snack,Japón,"soya, frijoles, fresas, miel, huevo, tomate, salsa de tomate, maíz","Receta deliciosa con frijoles, miel, soya, huevo.",18,media
+Receta 169,sopa,Japón,"aguacate, pera, limón, vinagre, yogur, lentejas","Receta deliciosa con lentejas, limón, pera, aguacate, vinagre, yogur.",116,difícil
+Receta 170,cena,México,"mantequilla, pera, lentejas, cebolla, leche, pescado, vinagre, carne, pimienta, sal","Receta deliciosa con lentejas, cebolla, pescado.",13,media
+Receta 171,almuerzo,India,"huevo, limón, fresas, espinaca, pollo, pepino, cebolla","Receta deliciosa con huevo, cebolla, pollo, pepino.",66,fácil
+Receta 172,snack,Italia,"aceite de oliva, yogur, salsa de tomate, maíz, frijoles, mantequilla, papa, mostaza, ajo, arroz","Receta deliciosa con salsa de tomate, frijoles, aceite de oliva, mostaza.",17,fácil
+Receta 173,ensalada,España,"carne, banano, ajo, vinagre, pimienta, aceite de oliva, pan, mostaza, lentejas, aguacate","Receta deliciosa con mostaza, lentejas, ajo, banano, aceite de oliva, pimienta.",90,media
+Receta 174,snack,EE.UU.,"miel, soya, aceite de oliva, huevo, aguacate, carne, mostaza","Receta deliciosa con mostaza, carne, huevo.",20,fácil
+Receta 175,sopa,China,"tomate, huevo, papa, pimienta, manzana, soya, pollo, pan","Receta deliciosa con pan, pollo, tomate, pimienta, huevo, manzana.",16,difícil
+Receta 176,ensalada,Perú,"pera, carne, queso, aceite de oliva, banano, espinaca","Receta deliciosa con espinaca, banano, queso, pera, aceite de oliva, carne.",111,fácil
+Receta 177,almuerzo,Colombia,"pepino, tomate, pimienta, lentejas, sal, aceite de oliva, vinagre","Receta deliciosa con vinagre, pepino, tomate, pimienta, sal, lentejas.",84,difícil
+Receta 178,desayuno,EE.UU.,"pera, espinaca, mantequilla, ajo, pan","Receta deliciosa con pera, ajo, mantequilla, espinaca, pan.",50,fácil
+Receta 179,almuerzo,China,"pepino, vinagre, sal, pimienta, carne, pollo, yogur, pera, tomate, lentejas","Receta deliciosa con pimienta, yogur, lentejas, tomate, carne.",110,difícil
+Receta 180,cena,Italia,"cebolla, lentejas, carne, espinaca, leche, ajo","Receta deliciosa con ajo, lentejas, cebolla, espinaca, carne.",118,difícil
+Receta 181,bebida,Japón,"champiñones, papa, mostaza, lentejas, pescado, carne, maíz, fresas","Receta deliciosa con mostaza, lentejas, papa, maíz, fresas.",11,media
+Receta 182,ensalada,España,"ajo, leche, pera, vinagre, soya, papa, huevo","Receta deliciosa con ajo, huevo, papa, vinagre, pera.",41,difícil
+Receta 183,bebida,México,"lentejas, cebolla, carne, pera, leche, limón, papa","Receta deliciosa con limón, cebolla, lentejas, carne, pera, leche.",117,fácil
+Receta 184,postre,China,"salsa de tomate, banano, fresas, aguacate, huevo, zanahoria, cebolla, mostaza, pan, soya","Receta deliciosa con mostaza, banano, salsa de tomate, cebolla, pan, aguacate.",86,difícil
+Receta 185,ensalada,España,"aceite de oliva, pollo, pimienta, lentejas, espinaca, soya, carne, maíz, salsa de tomate, huevo","Receta deliciosa con aceite de oliva, maíz, carne, salsa de tomate, pimienta.",117,difícil
+Receta 186,postre,China,"huevo, aguacate, manzana, limón, vinagre, pasta, tomate, salsa de tomate, pera","Receta deliciosa con pera, pasta, huevo, aguacate, manzana.",77,fácil
+Receta 187,cena,Japón,"lentejas, arroz, mostaza, tomate, pepino, banano","Receta deliciosa con arroz, tomate, banano, pepino, lentejas, mostaza.",18,media
+Receta 188,snack,Perú,"maíz, pimienta, champiñones, salsa de tomate, tomate, queso","Receta deliciosa con salsa de tomate, pimienta, maíz, tomate, champiñones, queso.",12,difícil
+Receta 189,desayuno,Italia,"banano, sal, zanahoria, manzana, pepino, aceite de oliva, ajo, aguacate, pescado","Receta deliciosa con aguacate, sal, manzana, zanahoria.",91,difícil
+Receta 190,cena,Italia,"frijoles, manzana, aceite de oliva, fresas, cebolla, miel","Receta deliciosa con frijoles, miel, aceite de oliva, cebolla, fresas, manzana.",5,fácil
+Receta 191,sopa,España,"maíz, sal, pan, fresas, pepino, banano, salsa de tomate, vinagre","Receta deliciosa con fresas, banano, pan, pepino, vinagre.",82,difícil
+Receta 192,postre,España,"sal, cebolla, espinaca, zanahoria, pasta","Receta deliciosa con espinaca, cebolla, zanahoria, sal, pasta.",69,difícil
+Receta 193,desayuno,Francia,"fresas, zanahoria, pimienta, espinaca, vinagre, cebolla, limón, arroz, lentejas, queso","Receta deliciosa con vinagre, espinaca, pimienta, zanahoria.",42,difícil
+Receta 194,desayuno,Italia,"cebolla, huevo, maíz, pan, pimienta","Receta deliciosa con maíz, huevo, pan, pimienta, cebolla.",30,media
+Receta 195,cena,Japón,"miel, mantequilla, queso, champiñones, manzana, mostaza, pepino, aceite de oliva, leche, limón","Receta deliciosa con limón, champiñones, manzana, pepino, miel, mantequilla.",77,difícil
+Receta 196,postre,Francia,"banano, tomate, frijoles, carne, miel, vinagre, mostaza","Receta deliciosa con banano, carne, mostaza, tomate.",30,difícil
+Receta 197,ensalada,EE.UU.,"salsa de tomate, maíz, carne, zanahoria, aceite de oliva, queso, pera","Receta deliciosa con aceite de oliva, maíz, carne, pera.",103,difícil
+Receta 198,postre,EE.UU.,"yogur, espinaca, sal, limón, zanahoria, leche, vinagre","Receta deliciosa con yogur, sal, espinaca, limón, vinagre, zanahoria.",99,difícil
+Receta 199,desayuno,China,"pepino, pan, carne, mantequilla, salsa de tomate, ajo, sal, miel, espinaca","Receta deliciosa con mantequilla, salsa de tomate, sal.",37,media
+Receta 200,bebida,EE.UU.,"pepino, aceite de oliva, espinaca, frijoles, maíz, pimienta, papa, fresas, lentejas, aguacate","Receta deliciosa con pimienta, lentejas, maíz, fresas, pepino.",21,media
+Receta 201,almuerzo,India,"huevo, pasta, pepino, pera, papa, pan, mantequilla, ajo, salsa de tomate","Receta deliciosa con pasta, mantequilla, pera, papa, ajo, pan.",59,difícil
+Receta 202,desayuno,India,"vinagre, champiñones, cebolla, carne, aguacate, miel, yogur, papa","Receta deliciosa con cebolla, miel, yogur, carne.",35,difícil
+Receta 203,desayuno,Japón,"pera, salsa de tomate, pepino, pollo, soya, arroz","Receta deliciosa con pollo, arroz, salsa de tomate, pepino, soya, pera.",100,fácil
+Receta 204,desayuno,Japón,"maíz, pimienta, fresas, arroz, carne, banano, pera, champiñones, frijoles, vinagre","Receta deliciosa con carne, vinagre, frijoles, maíz, fresas.",58,difícil
+Receta 205,desayuno,China,"huevo, mostaza, arroz, pera, pan","Receta deliciosa con mostaza, arroz, pera.",66,difícil
+Receta 206,snack,Francia,"carne, arroz, limón, banano, miel, queso, champiñones, frijoles","Receta deliciosa con arroz, carne, champiñones, frijoles.",54,fácil
+Receta 207,desayuno,China,"banano, salsa de tomate, pan, papa, pescado, yogur, arroz","Receta deliciosa con salsa de tomate, papa, arroz, yogur, pescado.",83,fácil
+Receta 208,postre,China,"lentejas, champiñones, yogur, manzana, tomate, mantequilla, frijoles","Receta deliciosa con frijoles, lentejas, manzana, mantequilla.",87,media
+Receta 209,almuerzo,Japón,"aguacate, pasta, carne, sal, ajo, vinagre","Receta deliciosa con carne, vinagre, pasta, ajo, aguacate, sal.",115,difícil
+Receta 210,cena,Perú,"huevo, papa, aguacate, pasta, vinagre, tomate, pimienta, fresas, pepino, soya","Receta deliciosa con pepino, vinagre, pasta, fresas.",119,media
+Receta 211,snack,Colombia,"espinaca, aguacate, lentejas, soya, papa, leche, aceite de oliva","Receta deliciosa con espinaca, papa, aceite de oliva, aguacate, soya.",70,difícil
+Receta 212,desayuno,Colombia,"pepino, frijoles, cebolla, miel, champiñones, queso, espinaca, banano, pollo, soya","Receta deliciosa con soya, miel, queso, pepino, champiñones.",112,media
+Receta 213,desayuno,España,"pan, arroz, carne, mostaza, maíz, manzana","Receta deliciosa con maíz, arroz, mostaza, carne, pan.",118,difícil
+Receta 214,postre,China,"pasta, banano, yogur, aceite de oliva, carne","Receta deliciosa con pasta, carne, banano, aceite de oliva.",118,media
+Receta 215,desayuno,China,"vinagre, pollo, salsa de tomate, mantequilla, cebolla, pescado, frijoles, queso, pera","Receta deliciosa con salsa de tomate, pollo, pescado, queso, mantequilla, cebolla.",94,difícil
+Receta 216,ensalada,India,"pan, huevo, papa, champiñones, limón, pimienta","Receta deliciosa con huevo, papa, pimienta, pan.",100,media
+Receta 217,desayuno,EE.UU.,"aceite de oliva, ajo, papa, pollo, lentejas, limón, frijoles, cebolla, zanahoria","Receta deliciosa con cebolla, aceite de oliva, frijoles, ajo, pollo, lentejas.",85,difícil
+Receta 218,almuerzo,México,"tomate, lentejas, miel, fresas, yogur","Receta deliciosa con tomate, yogur, lentejas, fresas, miel.",79,difícil
+Receta 219,bebida,Perú,"leche, pescado, huevo, sal, manzana, cebolla, champiñones, lentejas, frijoles","Receta deliciosa con champiñones, huevo, cebolla, pescado.",46,difícil
+Receta 220,bebida,México,"pera, frijoles, pan, mostaza, leche, queso","Receta deliciosa con pera, pan, frijoles, leche, mostaza.",62,difícil
+Receta 221,bebida,India,"carne, pera, pollo, ajo, queso","Receta deliciosa con pollo, queso, carne, ajo, pera.",36,media
+Receta 222,ensalada,EE.UU.,"aceite de oliva, miel, soya, yogur, limón, pescado, maíz, frijoles, vinagre","Receta deliciosa con limón, miel, maíz, aceite de oliva, frijoles.",79,media
+Receta 223,bebida,EE.UU.,"mantequilla, yogur, ajo, maíz, leche, pera, limón, zanahoria, soya, pasta","Receta deliciosa con leche, soya, limón, pera, ajo.",93,media
+Receta 224,desayuno,México,"ajo, zanahoria, vinagre, arroz, pollo, maíz, espinaca","Receta deliciosa con vinagre, zanahoria, espinaca, arroz, maíz, pollo.",35,difícil
+Receta 225,sopa,Perú,"pollo, aceite de oliva, arroz, salsa de tomate, lentejas, manzana, pera, pescado","Receta deliciosa con manzana, pera, salsa de tomate, aceite de oliva, arroz.",89,difícil
+Receta 226,snack,China,"mostaza, salsa de tomate, pera, pan, carne","Receta deliciosa con salsa de tomate, pan, mostaza.",64,media
+Receta 227,almuerzo,Italia,"maíz, mantequilla, cebolla, carne, aceite de oliva, pera, frijoles","Receta deliciosa con pera, maíz, aceite de oliva, frijoles, carne.",116,difícil
+Receta 228,postre,Perú,"champiñones, zanahoria, queso, arroz, mostaza, ajo, vinagre, pollo, sal","Receta deliciosa con arroz, sal, ajo, mostaza, queso.",6,difícil
+Receta 229,postre,Colombia,"fresas, queso, zanahoria, frijoles, aguacate","Receta deliciosa con fresas, aguacate, queso, frijoles.",90,difícil
+Receta 230,cena,EE.UU.,"banano, fresas, mantequilla, mostaza, vinagre, maíz, pescado, pepino, cebolla","Receta deliciosa con pescado, mantequilla, maíz, cebolla.",111,fácil
+Receta 231,sopa,México,"zanahoria, banano, espinaca, limón, lentejas, salsa de tomate, aguacate, papa, ajo, pera","Receta deliciosa con espinaca, salsa de tomate, ajo.",36,difícil
+Receta 232,desayuno,Perú,"yogur, miel, fresas, pescado, pan, ajo, salsa de tomate, pollo","Receta deliciosa con salsa de tomate, pollo, fresas.",74,difícil
+Receta 233,almuerzo,India,"manzana, carne, aceite de oliva, espinaca, queso, mantequilla, yogur, banano","Receta deliciosa con queso, manzana, espinaca.",63,media
+Receta 234,almuerzo,Francia,"mantequilla, maíz, cebolla, pepino, champiñones, yogur","Receta deliciosa con pepino, mantequilla, champiñones.",13,media
+Receta 235,almuerzo,Italia,"fresas, pasta, lentejas, maíz, salsa de tomate, pescado, papa","Receta deliciosa con fresas, papa, salsa de tomate.",108,media
+Receta 236,ensalada,España,"carne, champiñones, banano, huevo, fresas, pescado, yogur, mantequilla","Receta deliciosa con carne, banano, fresas, huevo, yogur.",59,media
+Receta 237,bebida,India,"maíz, lentejas, mantequilla, banano, pan, vinagre, ajo","Receta deliciosa con pan, mantequilla, vinagre, maíz.",115,media
+Receta 238,cena,España,"pescado, papa, limón, vinagre, pepino, queso","Receta deliciosa con pescado, papa, pepino, queso, limón, vinagre.",80,fácil
+Receta 239,ensalada,México,"cebolla, tomate, mostaza, papa, carne, lentejas, pescado","Receta deliciosa con pescado, carne, papa, tomate.",28,media
+Receta 240,ensalada,Colombia,"lentejas, soya, cebolla, pera, sal","Receta deliciosa con lentejas, pera, cebolla, sal.",71,media
+Receta 241,desayuno,Japón,"pera, limón, leche, papa, soya, frijoles, arroz, pollo","Receta deliciosa con soya, papa, frijoles.",70,fácil
+Receta 242,ensalada,EE.UU.,"mostaza, yogur, huevo, lentejas, cebolla, mantequilla, aguacate, queso","Receta deliciosa con mantequilla, cebolla, yogur, mostaza, lentejas, queso.",100,media
+Receta 243,cena,EE.UU.,"mostaza, manzana, queso, banano, espinaca","Receta deliciosa con queso, banano, manzana, mostaza, espinaca.",89,media
+Receta 244,almuerzo,Colombia,"vinagre, papa, champiñones, aceite de oliva, pescado, lentejas, queso, pasta, espinaca","Receta deliciosa con champiñones, vinagre, pasta, queso.",120,difícil
+Receta 245,ensalada,España,"huevo, aguacate, queso, mantequilla, zanahoria, pollo, sal, lentejas","Receta deliciosa con queso, zanahoria, sal, huevo, lentejas.",62,fácil
+Receta 246,almuerzo,España,"ajo, salsa de tomate, pasta, manzana, vinagre","Receta deliciosa con vinagre, salsa de tomate, pasta, ajo, manzana.",77,media
+Receta 247,bebida,Perú,"pan, pasta, carne, espinaca, miel, pera, salsa de tomate, mostaza, sal","Receta deliciosa con salsa de tomate, pasta, carne, mostaza.",95,media
+Receta 248,sopa,España,"banano, frijoles, mostaza, pepino, cebolla","Receta deliciosa con pepino, banano, frijoles, cebolla.",9,fácil
+Receta 249,cena,Francia,"pera, ajo, vinagre, carne, mantequilla, zanahoria, maíz, espinaca, banano, papa","Receta deliciosa con maíz, zanahoria, pera, ajo, banano, papa.",21,media
+Receta 250,snack,China,"queso, espinaca, arroz, aguacate, yogur, mantequilla, banano, carne, miel","Receta deliciosa con queso, arroz, banano, carne, aguacate.",110,difícil
+Receta 251,almuerzo,Japón,"frijoles, ajo, limón, carne, pera, fresas, mantequilla, leche, salsa de tomate, pescado","Receta deliciosa con frijoles, carne, pera, ajo, limón, pescado.",40,media
+Receta 252,cena,Perú,"pescado, pasta, pan, carne, tomate, huevo","Receta deliciosa con huevo, pasta, carne, tomate.",88,fácil
+Receta 253,snack,Francia,"zanahoria, tomate, cebolla, leche, aceite de oliva, soya, arroz, salsa de tomate","Receta deliciosa con leche, cebolla, arroz, zanahoria.",80,media
+Receta 254,postre,Perú,"zanahoria, pera, soya, frijoles, sal, pollo, pasta","Receta deliciosa con frijoles, pasta, sal.",77,media
+Receta 255,almuerzo,EE.UU.,"champiñones, limón, espinaca, huevo, pepino, queso, pan, aguacate, ajo, pasta","Receta deliciosa con aguacate, ajo, champiñones, pepino.",45,fácil
+Receta 256,cena,India,"queso, banano, salsa de tomate, ajo, pasta","Receta deliciosa con salsa de tomate, banano, pasta, queso, ajo.",28,fácil
+Receta 257,ensalada,Japón,"aceite de oliva, zanahoria, lentejas, huevo, mostaza","Receta deliciosa con aceite de oliva, mostaza, zanahoria.",8,difícil
+Receta 258,almuerzo,Colombia,"banano, arroz, miel, queso, carne, espinaca, cebolla, pescado, soya, maíz","Receta deliciosa con miel, queso, cebolla, maíz, arroz.",5,media
+Receta 259,cena,Perú,"aceite de oliva, pan, papa, mantequilla, zanahoria, limón, banano, pollo, huevo, maíz","Receta deliciosa con pan, banano, papa, pollo.",118,fácil
+Receta 260,ensalada,Colombia,"mantequilla, huevo, banano, tomate, maíz, frijoles, pepino, manzana","Receta deliciosa con manzana, pepino, maíz, frijoles.",95,fácil
+Receta 261,bebida,Japón,"tomate, leche, limón, pasta, yogur, espinaca, arroz","Receta deliciosa con yogur, leche, arroz, tomate, limón, pasta.",88,difícil
+Receta 262,ensalada,China,"miel, pepino, papa, cebolla, tomate, aguacate","Receta deliciosa con papa, miel, cebolla, tomate.",32,media
+Receta 263,cena,Perú,"espinaca, zanahoria, pan, huevo, carne, arroz, miel, tomate, lentejas, pepino","Receta deliciosa con pepino, carne, espinaca, miel.",5,media
+Receta 264,ensalada,India,"arroz, yogur, banano, carne, salsa de tomate, pimienta, lentejas, pepino, papa, manzana","Receta deliciosa con salsa de tomate, manzana, yogur, banano.",34,difícil
+Receta 265,almuerzo,China,"pescado, aceite de oliva, pasta, mostaza, papa, leche, cebolla, pollo, manzana","Receta deliciosa con pollo, manzana, mostaza, leche, papa.",27,media
+Receta 266,almuerzo,Colombia,"cebolla, carne, pasta, banano, vinagre, mantequilla","Receta deliciosa con pasta, mantequilla, cebolla, carne, vinagre.",19,difícil
+Receta 267,sopa,Italia,"salsa de tomate, huevo, pimienta, lentejas, banano, aguacate","Receta deliciosa con pimienta, banano, lentejas, aguacate, salsa de tomate, huevo.",6,difícil
+Receta 268,bebida,Francia,"miel, fresas, mostaza, papa, pimienta, vinagre","Receta deliciosa con fresas, miel, vinagre.",8,difícil
+Receta 269,cena,China,"mostaza, papa, zanahoria, pan, fresas, ajo","Receta deliciosa con ajo, zanahoria, pan.",43,difícil
+Receta 270,postre,EE.UU.,"arroz, pasta, pera, yogur, pollo, miel, ajo, vinagre, zanahoria","Receta deliciosa con pera, yogur, arroz, zanahoria.",16,difícil
+Receta 271,postre,Japón,"vinagre, leche, maíz, cebolla, pollo","Receta deliciosa con cebolla, vinagre, pollo, leche, maíz.",18,media
+Receta 272,desayuno,México,"pescado, vinagre, banano, frijoles, salsa de tomate","Receta deliciosa con frijoles, salsa de tomate, pescado, vinagre, banano.",116,fácil
+Receta 273,sopa,España,"vinagre, yogur, frijoles, queso, pimienta","Receta deliciosa con queso, yogur, frijoles, vinagre, pimienta.",24,media
+Receta 274,cena,EE.UU.,"queso, carne, ajo, aguacate, sal, vinagre, fresas, huevo, tomate","Receta deliciosa con ajo, fresas, tomate, sal.",75,difícil
+Receta 275,ensalada,Colombia,"limón, papa, frijoles, tomate, aceite de oliva","Receta deliciosa con aceite de oliva, limón, papa.",25,difícil
+Receta 276,almuerzo,México,"carne, mostaza, pera, banano, cebolla, aguacate","Receta deliciosa con aguacate, cebolla, pera, mostaza.",26,fácil
+Receta 277,bebida,México,"papa, huevo, pepino, lentejas, arroz, vinagre","Receta deliciosa con arroz, pepino, papa, lentejas.",81,media
+Receta 278,bebida,Colombia,"maíz, limón, soya, cebolla, ajo","Receta deliciosa con ajo, limón, cebolla, soya.",82,difícil
+Receta 279,postre,Japón,"salsa de tomate, pimienta, sal, arroz, aguacate, maíz, frijoles","Receta deliciosa con maíz, pimienta, sal.",34,fácil
+Receta 280,cena,Perú,"zanahoria, queso, aceite de oliva, pan, pimienta, salsa de tomate, mantequilla","Receta deliciosa con aceite de oliva, mantequilla, queso, pan, pimienta.",54,difícil
+Receta 281,almuerzo,China,"mostaza, maíz, pollo, soya, banano, limón, cebolla, pera, arroz, pimienta","Receta deliciosa con limón, pera, arroz.",98,fácil
+Receta 282,postre,Colombia,"pera, huevo, miel, mostaza, ajo, sal, zanahoria","Receta deliciosa con sal, mostaza, huevo, ajo, zanahoria.",61,media
+Receta 283,desayuno,Japón,"pera, cebolla, champiñones, sal, miel","Receta deliciosa con pera, cebolla, miel.",78,fácil
+Receta 284,ensalada,China,"mostaza, cebolla, fresas, pan, soya, maíz, aguacate, pepino, zanahoria, sal","Receta deliciosa con fresas, aguacate, soya.",68,difícil
+Receta 285,sopa,China,"carne, huevo, aguacate, manzana, frijoles, tomate, aceite de oliva, soya, pera, fresas","Receta deliciosa con huevo, pera, fresas.",72,fácil
+Receta 286,bebida,Colombia,"manzana, mantequilla, lentejas, arroz, mostaza, leche, huevo, vinagre","Receta deliciosa con mostaza, manzana, mantequilla, huevo, vinagre.",83,media
+Receta 287,desayuno,México,"pescado, pan, pasta, papa, lentejas, pepino, salsa de tomate, carne","Receta deliciosa con pasta, salsa de tomate, papa, pepino, carne.",30,difícil
+Receta 288,postre,China,"cebolla, carne, maíz, huevo, aguacate, aceite de oliva","Receta deliciosa con huevo, carne, aceite de oliva, cebolla, maíz.",24,media
+Receta 289,desayuno,México,"huevo, lentejas, mostaza, espinaca, miel, fresas, cebolla, aguacate, pasta, tomate","Receta deliciosa con tomate, espinaca, fresas.",35,fácil
+Receta 290,postre,España,"queso, zanahoria, pasta, tomate, espinaca, carne, aceite de oliva, leche, pimienta, limón","Receta deliciosa con limón, zanahoria, pasta, aceite de oliva, carne, leche.",23,difícil
+Receta 291,bebida,India,"salsa de tomate, pepino, pollo, vinagre, pan","Receta deliciosa con vinagre, pan, salsa de tomate.",32,difícil
+Receta 292,sopa,India,"pimienta, salsa de tomate, limón, pepino, mostaza, champiñones, carne","Receta deliciosa con limón, champiñones, mostaza, carne, pimienta, pepino.",93,fácil
+Receta 293,postre,China,"leche, salsa de tomate, ajo, pepino, vinagre, pimienta, pera, tomate","Receta deliciosa con leche, salsa de tomate, pepino, tomate, pimienta.",34,media
+Receta 294,cena,Colombia,"pescado, sal, maíz, pimienta, pepino, ajo, frijoles, tomate","Receta deliciosa con tomate, ajo, pepino, frijoles, sal, pescado.",14,fácil
+Receta 295,snack,Italia,"zanahoria, banano, pera, tomate, huevo, lentejas, queso, pasta, salsa de tomate, ajo","Receta deliciosa con banano, huevo, tomate, queso.",85,difícil
+Receta 296,bebida,Italia,"pepino, pera, pollo, salsa de tomate, lentejas, frijoles, soya, fresas, mostaza","Receta deliciosa con lentejas, mostaza, pollo, frijoles, soya.",62,fácil
+Receta 297,ensalada,España,"frijoles, aguacate, huevo, pepino, soya","Receta deliciosa con huevo, aguacate, frijoles.",113,fácil
+Receta 298,snack,China,"ajo, fresas, aceite de oliva, pollo, banano, papa","Receta deliciosa con papa, ajo, banano, aceite de oliva.",109,fácil
+Receta 299,almuerzo,México,"tomate, yogur, espinaca, queso, soya, pera","Receta deliciosa con tomate, yogur, espinaca, soya.",52,media
+Receta 300,snack,México,"vinagre, pasta, papa, pan, banano","Receta deliciosa con papa, banano, pasta, pan.",76,difícil
+Receta 301,desayuno,China,"fresas, zanahoria, leche, carne, yogur, mantequilla, aguacate, pasta, pimienta","Receta deliciosa con yogur, leche, carne, mantequilla, zanahoria, fresas.",80,difícil
+Receta 302,almuerzo,Francia,"papa, limón, fresas, pera, carne, pescado, maíz, espinaca","Receta deliciosa con fresas, maíz, espinaca, pera.",29,fácil
+Receta 303,postre,EE.UU.,"arroz, salsa de tomate, miel, soya, pescado, espinaca","Receta deliciosa con espinaca, salsa de tomate, arroz, pescado, soya.",103,fácil
+Receta 304,sopa,EE.UU.,"yogur, ajo, fresas, carne, vinagre, tomate, pepino","Receta deliciosa con tomate, fresas, yogur, vinagre, pepino, ajo.",30,fácil
+Receta 305,ensalada,India,"mantequilla, limón, fresas, tomate, leche, cebolla, queso, maíz, pan, lentejas","Receta deliciosa con leche, fresas, cebolla.",112,media
+Receta 306,snack,EE.UU.,"banano, maíz, papa, miel, aguacate, huevo, champiñones, soya, salsa de tomate, mostaza","Receta deliciosa con soya, miel, mostaza, huevo.",24,media
+Receta 307,bebida,México,"queso, limón, espinaca, manzana, ajo","Receta deliciosa con espinaca, queso, manzana, ajo.",25,difícil
+Receta 308,ensalada,Francia,"maíz, pasta, leche, frijoles, papa, pepino, fresas, mantequilla","Receta deliciosa con fresas, leche, frijoles, pasta, maíz, pepino.",9,difícil
+Receta 309,almuerzo,Colombia,"pollo, miel, pepino, soya, pera, lentejas, maíz","Receta deliciosa con soya, maíz, pera, pollo, miel, lentejas.",68,fácil
+Receta 310,cena,España,"frijoles, salsa de tomate, aguacate, zanahoria, lentejas","Receta deliciosa con aguacate, salsa de tomate, lentejas, zanahoria, frijoles.",65,difícil
+Receta 311,bebida,China,"zanahoria, aceite de oliva, sal, mostaza, fresas, miel","Receta deliciosa con fresas, miel, zanahoria.",65,difícil
+Receta 312,ensalada,Francia,"manzana, soya, cebolla, mantequilla, pan, frijoles, salsa de tomate, papa","Receta deliciosa con manzana, soya, salsa de tomate, cebolla, mantequilla, papa.",69,media
+Receta 313,ensalada,Japón,"yogur, pimienta, salsa de tomate, carne, sal, pan","Receta deliciosa con yogur, salsa de tomate, carne.",70,fácil
+Receta 314,snack,Japón,"banano, sal, mantequilla, soya, pan","Receta deliciosa con pan, sal, soya.",105,difícil
+Receta 315,almuerzo,Colombia,"frijoles, pollo, espinaca, soya, maíz, arroz","Receta deliciosa con frijoles, arroz, espinaca.",54,difícil
+Receta 316,snack,China,"fresas, papa, mostaza, frijoles, carne, sal, champiñones, lentejas","Receta deliciosa con frijoles, champiñones, fresas, sal, carne, lentejas.",43,media
+Receta 317,cena,China,"salsa de tomate, manzana, banano, maíz, soya, pimienta, miel, arroz, pera, lentejas","Receta deliciosa con pera, miel, banano, lentejas, soya.",111,difícil
+Receta 318,cena,India,"pan, mostaza, mantequilla, fresas, salsa de tomate, queso, banano, pollo, arroz, frijoles","Receta deliciosa con mostaza, salsa de tomate, fresas, frijoles, queso.",114,media
+Receta 319,snack,México,"espinaca, soya, ajo, arroz, vinagre, zanahoria, huevo, pimienta, lentejas","Receta deliciosa con huevo, ajo, pimienta, zanahoria, espinaca.",10,fácil
+Receta 320,almuerzo,EE.UU.,"frijoles, tomate, papa, banano, lentejas, pepino, aguacate, limón, huevo, maíz","Receta deliciosa con tomate, pepino, frijoles.",75,media
+Receta 321,ensalada,China,"miel, pan, champiñones, manzana, aguacate, vinagre, carne, espinaca, ajo, zanahoria","Receta deliciosa con pan, vinagre, aguacate.",64,media
+Receta 322,bebida,Francia,"maíz, arroz, mantequilla, lentejas, limón, soya","Receta deliciosa con limón, lentejas, arroz, mantequilla, maíz, soya.",11,difícil
+Receta 323,ensalada,Perú,"vinagre, cebolla, espinaca, miel, frijoles, pescado, limón, mostaza, soya, zanahoria","Receta deliciosa con soya, mostaza, zanahoria, pescado, espinaca, cebolla.",82,difícil
+Receta 324,desayuno,Colombia,"espinaca, aceite de oliva, arroz, soya, huevo, banano, carne","Receta deliciosa con soya, aceite de oliva, banano, carne, espinaca, huevo.",77,media
+Receta 325,postre,Italia,"pimienta, maíz, pan, cebolla, banano, pollo, papa, fresas, pera","Receta deliciosa con fresas, pimienta, pera.",20,difícil
+Receta 326,bebida,Perú,"pimienta, pera, carne, limón, mantequilla, aceite de oliva","Receta deliciosa con mantequilla, limón, aceite de oliva, pera, pimienta, carne.",48,fácil
+Receta 327,sopa,México,"sal, frijoles, huevo, leche, papa, lentejas, cebolla","Receta deliciosa con lentejas, papa, leche, sal.",28,fácil
+Receta 328,snack,Perú,"aceite de oliva, arroz, salsa de tomate, fresas, huevo, pera, soya, banano, queso, carne","Receta deliciosa con huevo, pera, arroz, banano.",14,difícil
+Receta 329,desayuno,Perú,"limón, arroz, salsa de tomate, cebolla, aceite de oliva, queso","Receta deliciosa con salsa de tomate, aceite de oliva, limón, queso, cebolla, arroz.",51,fácil
+Receta 330,almuerzo,España,"champiñones, banano, pera, arroz, carne, huevo","Receta deliciosa con carne, huevo, pera, arroz.",70,difícil
+Receta 331,desayuno,México,"tomate, manzana, mostaza, miel, limón, queso, pollo","Receta deliciosa con tomate, mostaza, limón, pollo.",73,difícil
+Receta 332,sopa,Perú,"banano, ajo, pera, carne, mostaza","Receta deliciosa con banano, mostaza, ajo, pera, carne.",83,fácil
+Receta 333,almuerzo,Perú,"pollo, miel, carne, vinagre, aguacate, limón, tomate, queso, pera","Receta deliciosa con queso, pera, miel, carne, pollo, vinagre.",113,fácil
+Receta 334,sopa,India,"cebolla, maíz, pera, sal, arroz, vinagre, lentejas, soya","Receta deliciosa con sal, maíz, vinagre, soya.",13,media
+Receta 335,snack,España,"queso, pepino, leche, miel, limón, ajo, pimienta","Receta deliciosa con ajo, leche, queso.",90,difícil
+Receta 336,almuerzo,EE.UU.,"pasta, mostaza, cebolla, miel, pescado, fresas","Receta deliciosa con pasta, miel, mostaza.",54,difícil
+Receta 337,ensalada,Japón,"yogur, aceite de oliva, champiñones, banano, lentejas, tomate, mantequilla, maíz, mostaza","Receta deliciosa con lentejas, tomate, aceite de oliva.",10,media
+Receta 338,desayuno,España,"mantequilla, espinaca, limón, sal, pan, champiñones","Receta deliciosa con limón, mantequilla, sal, pan, espinaca, champiñones.",19,fácil
+Receta 339,sopa,China,"mantequilla, zanahoria, espinaca, papa, banano, pescado","Receta deliciosa con mantequilla, pescado, zanahoria.",26,fácil
+Receta 340,snack,Francia,"fresas, frijoles, ajo, soya, pollo, pepino, carne, yogur, papa","Receta deliciosa con yogur, pollo, frijoles, soya, ajo, pepino.",112,media
+Receta 341,snack,EE.UU.,"pimienta, frijoles, queso, pollo, aguacate, manzana","Receta deliciosa con frijoles, manzana, aguacate, pollo, queso, pimienta.",19,media
+Receta 342,bebida,Colombia,"tomate, soya, pera, papa, champiñones, pepino, aceite de oliva, pescado","Receta deliciosa con tomate, champiñones, pepino, pera, soya, papa.",14,fácil
+Receta 343,desayuno,Perú,"pan, frijoles, banano, leche, champiñones, pera, fresas, manzana","Receta deliciosa con frijoles, banano, manzana, fresas, champiñones.",53,media
+Receta 344,postre,Perú,"mantequilla, miel, arroz, soya, tomate","Receta deliciosa con soya, mantequilla, tomate, arroz.",81,difícil
+Receta 345,ensalada,China,"espinaca, maíz, mantequilla, frijoles, pepino, aceite de oliva, arroz, pollo","Receta deliciosa con pepino, aceite de oliva, mantequilla, arroz.",34,fácil
+Receta 346,almuerzo,China,"soya, zanahoria, pepino, lentejas, pera","Receta deliciosa con pera, lentejas, pepino, soya.",35,difícil
+Receta 347,snack,India,"huevo, pepino, frijoles, aceite de oliva, manzana, zanahoria, leche, vinagre, cebolla, soya","Receta deliciosa con manzana, leche, frijoles, pepino, aceite de oliva.",113,media
+Receta 348,bebida,China,"cebolla, aguacate, maíz, limón, pepino, ajo, vinagre, mantequilla, arroz","Receta deliciosa con ajo, mantequilla, maíz, cebolla, vinagre, aguacate.",72,difícil
+Receta 349,sopa,Francia,"yogur, salsa de tomate, limón, huevo, lentejas","Receta deliciosa con limón, salsa de tomate, lentejas, yogur.",6,fácil
+Receta 350,sopa,Colombia,"huevo, carne, yogur, zanahoria, ajo, soya, papa, fresas, mostaza","Receta deliciosa con zanahoria, carne, huevo, fresas, mostaza, yogur.",82,fácil
+Receta 351,snack,Francia,"aceite de oliva, limón, pimienta, maíz, lentejas, manzana, pollo, cebolla","Receta deliciosa con aceite de oliva, manzana, cebolla, limón.",7,media
+Receta 352,almuerzo,China,"aceite de oliva, banano, pimienta, pescado, sal, salsa de tomate, limón, mantequilla, champiñones","Receta deliciosa con salsa de tomate, limón, banano, pescado.",83,difícil
+Receta 353,desayuno,España,"pasta, limón, pimienta, lentejas, pan, papa","Receta deliciosa con pasta, pan, pimienta, lentejas, papa, limón.",11,fácil
+Receta 354,sopa,Colombia,"champiñones, lentejas, cebolla, pepino, aguacate, banano, manzana, mantequilla, frijoles, pimienta","Receta deliciosa con mantequilla, lentejas, cebolla, aguacate, frijoles.",43,difícil
+Receta 355,almuerzo,Francia,"papa, pimienta, pasta, pera, manzana, champiñones, banano","Receta deliciosa con pera, champiñones, manzana.",97,difícil
+Receta 356,desayuno,México,"aceite de oliva, pollo, pimienta, banano, pepino, vinagre, mantequilla, huevo, yogur, limón","Receta deliciosa con limón, yogur, huevo, vinagre, mantequilla.",58,media
+Receta 357,almuerzo,Italia,"pera, vinagre, manzana, arroz, aceite de oliva, fresas, pepino, salsa de tomate","Receta deliciosa con salsa de tomate, aceite de oliva, fresas, pepino, vinagre.",120,difícil
+Receta 358,postre,Francia,"pescado, limón, cebolla, leche, ajo, aceite de oliva, aguacate, pan","Receta deliciosa con pan, pescado, aceite de oliva, limón, ajo, cebolla.",59,difícil
+Receta 359,ensalada,India,"aguacate, lentejas, zanahoria, pepino, limón","Receta deliciosa con limón, zanahoria, pepino, lentejas.",79,fácil
+Receta 360,postre,Japón,"fresas, banano, huevo, sal, zanahoria, pan","Receta deliciosa con fresas, banano, zanahoria, sal, huevo.",92,difícil
+Receta 361,desayuno,EE.UU.,"vinagre, fresas, pan, miel, huevo","Receta deliciosa con fresas, vinagre, miel, pan, huevo.",39,difícil
+Receta 362,almuerzo,Japón,"leche, cebolla, miel, pescado, zanahoria, aceite de oliva, papa, mostaza, maíz, soya","Receta deliciosa con mostaza, leche, maíz, aceite de oliva.",13,media
+Receta 363,postre,EE.UU.,"queso, cebolla, pera, pimienta, pescado","Receta deliciosa con pimienta, cebolla, pescado, queso, pera.",30,media
+Receta 364,postre,España,"carne, limón, soya, huevo, vinagre, maíz, manzana, pan, aceite de oliva, fresas","Receta deliciosa con carne, soya, manzana, fresas, pan.",113,difícil
+Receta 365,almuerzo,China,"limón, pera, frijoles, mostaza, pepino, manzana, salsa de tomate, miel","Receta deliciosa con frijoles, miel, pera, limón.",68,media
+Receta 366,snack,Colombia,"pescado, champiñones, huevo, banano, soya, espinaca, leche, miel, lentejas","Receta deliciosa con soya, espinaca, banano.",56,fácil
+Receta 367,bebida,España,"pan, mantequilla, soya, banano, aguacate, ajo, aceite de oliva, maíz","Receta deliciosa con aceite de oliva, soya, banano, maíz, pan, ajo.",115,difícil
+Receta 368,desayuno,EE.UU.,"soya, vinagre, champiñones, mostaza, banano, espinaca, sal","Receta deliciosa con soya, vinagre, champiñones, mostaza.",48,difícil
+Receta 369,ensalada,México,"pepino, banano, salsa de tomate, maíz, aguacate, pera, soya","Receta deliciosa con banano, soya, salsa de tomate, pera, pepino.",17,difícil
+Receta 370,bebida,Francia,"pera, arroz, mostaza, fresas, carne, soya, aceite de oliva, manzana","Receta deliciosa con aceite de oliva, arroz, soya, pera.",97,fácil
+Receta 371,almuerzo,Japón,"frijoles, mostaza, aceite de oliva, pepino, pan, fresas","Receta deliciosa con mostaza, pepino, pan, fresas, aceite de oliva, frijoles.",19,fácil
+Receta 372,almuerzo,China,"vinagre, pimienta, ajo, sal, zanahoria, banano, manzana, salsa de tomate","Receta deliciosa con vinagre, sal, salsa de tomate, manzana, zanahoria.",93,fácil
+Receta 373,postre,Italia,"salsa de tomate, vinagre, arroz, tomate, zanahoria","Receta deliciosa con vinagre, arroz, salsa de tomate.",72,difícil
+Receta 374,almuerzo,Japón,"pepino, pimienta, mostaza, aceite de oliva, pera, huevo, soya, champiñones, frijoles, salsa de tomate","Receta deliciosa con pera, pimienta, champiñones.",74,fácil
+Receta 375,almuerzo,EE.UU.,"fresas, mostaza, salsa de tomate, cebolla, lentejas, champiñones, miel, huevo","Receta deliciosa con mostaza, cebolla, miel, huevo.",37,media
+Receta 376,ensalada,Japón,"huevo, miel, pescado, yogur, frijoles, queso","Receta deliciosa con frijoles, pescado, huevo, miel.",47,difícil
+Receta 377,snack,España,"pepino, pescado, manzana, sal, salsa de tomate, frijoles, leche, mantequilla","Receta deliciosa con leche, manzana, sal, salsa de tomate, mantequilla, pepino.",65,fácil
+Receta 378,bebida,Colombia,"huevo, yogur, lentejas, frijoles, vinagre, espinaca, pollo, soya","Receta deliciosa con frijoles, soya, huevo, lentejas.",77,difícil
+Receta 379,bebida,EE.UU.,"pasta, pera, pescado, ajo, leche, cebolla","Receta deliciosa con pera, leche, pasta, ajo, pescado, cebolla.",12,media
+Receta 380,desayuno,Colombia,"vinagre, pescado, tomate, banano, aceite de oliva","Receta deliciosa con pescado, aceite de oliva, tomate, vinagre, banano.",117,media
+Receta 381,ensalada,Japón,"espinaca, tomate, aguacate, cebolla, soya, vinagre, huevo","Receta deliciosa con huevo, vinagre, tomate, cebolla, espinaca, aguacate.",106,media
+Receta 382,cena,Japón,"champiñones, aceite de oliva, papa, banano, manzana, lentejas, cebolla, pera, pepino","Receta deliciosa con papa, lentejas, manzana, pepino, champiñones, banano.",117,media
+Receta 383,snack,Perú,"carne, pera, pasta, zanahoria, pepino, vinagre, sal, manzana, maíz, queso","Receta deliciosa con maíz, zanahoria, queso, sal, pasta, pepino.",49,fácil
+Receta 384,ensalada,Perú,"pan, huevo, soya, papa, carne, lentejas, mantequilla, espinaca, yogur, miel","Receta deliciosa con pan, miel, mantequilla, papa, lentejas, huevo.",52,difícil
+Receta 385,almuerzo,China,"champiñones, pan, sal, espinaca, miel, mantequilla, limón, papa, mostaza, pasta","Receta deliciosa con sal, pasta, espinaca, champiñones, miel.",105,difícil
+Receta 386,ensalada,India,"aceite de oliva, sal, mostaza, champiñones, ajo, vinagre, papa, banano","Receta deliciosa con banano, mostaza, papa, ajo.",74,media
+Receta 387,cena,España,"soya, yogur, mantequilla, mostaza, pollo, espinaca, pimienta, aguacate, sal","Receta deliciosa con aguacate, soya, pimienta, yogur.",79,fácil
+Receta 388,desayuno,Perú,"pepino, manzana, soya, huevo, mostaza, pollo","Receta deliciosa con soya, manzana, mostaza.",66,fácil
+Receta 389,cena,Francia,"aceite de oliva, huevo, maíz, frijoles, salsa de tomate, zanahoria, queso, tomate, miel","Receta deliciosa con miel, tomate, salsa de tomate, queso, huevo.",102,fácil
+Receta 390,cena,Colombia,"pan, banano, queso, maíz, cebolla","Receta deliciosa con banano, maíz, pan.",45,fácil
+Receta 391,almuerzo,Italia,"ajo, queso, frijoles, papa, pollo, miel, zanahoria, limón, lentejas, leche","Receta deliciosa con leche, miel, limón, papa, zanahoria, ajo.",110,fácil
+Receta 392,snack,Colombia,"aceite de oliva, mostaza, pan, papa, mantequilla, pescado, manzana, pera","Receta deliciosa con mostaza, pescado, aceite de oliva, pera.",77,difícil
+Receta 393,sopa,Italia,"huevo, queso, tomate, maíz, espinaca, banano, salsa de tomate, pera","Receta deliciosa con maíz, queso, salsa de tomate, tomate, espinaca.",101,fácil
+Receta 394,sopa,España,"leche, pera, fresas, mostaza, pepino, banano, yogur, espinaca, pasta","Receta deliciosa con banano, yogur, espinaca.",104,fácil
+Receta 395,almuerzo,EE.UU.,"cebolla, ajo, huevo, pera, salsa de tomate, pimienta","Receta deliciosa con pimienta, salsa de tomate, cebolla, ajo, huevo, pera.",115,fácil
+Receta 396,ensalada,Francia,"lentejas, pasta, aceite de oliva, queso, vinagre, huevo","Receta deliciosa con pasta, vinagre, queso, huevo, lentejas.",26,fácil
+Receta 397,bebida,Italia,"yogur, limón, espinaca, sal, fresas, leche, lentejas","Receta deliciosa con yogur, limón, lentejas, leche.",57,difícil
+Receta 398,almuerzo,España,"maíz, yogur, manzana, banano, frijoles, pimienta, soya, aguacate, mostaza","Receta deliciosa con mostaza, frijoles, maíz.",62,media
+Receta 399,postre,India,"zanahoria, ajo, carne, pimienta, frijoles, yogur, mostaza, champiñones, aceite de oliva","Receta deliciosa con yogur, champiñones, pimienta, carne, frijoles, zanahoria.",34,fácil
+Receta 400,cena,Japón,"salsa de tomate, pasta, mostaza, pepino, pescado, soya, huevo","Receta deliciosa con soya, huevo, pescado.",43,media
+Receta 401,postre,China,"pollo, limón, mostaza, ajo, pasta, tomate, pan","Receta deliciosa con pan, ajo, tomate, pasta.",52,fácil
+Receta 402,cena,Perú,"pan, mantequilla, vinagre, fresas, pera","Receta deliciosa con vinagre, mantequilla, pan, fresas.",53,media
+Receta 403,almuerzo,Perú,"banano, maíz, carne, vinagre, pasta, aguacate, miel, fresas","Receta deliciosa con pasta, maíz, miel, vinagre, fresas.",65,media
+Receta 404,sopa,Japón,"miel, yogur, zanahoria, aguacate, arroz, soya, aceite de oliva","Receta deliciosa con zanahoria, yogur, aceite de oliva.",110,media
+Receta 405,snack,Italia,"salsa de tomate, papa, tomate, carne, pan, yogur, espinaca, leche, maíz, vinagre","Receta deliciosa con leche, vinagre, salsa de tomate, carne.",42,fácil
+Receta 406,postre,Colombia,"limón, tomate, lentejas, carne, fresas","Receta deliciosa con fresas, lentejas, carne.",63,difícil
+Receta 407,snack,México,"ajo, aceite de oliva, aguacate, miel, limón","Receta deliciosa con aceite de oliva, limón, ajo, aguacate, miel.",63,fácil
+Receta 408,bebida,México,"leche, papa, mantequilla, sal, ajo, zanahoria, pasta, frijoles, manzana","Receta deliciosa con manzana, pasta, sal.",113,difícil
+Receta 409,snack,Francia,"yogur, aceite de oliva, pera, limón, champiñones, cebolla, salsa de tomate, huevo, vinagre, pimienta","Receta deliciosa con aceite de oliva, champiñones, yogur, cebolla, pera, salsa de tomate.",27,fácil
+Receta 410,sopa,Colombia,"aceite de oliva, frijoles, papa, limón, zanahoria, aguacate, maíz, pescado, salsa de tomate","Receta deliciosa con frijoles, maíz, papa, pescado, aguacate, salsa de tomate.",17,difícil
+Receta 411,bebida,España,"pan, aguacate, salsa de tomate, vinagre, aceite de oliva","Receta deliciosa con vinagre, aguacate, aceite de oliva, salsa de tomate.",30,media
+Receta 412,postre,España,"tomate, queso, espinaca, arroz, huevo","Receta deliciosa con huevo, espinaca, queso, tomate, arroz.",85,difícil
+Receta 413,postre,Japón,"pepino, frijoles, salsa de tomate, pescado, aceite de oliva, pimienta","Receta deliciosa con aceite de oliva, pepino, salsa de tomate, pimienta, pescado.",29,media
+Receta 414,cena,India,"soya, carne, miel, lentejas, pasta","Receta deliciosa con carne, lentejas, pasta, miel.",21,fácil
+Receta 415,postre,EE.UU.,"miel, pollo, pera, fresas, leche, cebolla, banano, aceite de oliva, mantequilla, frijoles","Receta deliciosa con banano, leche, mantequilla.",56,difícil
+Receta 416,ensalada,España,"pera, tomate, leche, ajo, vinagre, pollo, pescado","Receta deliciosa con tomate, vinagre, pera.",25,media
+Receta 417,postre,Francia,"huevo, pera, champiñones, frijoles, ajo","Receta deliciosa con frijoles, ajo, huevo, pera, champiñones.",6,fácil
+Receta 418,ensalada,Japón,"fresas, ajo, carne, tomate, soya","Receta deliciosa con soya, fresas, carne, ajo, tomate.",64,media
+Receta 419,bebida,China,"vinagre, pasta, salsa de tomate, queso, espinaca, leche, tomate, ajo, manzana","Receta deliciosa con salsa de tomate, espinaca, manzana.",120,difícil
+Receta 420,almuerzo,China,"mostaza, zanahoria, huevo, champiñones, yogur","Receta deliciosa con champiñones, mostaza, yogur, zanahoria, huevo.",68,difícil
+Receta 421,postre,Francia,"aceite de oliva, pimienta, vinagre, carne, pera, fresas, arroz","Receta deliciosa con pimienta, aceite de oliva, pera, carne, vinagre, arroz.",19,fácil
+Receta 422,ensalada,Colombia,"pimienta, zanahoria, pasta, soya, fresas, aguacate, sal, cebolla","Receta deliciosa con sal, cebolla, fresas, zanahoria.",110,media
+Receta 423,postre,Italia,"espinaca, pan, maíz, aceite de oliva, pimienta","Receta deliciosa con pimienta, espinaca, aceite de oliva.",70,difícil
+Receta 424,ensalada,China,"manzana, pescado, salsa de tomate, fresas, miel, mostaza, limón, arroz, sal","Receta deliciosa con arroz, miel, sal.",98,fácil
+Receta 425,cena,Perú,"champiñones, yogur, huevo, aguacate, zanahoria, mostaza, manzana, miel","Receta deliciosa con mostaza, zanahoria, aguacate.",58,fácil
+Receta 426,ensalada,Colombia,"soya, salsa de tomate, pescado, aceite de oliva, pimienta, pepino","Receta deliciosa con pescado, pepino, aceite de oliva, soya, salsa de tomate, pimienta.",72,fácil
+Receta 427,bebida,Colombia,"pollo, miel, espinaca, arroz, pepino","Receta deliciosa con miel, pepino, pollo, espinaca, arroz.",42,fácil
+Receta 428,bebida,Perú,"salsa de tomate, pollo, mostaza, queso, maíz, huevo","Receta deliciosa con salsa de tomate, maíz, pollo.",94,fácil
+Receta 429,postre,India,"zanahoria, sal, pan, banano, mostaza, manzana, fresas, mantequilla, yogur","Receta deliciosa con mostaza, sal, fresas, banano, manzana, mantequilla.",61,media
+Receta 430,bebida,EE.UU.,"miel, pan, limón, pescado, fresas, yogur, tomate","Receta deliciosa con tomate, limón, pescado, fresas.",63,difícil
+Receta 431,almuerzo,Francia,"zanahoria, maíz, salsa de tomate, champiñones, huevo, papa","Receta deliciosa con champiñones, papa, maíz, huevo, zanahoria, salsa de tomate.",111,fácil
+Receta 432,cena,Perú,"pan, zanahoria, mostaza, espinaca, maíz, miel, queso, mantequilla, soya, cebolla","Receta deliciosa con zanahoria, pan, cebolla, queso, maíz.",88,difícil
+Receta 433,bebida,Perú,"mantequilla, aceite de oliva, pescado, huevo, pera, lentejas, banano, pollo","Receta deliciosa con pollo, mantequilla, huevo.",89,media
+Receta 434,snack,Colombia,"cebolla, mantequilla, papa, aceite de oliva, manzana, pepino, pan","Receta deliciosa con mantequilla, papa, pepino.",65,difícil
+Receta 435,cena,Japón,"sal, salsa de tomate, papa, aguacate, leche, pescado","Receta deliciosa con pescado, aguacate, papa, sal.",91,difícil
+Receta 436,cena,México,"papa, pasta, manzana, soya, aguacate, leche, limón, pimienta, mostaza","Receta deliciosa con aguacate, manzana, pimienta, leche, soya.",54,media
+Receta 437,postre,Perú,"fresas, maíz, pera, sal, salsa de tomate, papa, vinagre, lentejas","Receta deliciosa con salsa de tomate, papa, vinagre.",113,fácil
+Receta 438,sopa,Perú,"pera, leche, cebolla, aceite de oliva, pescado, maíz, banano, carne, arroz","Receta deliciosa con carne, maíz, banano, cebolla, leche.",75,fácil
+Receta 439,bebida,Perú,"pasta, pimienta, carne, aguacate, frijoles, mostaza, maíz","Receta deliciosa con mostaza, maíz, frijoles, pimienta, carne.",55,media
+Receta 440,postre,China,"miel, salsa de tomate, frijoles, yogur, lentejas, soya","Receta deliciosa con frijoles, yogur, miel, salsa de tomate.",34,fácil
+Receta 441,desayuno,Japón,"fresas, maíz, manzana, limón, miel, sal, pera, soya, champiñones, huevo","Receta deliciosa con champiñones, miel, fresas.",110,fácil
+Receta 442,desayuno,EE.UU.,"maíz, pepino, arroz, espinaca, miel, pera, huevo, aguacate, salsa de tomate, cebolla","Receta deliciosa con pepino, cebolla, miel.",36,media
+Receta 443,snack,Italia,"ajo, salsa de tomate, tomate, espinaca, vinagre, maíz","Receta deliciosa con tomate, ajo, salsa de tomate, maíz.",57,fácil
+Receta 444,ensalada,Colombia,"ajo, papa, fresas, pimienta, sal, huevo, zanahoria","Receta deliciosa con fresas, ajo, sal.",14,fácil
+Receta 445,desayuno,México,"pan, pasta, tomate, pera, maíz, miel, banano, champiñones, pollo","Receta deliciosa con champiñones, pollo, pan, miel, maíz.",99,fácil
+Receta 446,postre,Japón,"fresas, zanahoria, papa, lentejas, leche, queso, huevo, pera, mantequilla, miel","Receta deliciosa con papa, leche, fresas.",63,difícil
+Receta 447,ensalada,Japón,"pan, pasta, aceite de oliva, arroz, cebolla, pollo, manzana","Receta deliciosa con pan, pollo, cebolla, pasta, arroz.",72,media
+Receta 448,ensalada,Colombia,"carne, limón, pasta, aceite de oliva, pescado, vinagre, papa, tomate, mostaza","Receta deliciosa con aceite de oliva, pescado, papa, tomate, mostaza.",120,media
+Receta 449,bebida,España,"limón, miel, huevo, champiñones, manzana","Receta deliciosa con limón, huevo, miel.",62,difícil
+Receta 450,bebida,Francia,"salsa de tomate, vinagre, limón, aguacate, carne","Receta deliciosa con limón, salsa de tomate, aguacate, vinagre, carne.",61,media
+Receta 451,cena,Francia,"cebolla, leche, limón, zanahoria, pescado, soya","Receta deliciosa con leche, cebolla, soya, zanahoria, limón.",110,difícil
+Receta 452,bebida,EE.UU.,"zanahoria, limón, lentejas, arroz, cebolla, salsa de tomate, pepino, papa","Receta deliciosa con papa, pepino, lentejas, arroz, salsa de tomate.",75,fácil
+Receta 453,cena,Italia,"pera, mantequilla, pasta, zanahoria, pimienta","Receta deliciosa con pasta, mantequilla, pimienta, zanahoria, pera.",75,fácil
+Receta 454,cena,México,"soya, miel, champiñones, yogur, zanahoria","Receta deliciosa con soya, miel, champiñones, yogur, zanahoria.",17,fácil
+Receta 455,postre,España,"miel, pan, mantequilla, arroz, pollo, mostaza, pasta, espinaca","Receta deliciosa con miel, pollo, espinaca.",111,media
+Receta 456,snack,EE.UU.,"arroz, aguacate, banano, lentejas, frijoles, mantequilla, huevo, ajo, miel, carne","Receta deliciosa con miel, huevo, banano, lentejas.",8,media
+Receta 457,postre,EE.UU.,"cebolla, yogur, manzana, aceite de oliva, champiñones, tomate, pescado, pasta, carne","Receta deliciosa con champiñones, pescado, manzana, tomate, yogur, aceite de oliva.",43,media
+Receta 458,cena,Colombia,"maíz, miel, pescado, pimienta, mantequilla","Receta deliciosa con miel, maíz, pimienta, mantequilla, pescado.",76,media
+Receta 459,ensalada,EE.UU.,"pollo, mantequilla, soya, banano, vinagre, yogur, huevo, aceite de oliva","Receta deliciosa con yogur, pollo, banano, soya, mantequilla.",64,fácil
+Receta 460,bebida,Colombia,"espinaca, maíz, arroz, pepino, frijoles","Receta deliciosa con espinaca, maíz, pepino, arroz.",116,fácil
+Receta 461,snack,Colombia,"mostaza, manzana, tomate, ajo, fresas, aceite de oliva, maíz, soya","Receta deliciosa con mostaza, ajo, maíz.",24,difícil
+Receta 462,ensalada,Italia,"sal, tomate, leche, mostaza, salsa de tomate","Receta deliciosa con tomate, salsa de tomate, mostaza, sal.",24,media
+Receta 463,snack,Perú,"miel, lentejas, pimienta, espinaca, aguacate, mantequilla","Receta deliciosa con mantequilla, espinaca, aguacate.",91,fácil
+Receta 464,ensalada,India,"leche, mantequilla, pescado, tomate, pera, fresas, espinaca, arroz","Receta deliciosa con fresas, pera, espinaca, leche, pescado, tomate.",116,difícil
+Receta 465,desayuno,Japón,"mantequilla, pera, soya, fresas, limón, vinagre, manzana, champiñones, tomate, ajo","Receta deliciosa con ajo, tomate, mantequilla, limón, champiñones, soya.",87,media
+Receta 466,almuerzo,Perú,"vinagre, limón, pimienta, cebolla, aceite de oliva, pera","Receta deliciosa con cebolla, aceite de oliva, vinagre, limón, pera.",76,fácil
+Receta 467,cena,Francia,"frijoles, pollo, leche, pasta, salsa de tomate, pan","Receta deliciosa con leche, salsa de tomate, pan, pollo, pasta.",68,difícil
+Receta 468,bebida,India,"tomate, soya, frijoles, espinaca, pescado, vinagre, aceite de oliva, miel, mostaza, huevo","Receta deliciosa con miel, huevo, mostaza, espinaca.",18,fácil
+Receta 469,cena,Perú,"pera, huevo, salsa de tomate, leche, aceite de oliva, champiñones, aguacate","Receta deliciosa con pera, champiñones, leche, aceite de oliva, aguacate, huevo.",60,difícil
+Receta 470,postre,México,"manzana, yogur, mantequilla, frijoles, aceite de oliva, sal, espinaca","Receta deliciosa con sal, mantequilla, espinaca, yogur.",111,difícil
+Receta 471,bebida,Italia,"banano, mostaza, frijoles, pescado, pimienta, manzana, yogur, mantequilla","Receta deliciosa con frijoles, pescado, pimienta, yogur.",6,fácil
+Receta 472,sopa,Perú,"pasta, soya, pescado, carne, pera, tomate, espinaca","Receta deliciosa con espinaca, tomate, pasta, pera, carne.",104,fácil
+Receta 473,ensalada,Japón,"tomate, cebolla, leche, soya, pera, champiñones","Receta deliciosa con soya, champiñones, cebolla.",107,difícil
+Receta 474,almuerzo,Francia,"aceite de oliva, pasta, limón, leche, soya, mostaza, champiñones, papa","Receta deliciosa con leche, papa, aceite de oliva, pasta, mostaza, soya.",112,media
+Receta 475,bebida,Japón,"queso, yogur, cebolla, lentejas, manzana, miel, zanahoria","Receta deliciosa con zanahoria, miel, manzana.",33,fácil
+Receta 476,postre,Francia,"leche, champiñones, papa, vinagre, miel, aceite de oliva","Receta deliciosa con miel, vinagre, aceite de oliva, leche, papa.",7,fácil
+Receta 477,cena,EE.UU.,"tomate, pera, fresas, aceite de oliva, salsa de tomate, mostaza, banano, pescado, vinagre, miel","Receta deliciosa con pescado, pera, tomate, banano, mostaza, vinagre.",92,fácil
+Receta 478,postre,Japón,"frijoles, limón, pimienta, manzana, ajo, mostaza, salsa de tomate","Receta deliciosa con mostaza, manzana, ajo, limón, frijoles, salsa de tomate.",58,difícil
+Receta 479,ensalada,Italia,"soya, yogur, pasta, maíz, huevo","Receta deliciosa con huevo, soya, pasta, maíz.",81,difícil
+Receta 480,sopa,México,"papa, pollo, fresas, vinagre, queso","Receta deliciosa con fresas, vinagre, pollo.",112,fácil
+Receta 481,sopa,EE.UU.,"maíz, leche, fresas, vinagre, yogur, queso, soya, pan","Receta deliciosa con yogur, maíz, vinagre, soya.",49,fácil
+Receta 482,bebida,Francia,"espinaca, fresas, vinagre, mostaza, aceite de oliva, champiñones, arroz, pera, huevo","Receta deliciosa con arroz, pera, espinaca, vinagre, fresas.",114,fácil
+Receta 483,sopa,India,"fresas, maíz, cebolla, pan, salsa de tomate, vinagre, queso, mostaza, manzana, aguacate","Receta deliciosa con aguacate, pan, maíz, vinagre.",19,media
+Receta 484,desayuno,México,"banano, manzana, mostaza, salsa de tomate, maíz, zanahoria, pera, frijoles, ajo","Receta deliciosa con ajo, mostaza, pera, frijoles.",103,fácil
+Receta 485,bebida,México,"zanahoria, miel, leche, fresas, pollo, cebolla","Receta deliciosa con leche, fresas, zanahoria.",55,media
+Receta 486,almuerzo,Japón,"carne, mantequilla, soya, frijoles, aceite de oliva, pescado, pan, ajo, limón","Receta deliciosa con mantequilla, carne, pescado, frijoles, pan.",114,fácil
+Receta 487,desayuno,EE.UU.,"queso, zanahoria, pimienta, yogur, frijoles, ajo","Receta deliciosa con pimienta, queso, frijoles.",103,difícil
+Receta 488,desayuno,Colombia,"pepino, soya, aguacate, pera, espinaca, sal","Receta deliciosa con aguacate, sal, soya, espinaca, pera, pepino.",106,difícil
+Receta 489,sopa,España,"maíz, banano, manzana, pasta, leche, pollo, aceite de oliva","Receta deliciosa con aceite de oliva, pollo, manzana.",23,fácil
+Receta 490,postre,México,"sal, pepino, salsa de tomate, arroz, espinaca, banano, cebolla","Receta deliciosa con banano, espinaca, salsa de tomate, sal.",62,difícil
+Receta 491,almuerzo,Francia,"cebolla, espinaca, tomate, aceite de oliva, yogur, soya, salsa de tomate, pepino","Receta deliciosa con espinaca, pepino, aceite de oliva, soya, yogur, cebolla.",20,media
+Receta 492,postre,China,"salsa de tomate, pera, vinagre, mostaza, mantequilla, pan","Receta deliciosa con salsa de tomate, pan, vinagre.",79,fácil
+Receta 493,cena,EE.UU.,"pescado, pasta, soya, pimienta, champiñones, miel, pan, aceite de oliva, pera, carne","Receta deliciosa con pan, miel, champiñones.",62,difícil
+Receta 494,ensalada,Francia,"aguacate, queso, sal, ajo, vinagre, pera, mostaza","Receta deliciosa con queso, aguacate, mostaza, pera, vinagre.",17,fácil
+Receta 495,almuerzo,Francia,"pera, salsa de tomate, zanahoria, tomate, champiñones","Receta deliciosa con zanahoria, salsa de tomate, pera, champiñones, tomate.",32,fácil
+Receta 496,desayuno,Colombia,"maíz, huevo, tomate, pan, champiñones","Receta deliciosa con pan, maíz, tomate, champiñones, huevo.",104,media
+Receta 497,bebida,Japón,"huevo, cebolla, frijoles, pan, lentejas, manzana, pepino, arroz, soya","Receta deliciosa con arroz, manzana, pepino, soya.",12,fácil
+Receta 498,snack,Italia,"cebolla, manzana, frijoles, banano, mantequilla, limón, huevo, sal, mostaza","Receta deliciosa con manzana, huevo, limón, mostaza, frijoles.",89,media
+Receta 499,cena,Colombia,"pasta, espinaca, banano, mantequilla, yogur, pimienta, lentejas, huevo, pollo, soya","Receta deliciosa con pasta, huevo, pimienta.",72,difícil
+Receta 500,postre,China,"carne, manzana, tomate, soya, pera, yogur, leche, mostaza, pescado","Receta deliciosa con pescado, pera, soya, manzana, carne.",107,difícil
+Receta 501,desayuno,México,"champiñones, carne, mostaza, arroz, cebolla, pasta, queso, limón, miel, aceite de oliva","Receta deliciosa con arroz, champiñones, miel, pasta, limón.",117,difícil
+Receta 502,cena,España,"soya, papa, leche, banano, arroz, vinagre, aguacate, mostaza","Receta deliciosa con leche, aguacate, banano.",37,difícil
+Receta 503,snack,España,"arroz, manzana, huevo, aguacate, soya","Receta deliciosa con arroz, huevo, manzana, aguacate.",105,media
+Receta 504,sopa,España,"queso, cebolla, soya, pimienta, ajo, vinagre, banano, pan, miel","Receta deliciosa con soya, banano, ajo, cebolla, miel, queso.",97,media
+Receta 505,ensalada,India,"fresas, sal, salsa de tomate, lentejas, mantequilla, pan, tomate","Receta deliciosa con tomate, lentejas, salsa de tomate, fresas, sal, pan.",57,difícil
+Receta 506,ensalada,Japón,"lentejas, banano, pollo, aguacate, espinaca, huevo, ajo, fresas, pepino","Receta deliciosa con lentejas, pepino, aguacate, huevo, banano.",44,media
+Receta 507,snack,India,"maíz, carne, papa, leche, pepino, fresas, frijoles","Receta deliciosa con fresas, maíz, pepino, frijoles.",67,difícil
+Receta 508,cena,India,"frijoles, mantequilla, huevo, pimienta, manzana, sal","Receta deliciosa con huevo, manzana, pimienta.",68,fácil
+Receta 509,bebida,China,"arroz, manzana, carne, salsa de tomate, soya, vinagre, pescado, aguacate","Receta deliciosa con carne, pescado, soya, arroz, manzana.",106,fácil
+Receta 510,postre,Italia,"espinaca, pescado, zanahoria, mostaza, frijoles, sal","Receta deliciosa con mostaza, frijoles, zanahoria.",79,fácil
+Receta 511,almuerzo,Japón,"zanahoria, pera, mostaza, sal, pepino, fresas, arroz, champiñones, leche, banano","Receta deliciosa con mostaza, fresas, pera, banano, zanahoria.",53,media
+Receta 512,ensalada,China,"ajo, salsa de tomate, vinagre, pan, pasta, leche, soya","Receta deliciosa con ajo, vinagre, salsa de tomate, leche.",44,difícil
+Receta 513,cena,China,"pan, champiñones, espinaca, tomate, pepino, zanahoria, pollo, pera","Receta deliciosa con pollo, espinaca, pan, tomate.",76,media
+Receta 514,postre,Italia,"pera, tomate, queso, mantequilla, carne, manzana, huevo","Receta deliciosa con tomate, manzana, pera, huevo.",31,fácil
+Receta 515,cena,China,"huevo, aguacate, cebolla, pimienta, sal, leche, pan, aceite de oliva","Receta deliciosa con huevo, leche, pan, sal, aguacate, cebolla.",111,fácil
+Receta 516,almuerzo,Perú,"tomate, papa, pera, yogur, huevo, vinagre, banano, espinaca, miel, zanahoria","Receta deliciosa con banano, tomate, yogur, huevo, vinagre, espinaca.",61,media
+Receta 517,cena,Perú,"pimienta, sal, pepino, yogur, fresas, champiñones","Receta deliciosa con pepino, yogur, sal, fresas.",119,media
+Receta 518,snack,Perú,"soya, carne, queso, ajo, tomate, pasta, pan, pepino, frijoles, manzana","Receta deliciosa con ajo, carne, tomate.",55,media
+Receta 519,almuerzo,España,"lentejas, maíz, carne, pescado, aguacate, pepino, frijoles","Receta deliciosa con pepino, pescado, maíz, aguacate, frijoles, lentejas.",59,difícil
+Receta 520,ensalada,México,"mostaza, papa, frijoles, pimienta, fresas, miel","Receta deliciosa con frijoles, fresas, mostaza, pimienta.",55,difícil
+Receta 521,desayuno,China,"manzana, aguacate, huevo, miel, pera, arroz, queso, salsa de tomate, yogur, fresas","Receta deliciosa con huevo, yogur, aguacate, queso, pera, salsa de tomate.",81,media
+Receta 522,almuerzo,India,"huevo, pasta, pimienta, pepino, arroz, limón","Receta deliciosa con limón, arroz, pepino, pimienta, pasta, huevo.",25,difícil
+Receta 523,sopa,Colombia,"banano, pimienta, carne, aguacate, yogur, pasta, maíz, pollo, zanahoria, pera","Receta deliciosa con pimienta, yogur, banano, pollo, aguacate.",96,fácil
+Receta 524,desayuno,India,"aceite de oliva, pan, pasta, leche, frijoles, pepino, sal, pescado, yogur","Receta deliciosa con pasta, aceite de oliva, leche.",32,difícil
+Receta 525,cena,EE.UU.,"huevo, carne, pera, queso, cebolla, aguacate, maíz, mostaza, vinagre","Receta deliciosa con mostaza, aguacate, maíz, huevo, carne, queso.",78,media
+Receta 526,ensalada,México,"papa, pepino, huevo, mostaza, fresas, pan","Receta deliciosa con papa, huevo, pepino, pan, fresas.",106,media
+Receta 527,snack,Italia,"huevo, limón, vinagre, banano, yogur, fresas, soya, manzana, zanahoria, pimienta","Receta deliciosa con manzana, huevo, fresas.",36,fácil
+Receta 528,snack,México,"pimienta, aguacate, lentejas, miel, pescado, yogur, pollo","Receta deliciosa con pollo, yogur, aguacate, miel.",14,media
+Receta 529,bebida,EE.UU.,"arroz, salsa de tomate, vinagre, carne, manzana, cebolla, lentejas, sal, ajo","Receta deliciosa con carne, salsa de tomate, cebolla, vinagre, sal.",84,difícil
+Receta 530,almuerzo,India,"maíz, salsa de tomate, aguacate, ajo, lentejas, queso, zanahoria, mantequilla, pescado, fresas","Receta deliciosa con zanahoria, aguacate, maíz.",19,media
+Receta 531,ensalada,Perú,"mantequilla, soya, lentejas, champiñones, arroz, pepino, aceite de oliva, huevo","Receta deliciosa con arroz, mantequilla, soya, champiñones, lentejas, pepino.",26,media
+Receta 532,snack,Perú,"papa, lentejas, pera, ajo, arroz, pescado, salsa de tomate, maíz, aguacate, leche","Receta deliciosa con arroz, maíz, ajo, salsa de tomate, lentejas, pescado.",9,media
+Receta 533,sopa,China,"banano, salsa de tomate, leche, fresas, maíz, pan, sal","Receta deliciosa con leche, fresas, banano.",74,difícil
+Receta 534,desayuno,Francia,"huevo, aguacate, vinagre, miel, frijoles, cebolla, maíz, lentejas, manzana","Receta deliciosa con vinagre, lentejas, cebolla, huevo, miel, maíz.",51,fácil
+Receta 535,snack,España,"soya, zanahoria, pasta, sal, miel","Receta deliciosa con sal, zanahoria, pasta.",50,fácil
+Receta 536,bebida,Italia,"frijoles, tomate, sal, miel, espinaca, pan","Receta deliciosa con espinaca, tomate, frijoles.",25,media
+Receta 537,postre,China,"huevo, arroz, ajo, zanahoria, miel","Receta deliciosa con zanahoria, miel, huevo, arroz, ajo.",78,difícil
+Receta 538,cena,China,"lentejas, tomate, carne, aguacate, sal, vinagre, frijoles, yogur","Receta deliciosa con vinagre, sal, aguacate, lentejas, frijoles, carne.",114,fácil
+Receta 539,snack,Italia,"frijoles, pepino, miel, pan, pollo, soya","Receta deliciosa con miel, frijoles, soya, pan, pepino.",90,media
+Receta 540,almuerzo,Francia,"maíz, cebolla, fresas, banano, soya, mostaza, arroz, limón","Receta deliciosa con soya, mostaza, maíz, limón, banano.",57,difícil
+Receta 541,snack,Japón,"huevo, salsa de tomate, tomate, limón, pollo, yogur","Receta deliciosa con pollo, limón, salsa de tomate.",76,media
+Receta 542,bebida,Perú,"zanahoria, pan, leche, vinagre, papa, ajo, pera, arroz, soya","Receta deliciosa con vinagre, zanahoria, pera, pan.",107,difícil
+Receta 543,almuerzo,España,"zanahoria, pescado, salsa de tomate, cebolla, fresas, espinaca","Receta deliciosa con cebolla, salsa de tomate, pescado, fresas.",40,difícil
+Receta 544,ensalada,China,"arroz, aceite de oliva, zanahoria, cebolla, yogur, soya, vinagre","Receta deliciosa con cebolla, aceite de oliva, zanahoria, soya.",27,media
+Receta 545,sopa,España,"maíz, espinaca, pescado, pepino, cebolla, sal, lentejas","Receta deliciosa con espinaca, maíz, pescado, lentejas, cebolla.",62,media
+Receta 546,desayuno,Japón,"ajo, frijoles, sal, aceite de oliva, leche, limón, yogur, papa, manzana","Receta deliciosa con papa, manzana, frijoles, yogur.",108,difícil
+Receta 547,cena,India,"pimienta, queso, pepino, pera, limón","Receta deliciosa con pera, pimienta, queso, limón.",116,fácil
+Receta 548,sopa,Italia,"huevo, frijoles, lentejas, carne, espinaca, soya, mantequilla, champiñones, leche","Receta deliciosa con huevo, lentejas, frijoles, carne, leche.",28,media
+Receta 549,postre,Japón,"fresas, frijoles, maíz, pepino, pescado, salsa de tomate","Receta deliciosa con salsa de tomate, pepino, frijoles.",90,fácil
+Receta 550,bebida,México,"salsa de tomate, pepino, arroz, aceite de oliva, miel, manzana, pescado, carne, mantequilla","Receta deliciosa con pepino, salsa de tomate, miel, carne.",28,difícil
+Receta 551,bebida,Colombia,"champiñones, pasta, ajo, zanahoria, mostaza, papa","Receta deliciosa con mostaza, zanahoria, champiñones, pasta, papa.",41,difícil
+Receta 552,almuerzo,China,"pollo, manzana, pepino, pescado, pera, mantequilla, maíz, cebolla, papa","Receta deliciosa con pescado, pepino, manzana, maíz, mantequilla.",40,difícil
+Receta 553,cena,Francia,"pasta, aceite de oliva, sal, pan, tomate","Receta deliciosa con tomate, sal, aceite de oliva, pasta.",33,difícil
+Receta 554,postre,China,"arroz, sal, yogur, espinaca, leche","Receta deliciosa con leche, arroz, yogur, espinaca, sal.",20,fácil
+Receta 555,postre,México,"banano, cebolla, vinagre, zanahoria, aguacate, espinaca, papa, pasta, carne, pera","Receta deliciosa con carne, espinaca, aguacate, zanahoria, banano.",53,difícil
+Receta 556,bebida,India,"miel, pollo, manzana, tomate, cebolla","Receta deliciosa con miel, manzana, tomate.",58,fácil
+Receta 557,sopa,Japón,"miel, carne, espinaca, fresas, maíz, pan, arroz, zanahoria","Receta deliciosa con miel, carne, arroz, maíz, zanahoria, pan.",36,media
+Receta 558,desayuno,Francia,"ajo, miel, banano, salsa de tomate, pimienta, champiñones, huevo","Receta deliciosa con miel, huevo, ajo, champiñones, banano.",79,media
+Receta 559,almuerzo,Francia,"leche, pollo, mantequilla, yogur, espinaca, salsa de tomate, arroz","Receta deliciosa con arroz, pollo, yogur, salsa de tomate, leche, espinaca.",78,difícil
+Receta 560,desayuno,Italia,"pera, lentejas, sal, huevo, pescado, salsa de tomate, mostaza, leche, queso, fresas","Receta deliciosa con queso, salsa de tomate, mostaza, lentejas, pescado, pera.",120,fácil
+Receta 561,ensalada,Colombia,"tomate, cebolla, carne, pepino, salsa de tomate, pera, lentejas, aguacate, pescado","Receta deliciosa con tomate, cebolla, pepino.",17,difícil
+Receta 562,desayuno,EE.UU.,"lentejas, papa, pan, pescado, pasta, soya","Receta deliciosa con pescado, lentejas, pan, soya.",97,fácil
+Receta 563,sopa,China,"huevo, pepino, yogur, pera, espinaca, arroz, mostaza, sal, pimienta","Receta deliciosa con pimienta, huevo, sal.",18,fácil
+Receta 564,bebida,Japón,"pollo, espinaca, tomate, pan, sal, champiñones, manzana, cebolla","Receta deliciosa con espinaca, champiñones, tomate, manzana, sal, pan.",82,fácil
+Receta 565,bebida,China,"soya, pasta, fresas, pollo, mantequilla, manzana, aceite de oliva, banano, leche","Receta deliciosa con pasta, banano, mantequilla, manzana, fresas.",9,media
+Receta 566,ensalada,Francia,"mantequilla, carne, miel, mostaza, champiñones, pera, lentejas, tomate, banano, ajo","Receta deliciosa con champiñones, mantequilla, lentejas, tomate, mostaza, miel.",97,media
+Receta 567,bebida,Perú,"pimienta, miel, fresas, manzana, huevo, salsa de tomate, leche","Receta deliciosa con leche, miel, fresas.",68,fácil
+Receta 568,sopa,Italia,"huevo, aceite de oliva, miel, pepino, cebolla, mantequilla, espinaca, vinagre","Receta deliciosa con pepino, cebolla, espinaca.",26,media
+Receta 569,snack,EE.UU.,"papa, carne, frijoles, pan, salsa de tomate","Receta deliciosa con frijoles, carne, pan, papa.",73,difícil
+Receta 570,postre,Perú,"papa, pepino, pescado, pan, miel, fresas","Receta deliciosa con pescado, pan, pepino.",97,difícil
+Receta 571,postre,España,"salsa de tomate, zanahoria, espinaca, lentejas, queso, soya, limón","Receta deliciosa con queso, limón, lentejas, salsa de tomate, zanahoria, espinaca.",24,media
+Receta 572,sopa,México,"tomate, pimienta, frijoles, lentejas, aguacate, yogur, papa, zanahoria","Receta deliciosa con lentejas, pimienta, papa.",47,media
+Receta 573,cena,China,"pepino, arroz, fresas, pasta, mantequilla","Receta deliciosa con pepino, mantequilla, fresas, pasta, arroz.",59,fácil
+Receta 574,postre,Japón,"espinaca, fresas, miel, pescado, limón","Receta deliciosa con espinaca, pescado, limón.",65,difícil
+Receta 575,bebida,Italia,"salsa de tomate, yogur, aguacate, pera, mantequilla, limón, banano, cebolla, pollo, soya","Receta deliciosa con salsa de tomate, pollo, banano.",37,difícil
+Receta 576,bebida,India,"manzana, pescado, aguacate, pera, pan, carne, soya, ajo","Receta deliciosa con pescado, aguacate, manzana, carne.",109,difícil
+Receta 577,almuerzo,Francia,"lentejas, pollo, pera, carne, aceite de oliva, champiñones","Receta deliciosa con pollo, aceite de oliva, carne, champiñones.",110,difícil
+Receta 578,cena,España,"arroz, limón, papa, pepino, soya","Receta deliciosa con soya, papa, arroz, pepino, limón.",87,fácil
+Receta 579,cena,EE.UU.,"sal, lentejas, pescado, frijoles, pepino","Receta deliciosa con pescado, lentejas, frijoles, pepino, sal.",109,difícil
+Receta 580,desayuno,Francia,"ajo, queso, fresas, limón, banano, huevo, espinaca, aceite de oliva, mostaza","Receta deliciosa con mostaza, queso, banano, limón, ajo, espinaca.",75,difícil
+Receta 581,bebida,Francia,"pescado, soya, frijoles, pollo, maíz","Receta deliciosa con maíz, pollo, soya, frijoles, pescado.",93,difícil
+Receta 582,snack,India,"frijoles, tomate, pera, manzana, fresas, yogur","Receta deliciosa con pera, yogur, manzana, frijoles, tomate, fresas.",86,fácil
+Receta 583,almuerzo,España,"pan, leche, limón, queso, frijoles, pescado","Receta deliciosa con queso, pan, leche.",31,difícil
+Receta 584,cena,India,"soya, miel, pepino, banano, fresas","Receta deliciosa con fresas, banano, soya.",43,fácil
+Receta 585,almuerzo,Perú,"pepino, carne, ajo, aguacate, pan, mantequilla, zanahoria","Receta deliciosa con pepino, ajo, carne, pan, mantequilla.",13,fácil
+Receta 586,desayuno,India,"mantequilla, espinaca, mostaza, ajo, lentejas","Receta deliciosa con mostaza, lentejas, ajo, mantequilla, espinaca.",51,difícil
+Receta 587,cena,Japón,"queso, fresas, tomate, pimienta, cebolla, lentejas, salsa de tomate, arroz, manzana","Receta deliciosa con arroz, pimienta, tomate.",18,fácil
+Receta 588,postre,EE.UU.,"pollo, banano, leche, pescado, papa","Receta deliciosa con leche, pollo, papa, pescado, banano.",62,difícil
+Receta 589,ensalada,México,"champiñones, banano, arroz, soya, tomate, maíz, pescado, pera, fresas","Receta deliciosa con arroz, banano, tomate, maíz, champiñones.",44,media
+Receta 590,desayuno,India,"pepino, yogur, pera, fresas, pan, pimienta, leche","Receta deliciosa con pepino, leche, yogur.",89,fácil
+Receta 591,postre,Francia,"pan, frijoles, sal, zanahoria, maíz, soya, lentejas, pescado","Receta deliciosa con sal, frijoles, pescado.",16,media
+Receta 592,bebida,China,"pollo, sal, mostaza, pan, vinagre","Receta deliciosa con pan, pollo, sal.",72,fácil
+Receta 593,almuerzo,España,"pepino, leche, aguacate, carne, lentejas, soya, espinaca, yogur","Receta deliciosa con pepino, soya, yogur, espinaca.",51,fácil
+Receta 594,postre,Francia,"fresas, cebolla, frijoles, pepino, maíz, ajo, aceite de oliva","Receta deliciosa con ajo, maíz, pepino, frijoles, fresas.",54,difícil
+Receta 595,desayuno,Perú,"maíz, tomate, pan, queso, aguacate, huevo","Receta deliciosa con aguacate, pan, queso, huevo.",40,media
+Receta 596,almuerzo,Japón,"zanahoria, queso, carne, salsa de tomate, aceite de oliva, pera, sal","Receta deliciosa con salsa de tomate, pera, aceite de oliva, zanahoria.",87,media
+Receta 597,desayuno,España,"fresas, ajo, lentejas, pan, yogur, espinaca","Receta deliciosa con yogur, fresas, ajo, pan, espinaca.",44,difícil
+Receta 598,desayuno,EE.UU.,"arroz, yogur, pan, aceite de oliva, pollo","Receta deliciosa con aceite de oliva, arroz, pollo, yogur, pan.",105,media
+Receta 599,ensalada,Japón,"sal, yogur, maíz, pepino, aguacate, mantequilla, pescado","Receta deliciosa con aguacate, sal, mantequilla.",19,difícil
+Receta 600,cena,España,"yogur, arroz, limón, fresas, salsa de tomate, maíz, pasta, cebolla, aguacate, leche","Receta deliciosa con limón, arroz, pasta, leche, yogur.",22,difícil
+Receta 601,snack,México,"leche, champiñones, pepino, salsa de tomate, queso, frijoles","Receta deliciosa con queso, frijoles, leche, pepino, champiñones.",21,difícil
+Receta 602,ensalada,China,"pepino, maíz, tomate, manzana, cebolla, queso, arroz, pera, aguacate","Receta deliciosa con aguacate, pera, manzana, maíz, cebolla.",38,fácil
+Receta 603,sopa,Japón,"pimienta, huevo, leche, queso, mantequilla, soya, yogur, frijoles","Receta deliciosa con pimienta, queso, yogur, leche, soya.",94,fácil
+Receta 604,ensalada,EE.UU.,"pimienta, pasta, pepino, pan, vinagre, sal, tomate, soya, frijoles, queso","Receta deliciosa con frijoles, tomate, vinagre, pan, sal.",12,difícil
+Receta 605,snack,España,"yogur, leche, champiñones, pepino, manzana, carne, aceite de oliva, papa, limón","Receta deliciosa con pepino, yogur, champiñones, aceite de oliva, papa.",36,fácil
+Receta 606,postre,EE.UU.,"mantequilla, arroz, pan, ajo, mostaza, salsa de tomate, frijoles, champiñones, yogur","Receta deliciosa con champiñones, pan, arroz.",102,media
+Receta 607,desayuno,Perú,"lentejas, salsa de tomate, sal, cebolla, vinagre","Receta deliciosa con vinagre, cebolla, salsa de tomate, sal.",74,media
+Receta 608,cena,EE.UU.,"pasta, vinagre, pera, pollo, soya, carne, cebolla","Receta deliciosa con carne, pera, pollo, pasta, cebolla.",119,media
+Receta 609,bebida,España,"pescado, papa, miel, vinagre, pimienta, arroz, yogur, soya, pera","Receta deliciosa con yogur, pescado, arroz, pimienta.",55,difícil
+Receta 610,postre,Perú,"pollo, huevo, maíz, frijoles, tomate, pasta, aguacate, salsa de tomate, arroz, queso","Receta deliciosa con queso, pollo, frijoles, pasta, arroz.",15,fácil
+Receta 611,sopa,Italia,"lentejas, sal, yogur, cebolla, maíz, vinagre","Receta deliciosa con vinagre, yogur, maíz, sal, lentejas, cebolla.",114,difícil
+Receta 612,sopa,Francia,"pescado, zanahoria, salsa de tomate, carne, pan, maíz, pera, yogur, champiñones, arroz","Receta deliciosa con champiñones, zanahoria, pescado, pera, arroz.",16,difícil
+Receta 613,snack,España,"lentejas, cebolla, pasta, miel, pan, pescado","Receta deliciosa con miel, pasta, lentejas, pescado, pan, cebolla.",47,media
+Receta 614,bebida,Francia,"ajo, pera, champiñones, mostaza, lentejas, yogur, aguacate, huevo, pescado","Receta deliciosa con aguacate, champiñones, ajo, yogur.",35,difícil
+Receta 615,sopa,Italia,"tomate, limón, mantequilla, ajo, pasta, aceite de oliva, espinaca","Receta deliciosa con tomate, aceite de oliva, mantequilla, pasta, limón, espinaca.",11,fácil
+Receta 616,desayuno,India,"huevo, queso, carne, pasta, tomate, vinagre, frijoles, fresas, sal","Receta deliciosa con queso, huevo, fresas, carne, frijoles.",79,difícil
+Receta 617,desayuno,México,"pan, mantequilla, tomate, pimienta, champiñones, carne, pasta","Receta deliciosa con carne, pasta, pimienta, pan.",65,media
+Receta 618,almuerzo,China,"pan, zanahoria, pescado, fresas, pimienta","Receta deliciosa con zanahoria, pimienta, pan.",101,media
+Receta 619,snack,China,"ajo, vinagre, pollo, pasta, papa, manzana, pan, espinaca, leche, pera","Receta deliciosa con vinagre, ajo, leche, pasta, pan, manzana.",97,difícil
+Receta 620,sopa,México,"espinaca, ajo, carne, vinagre, zanahoria, aguacate","Receta deliciosa con zanahoria, ajo, vinagre, aguacate, carne, espinaca.",33,difícil
+Receta 621,cena,España,"pera, miel, pepino, salsa de tomate, tomate","Receta deliciosa con pepino, salsa de tomate, miel.",32,media
+Receta 622,bebida,Perú,"pepino, leche, arroz, mantequilla, ajo, papa, miel, cebolla","Receta deliciosa con leche, papa, pepino, ajo, cebolla, arroz.",10,fácil
+Receta 623,desayuno,Colombia,"yogur, mantequilla, manzana, pimienta, pollo, champiñones","Receta deliciosa con pollo, manzana, mantequilla.",18,difícil
+Receta 624,postre,China,"pepino, manzana, miel, soya, papa, limón, champiñones, tomate, vinagre","Receta deliciosa con champiñones, manzana, miel, vinagre.",81,media
+Receta 625,snack,Italia,"vinagre, leche, pimienta, sal, zanahoria, cebolla, mantequilla, lentejas, pera, aguacate","Receta deliciosa con leche, vinagre, mantequilla, sal, pimienta, cebolla.",80,difícil
+Receta 626,ensalada,Italia,"ajo, carne, maíz, manzana, aceite de oliva, fresas, papa, pollo","Receta deliciosa con ajo, carne, maíz.",5,difícil
+Receta 627,desayuno,España,"maíz, soya, miel, zanahoria, cebolla, pescado, mantequilla, salsa de tomate, pepino, frijoles","Receta deliciosa con salsa de tomate, pepino, zanahoria, miel.",70,fácil
+Receta 628,bebida,Perú,"aceite de oliva, carne, pescado, leche, champiñones, miel, aguacate","Receta deliciosa con aguacate, carne, champiñones, miel, pescado.",62,fácil
+Receta 629,bebida,Japón,"zanahoria, ajo, mostaza, cebolla, soya, huevo, sal","Receta deliciosa con soya, mostaza, sal, zanahoria.",85,fácil
+Receta 630,sopa,Perú,"pollo, pera, mantequilla, cebolla, soya","Receta deliciosa con pollo, pera, cebolla, mantequilla.",111,fácil
+Receta 631,bebida,Francia,"vinagre, carne, aceite de oliva, lentejas, soya, pimienta, maíz, arroz, limón, espinaca","Receta deliciosa con carne, vinagre, pimienta, soya, lentejas, limón.",113,fácil
+Receta 632,cena,Colombia,"aceite de oliva, tomate, lentejas, yogur, miel, mostaza","Receta deliciosa con lentejas, yogur, miel.",57,media
+Receta 633,cena,España,"cebolla, salsa de tomate, espinaca, fresas, miel, soya, mostaza, frijoles","Receta deliciosa con mostaza, fresas, cebolla, soya.",24,difícil
+Receta 634,bebida,Italia,"champiñones, mostaza, soya, papa, maíz, salsa de tomate, fresas, arroz, aceite de oliva","Receta deliciosa con maíz, champiñones, papa, mostaza, arroz, fresas.",12,difícil
+Receta 635,bebida,Perú,"pescado, pepino, pollo, salsa de tomate, banano","Receta deliciosa con salsa de tomate, pepino, banano, pescado, pollo.",62,media
+Receta 636,almuerzo,EE.UU.,"champiñones, manzana, sal, papa, pasta","Receta deliciosa con manzana, sal, papa.",21,difícil
+Receta 637,bebida,Japón,"soya, pollo, arroz, huevo, cebolla","Receta deliciosa con pollo, huevo, soya, cebolla.",112,difícil
+Receta 638,ensalada,China,"tomate, zanahoria, mantequilla, fresas, limón, mostaza, leche, pimienta","Receta deliciosa con tomate, leche, limón, mostaza, pimienta, fresas.",104,fácil
+Receta 639,almuerzo,China,"banano, ajo, manzana, pera, mantequilla, pan, zanahoria, soya","Receta deliciosa con pera, banano, pan, mantequilla, soya, ajo.",10,media
+Receta 640,cena,España,"salsa de tomate, espinaca, pan, manzana, banano, papa, lentejas, pimienta, tomate","Receta deliciosa con papa, pimienta, lentejas, banano.",36,difícil
+Receta 641,postre,México,"papa, mantequilla, manzana, pasta, fresas, vinagre, mostaza, huevo, espinaca","Receta deliciosa con vinagre, papa, pasta, huevo, fresas, espinaca.",22,media
+Receta 642,postre,España,"mantequilla, huevo, zanahoria, manzana, champiñones, lentejas, yogur, sal, carne, queso","Receta deliciosa con zanahoria, lentejas, manzana, huevo, mantequilla, queso.",48,fácil
+Receta 643,bebida,India,"pimienta, soya, mantequilla, pescado, limón, manzana, fresas, papa, carne","Receta deliciosa con soya, papa, fresas.",120,fácil
+Receta 644,ensalada,China,"soya, champiñones, ajo, pasta, miel, limón, tomate","Receta deliciosa con ajo, limón, pasta, soya.",113,difícil
+Receta 645,cena,India,"soya, vinagre, papa, frijoles, salsa de tomate","Receta deliciosa con frijoles, salsa de tomate, soya, papa, vinagre.",52,media
+Receta 646,sopa,Perú,"pasta, lentejas, ajo, frijoles, yogur, pescado, pimienta, aguacate, pan","Receta deliciosa con frijoles, pan, pasta, ajo, pimienta, pescado.",30,media
+Receta 647,desayuno,EE.UU.,"yogur, pimienta, huevo, papa, manzana, tomate, pepino","Receta deliciosa con pepino, papa, tomate, pimienta, yogur.",103,fácil
+Receta 648,snack,España,"manzana, carne, champiñones, sal, pasta, papa, espinaca, queso, miel, banano","Receta deliciosa con champiñones, queso, papa, carne, sal, pasta.",86,difícil
+Receta 649,cena,Italia,"miel, mostaza, aceite de oliva, papa, cebolla, limón, vinagre, frijoles, sal, manzana","Receta deliciosa con vinagre, aceite de oliva, papa.",70,media
+Receta 650,bebida,México,"pasta, espinaca, pescado, miel, carne, vinagre, mantequilla","Receta deliciosa con espinaca, pasta, vinagre, miel, carne, pescado.",12,fácil
+Receta 651,postre,Italia,"lentejas, pescado, queso, mantequilla, carne, champiñones, aceite de oliva, aguacate, cebolla, espinaca","Receta deliciosa con espinaca, queso, pescado, mantequilla, aceite de oliva.",55,difícil
+Receta 652,postre,Japón,"soya, lentejas, queso, ajo, carne, frijoles, salsa de tomate, yogur, aceite de oliva","Receta deliciosa con ajo, frijoles, queso, yogur, soya, salsa de tomate.",112,fácil
+Receta 653,snack,Francia,"limón, pepino, pimienta, leche, pan","Receta deliciosa con leche, pan, limón.",19,fácil
+Receta 654,cena,Perú,"pimienta, tomate, lentejas, fresas, vinagre","Receta deliciosa con pimienta, fresas, vinagre, tomate, lentejas.",110,difícil
+Receta 655,bebida,EE.UU.,"frijoles, pepino, queso, ajo, soya, lentejas, pasta","Receta deliciosa con pepino, frijoles, soya, queso, lentejas.",78,fácil
+Receta 656,almuerzo,Italia,"aceite de oliva, yogur, pepino, carne, ajo, aguacate, papa, pollo","Receta deliciosa con ajo, pollo, yogur.",26,difícil
+Receta 657,sopa,México,"manzana, papa, ajo, sal, queso","Receta deliciosa con papa, ajo, queso, sal, manzana.",95,difícil
+Receta 658,cena,Perú,"aguacate, soya, pasta, tomate, mantequilla, huevo, salsa de tomate","Receta deliciosa con soya, huevo, pasta.",104,fácil
+Receta 659,ensalada,Japón,"salsa de tomate, pollo, frijoles, sal, leche, pescado, pimienta, arroz","Receta deliciosa con pescado, leche, salsa de tomate, sal, pollo.",98,fácil
+Receta 660,cena,España,"pan, papa, leche, yogur, pollo, pimienta, huevo, zanahoria","Receta deliciosa con papa, pan, yogur, zanahoria, pimienta.",13,fácil
+Receta 661,desayuno,India,"champiñones, sal, zanahoria, arroz, mostaza","Receta deliciosa con arroz, zanahoria, sal.",30,media
+Receta 662,almuerzo,Japón,"frijoles, pepino, champiñones, tomate, miel, pasta, lentejas","Receta deliciosa con pasta, tomate, miel.",55,difícil
+Receta 663,cena,México,"ajo, pescado, cebolla, champiñones, arroz","Receta deliciosa con pescado, arroz, cebolla, ajo, champiñones.",72,media
+Receta 664,bebida,China,"soya, papa, mostaza, huevo, pescado, banano","Receta deliciosa con mostaza, soya, pescado.",48,media
+Receta 665,snack,Colombia,"queso, espinaca, huevo, zanahoria, lentejas, aguacate","Receta deliciosa con lentejas, espinaca, aguacate, zanahoria, huevo, queso.",108,fácil
+Receta 666,cena,Francia,"espinaca, salsa de tomate, queso, papa, pescado, limón","Receta deliciosa con queso, limón, salsa de tomate, papa, espinaca, pescado.",5,media
+Receta 667,snack,Francia,"pasta, aceite de oliva, carne, banano, pimienta","Receta deliciosa con aceite de oliva, pasta, pimienta, banano, carne.",87,media
+Receta 668,postre,EE.UU.,"pera, maíz, ajo, leche, huevo","Receta deliciosa con huevo, maíz, leche, pera, ajo.",6,difícil
+Receta 669,bebida,India,"pan, frijoles, banano, champiñones, pescado, miel","Receta deliciosa con frijoles, champiñones, pescado.",10,media
+Receta 670,snack,EE.UU.,"pasta, arroz, huevo, ajo, leche","Receta deliciosa con huevo, leche, ajo, arroz, pasta.",10,difícil
+Receta 671,almuerzo,Italia,"pan, queso, pollo, aceite de oliva, miel, carne","Receta deliciosa con aceite de oliva, carne, queso, pan, miel, pollo.",68,difícil
+Receta 672,ensalada,España,"huevo, mostaza, champiñones, aceite de oliva, pera","Receta deliciosa con huevo, mostaza, pera, aceite de oliva, champiñones.",67,media
+Receta 673,snack,Perú,"aceite de oliva, pimienta, queso, cebolla, maíz","Receta deliciosa con pimienta, cebolla, maíz, queso, aceite de oliva.",67,fácil
+Receta 674,almuerzo,China,"zanahoria, pollo, lentejas, leche, soya, sal","Receta deliciosa con zanahoria, sal, pollo, lentejas.",35,fácil
+Receta 675,snack,EE.UU.,"espinaca, salsa de tomate, vinagre, mostaza, pollo, queso","Receta deliciosa con pollo, espinaca, salsa de tomate, queso.",113,difícil
+Receta 676,almuerzo,Italia,"mantequilla, papa, fresas, manzana, carne, mostaza, aceite de oliva, sal","Receta deliciosa con mostaza, fresas, manzana, carne, aceite de oliva, sal.",99,media
+Receta 677,snack,Colombia,"aguacate, pimienta, miel, salsa de tomate, banano, pollo, ajo, espinaca, tomate, mostaza","Receta deliciosa con banano, espinaca, ajo, pimienta, mostaza.",113,fácil
+Receta 678,cena,Japón,"pollo, zanahoria, mostaza, sal, queso, miel, cebolla, tomate, pasta","Receta deliciosa con queso, mostaza, pasta, pollo, cebolla, tomate.",103,media
+Receta 679,bebida,EE.UU.,"zanahoria, aguacate, lentejas, miel, sal, banano","Receta deliciosa con banano, miel, sal.",63,difícil
+Receta 680,cena,España,"pollo, maíz, carne, mantequilla, soya, pimienta, champiñones","Receta deliciosa con carne, maíz, pimienta, pollo, soya.",18,fácil
+Receta 681,snack,Francia,"pollo, huevo, pera, vinagre, mostaza, lentejas, ajo","Receta deliciosa con pera, ajo, pollo, huevo.",32,fácil
+Receta 682,ensalada,China,"pera, miel, leche, zanahoria, queso, carne, pimienta","Receta deliciosa con pimienta, miel, leche, zanahoria, pera.",5,difícil
+Receta 683,almuerzo,Francia,"carne, huevo, limón, champiñones, aceite de oliva, cebolla, manzana","Receta deliciosa con carne, huevo, limón, champiñones, aceite de oliva, cebolla.",75,difícil
+Receta 684,desayuno,Italia,"fresas, pepino, papa, yogur, pasta","Receta deliciosa con pepino, papa, pasta, fresas, yogur.",35,media
+Receta 685,sopa,China,"cebolla, frijoles, mantequilla, leche, champiñones","Receta deliciosa con leche, champiñones, frijoles, cebolla.",7,fácil
+Receta 686,postre,Perú,"frijoles, zanahoria, carne, mantequilla, vinagre, miel, pera, aguacate, sal, maíz","Receta deliciosa con vinagre, zanahoria, pera, frijoles, maíz, mantequilla.",115,media
+Receta 687,almuerzo,México,"manzana, sal, huevo, banano, carne, ajo, cebolla, frijoles","Receta deliciosa con frijoles, sal, cebolla.",108,media
+Receta 688,sopa,EE.UU.,"tomate, pollo, salsa de tomate, zanahoria, pepino, mostaza, soya","Receta deliciosa con pollo, tomate, salsa de tomate, pepino, zanahoria.",40,difícil
+Receta 689,sopa,India,"huevo, espinaca, mostaza, aceite de oliva, zanahoria, pimienta","Receta deliciosa con pimienta, aceite de oliva, zanahoria, espinaca, mostaza.",66,difícil
+Receta 690,sopa,India,"pollo, sal, arroz, cebolla, salsa de tomate, carne, mantequilla","Receta deliciosa con mantequilla, carne, pollo, salsa de tomate, sal.",41,difícil
+Receta 691,desayuno,México,"pasta, lentejas, mantequilla, vinagre, aceite de oliva","Receta deliciosa con pasta, aceite de oliva, mantequilla, lentejas.",99,fácil
+Receta 692,postre,Francia,"espinaca, ajo, lentejas, papa, banano, tomate, queso, leche, arroz, carne","Receta deliciosa con banano, tomate, ajo, leche.",89,media
+Receta 693,desayuno,India,"sal, banano, maíz, ajo, pera","Receta deliciosa con maíz, banano, pera, ajo, sal.",56,fácil
+Receta 694,cena,Italia,"huevo, pescado, pan, leche, fresas","Receta deliciosa con pescado, leche, fresas, pan, huevo.",93,media
+Receta 695,bebida,China,"carne, mantequilla, pera, limón, pan, espinaca","Receta deliciosa con pera, limón, carne, espinaca, pan.",28,media
+Receta 696,cena,Perú,"mostaza, zanahoria, pescado, tomate, leche, maíz, soya","Receta deliciosa con pescado, maíz, tomate, soya.",71,fácil
+Receta 697,desayuno,Perú,"vinagre, limón, papa, cebolla, frijoles, maíz, mantequilla","Receta deliciosa con vinagre, frijoles, cebolla, papa.",88,difícil
+Receta 698,snack,Francia,"pasta, queso, salsa de tomate, mantequilla, limón, pan, huevo, champiñones","Receta deliciosa con pasta, pan, queso, champiñones, limón.",65,difícil
+Receta 699,postre,India,"yogur, espinaca, aceite de oliva, soya, mantequilla","Receta deliciosa con soya, yogur, espinaca, aceite de oliva, mantequilla.",6,difícil
+Receta 700,postre,México,"queso, maíz, soya, pan, fresas, espinaca, miel, leche","Receta deliciosa con espinaca, fresas, miel, queso, pan, leche.",5,fácil
+Receta 701,sopa,Japón,"mantequilla, champiñones, yogur, manzana, huevo, queso, limón, mostaza, zanahoria, fresas","Receta deliciosa con zanahoria, huevo, fresas, champiñones, queso, yogur.",117,media
+Receta 702,almuerzo,Francia,"papa, manzana, pera, miel, vinagre, pasta, carne, queso, pescado, salsa de tomate","Receta deliciosa con salsa de tomate, pera, carne, pescado.",105,media
+Receta 703,bebida,Italia,"vinagre, arroz, salsa de tomate, pescado, pera, espinaca, carne, pepino, pan, lentejas","Receta deliciosa con pepino, pescado, salsa de tomate.",44,fácil
+Receta 704,cena,Italia,"espinaca, aguacate, pasta, pimienta, tomate","Receta deliciosa con aguacate, pasta, espinaca, tomate, pimienta.",11,media
+Receta 705,sopa,Italia,"zanahoria, fresas, yogur, sal, pepino, pasta, frijoles, vinagre","Receta deliciosa con vinagre, pepino, frijoles, sal, pasta, yogur.",54,media
+Receta 706,snack,China,"champiñones, frijoles, carne, pan, maíz, pimienta","Receta deliciosa con frijoles, carne, maíz, champiñones.",83,difícil
+Receta 707,cena,Italia,"ajo, mantequilla, pollo, manzana, pera, mostaza, soya, zanahoria, fresas","Receta deliciosa con mostaza, zanahoria, soya, fresas.",80,difícil
+Receta 708,desayuno,Perú,"carne, lentejas, banano, aceite de oliva, mostaza, pimienta, zanahoria, soya, mantequilla","Receta deliciosa con aceite de oliva, carne, mantequilla, banano, pimienta, soya.",42,media
+Receta 709,bebida,Francia,"pollo, arroz, salsa de tomate, pescado, pera","Receta deliciosa con salsa de tomate, pera, pollo, pescado, arroz.",116,difícil
+Receta 710,cena,España,"zanahoria, sal, champiñones, limón, salsa de tomate, mantequilla","Receta deliciosa con sal, salsa de tomate, champiñones, zanahoria, limón.",20,fácil
+Receta 711,desayuno,Japón,"arroz, yogur, zanahoria, pescado, frijoles, cebolla, pepino, carne, ajo, mantequilla","Receta deliciosa con arroz, zanahoria, yogur.",22,fácil
+Receta 712,desayuno,EE.UU.,"champiñones, carne, vinagre, pera, mostaza","Receta deliciosa con carne, champiñones, vinagre, pera, mostaza.",42,fácil
+Receta 713,ensalada,México,"pollo, pimienta, vinagre, mostaza, pepino, limón, salsa de tomate, arroz","Receta deliciosa con arroz, limón, pepino, salsa de tomate, pollo.",86,media
+Receta 714,desayuno,EE.UU.,"mostaza, pollo, miel, frijoles, zanahoria, carne, pasta, aguacate","Receta deliciosa con aguacate, zanahoria, pollo, miel.",76,media
+Receta 715,bebida,Japón,"soya, lentejas, pescado, salsa de tomate, ajo, zanahoria","Receta deliciosa con ajo, lentejas, zanahoria, salsa de tomate.",9,fácil
+Receta 716,desayuno,Francia,"zanahoria, pepino, limón, pescado, arroz, champiñones, huevo, aceite de oliva, pera, queso","Receta deliciosa con huevo, pepino, queso, pescado, limón.",31,media
+Receta 717,bebida,México,"espinaca, limón, miel, frijoles, carne, pera, champiñones, lentejas, tomate, salsa de tomate","Receta deliciosa con champiñones, pera, limón, tomate, frijoles, salsa de tomate.",27,media
+Receta 718,bebida,Italia,"lentejas, salsa de tomate, limón, queso, miel, pepino, manzana, fresas, pasta, banano","Receta deliciosa con miel, lentejas, fresas, limón.",101,fácil
+Receta 719,ensalada,Japón,"aguacate, espinaca, frijoles, cebolla, sal, manzana, salsa de tomate, champiñones, ajo","Receta deliciosa con sal, cebolla, frijoles, manzana, salsa de tomate, champiñones.",92,fácil
+Receta 720,almuerzo,Italia,"champiñones, aguacate, vinagre, pollo, queso, espinaca, papa, soya, cebolla","Receta deliciosa con soya, aguacate, papa, pollo, vinagre, cebolla.",64,difícil
+Receta 721,postre,España,"manzana, pasta, maíz, miel, banano, pepino","Receta deliciosa con pasta, pepino, miel.",118,media
+Receta 722,postre,Perú,"tomate, pasta, leche, aceite de oliva, pan, espinaca, pepino, queso, pera, pescado","Receta deliciosa con aceite de oliva, leche, pepino, espinaca.",31,fácil
+Receta 723,almuerzo,China,"maíz, mostaza, yogur, lentejas, fresas, manzana, carne, mantequilla, ajo, zanahoria","Receta deliciosa con ajo, zanahoria, mantequilla, fresas, lentejas, maíz.",85,difícil
+Receta 724,bebida,Colombia,"miel, ajo, pimienta, limón, tomate","Receta deliciosa con ajo, tomate, pimienta, miel, limón.",12,media
+Receta 725,cena,España,"soya, papa, mostaza, cebolla, pan","Receta deliciosa con pan, papa, mostaza.",45,media
+Receta 726,cena,Francia,"aceite de oliva, aguacate, vinagre, carne, mostaza, banano, pollo, ajo, pan, queso","Receta deliciosa con pan, queso, aceite de oliva, ajo, banano, aguacate.",13,media
+Receta 727,ensalada,China,"pepino, aceite de oliva, mantequilla, pasta, frijoles, cebolla, sal, papa","Receta deliciosa con frijoles, pasta, cebolla.",40,difícil
+Receta 728,snack,Perú,"tomate, pan, pera, papa, miel, arroz, fresas, aceite de oliva, mantequilla","Receta deliciosa con tomate, fresas, pan, arroz, papa, mantequilla.",91,fácil
+Receta 729,almuerzo,Francia,"tomate, aguacate, banano, espinaca, lentejas, cebolla","Receta deliciosa con tomate, banano, cebolla, espinaca, aguacate, lentejas.",61,fácil
+Receta 730,bebida,Perú,"vinagre, huevo, leche, arroz, pepino, fresas, tomate, limón, pera","Receta deliciosa con arroz, limón, vinagre, fresas.",52,media
+Receta 731,cena,EE.UU.,"papa, champiñones, cebolla, carne, zanahoria, lentejas","Receta deliciosa con carne, zanahoria, papa, lentejas.",17,difícil
+Receta 732,sopa,México,"mostaza, ajo, leche, frijoles, cebolla, pasta, tomate","Receta deliciosa con cebolla, pasta, leche, frijoles, mostaza.",99,media
+Receta 733,postre,Francia,"sal, frijoles, papa, ajo, mostaza, champiñones, maíz, limón, aceite de oliva","Receta deliciosa con sal, limón, aceite de oliva, frijoles.",28,media
+Receta 734,sopa,China,"mostaza, espinaca, limón, fresas, banano, frijoles, yogur, pasta, leche, aguacate","Receta deliciosa con frijoles, leche, limón.",37,difícil
+Receta 735,postre,Francia,"lentejas, banano, cebolla, papa, pan, queso, arroz, tomate, soya, ajo","Receta deliciosa con papa, ajo, pan, queso.",21,difícil
+Receta 736,sopa,China,"maíz, yogur, queso, espinaca, pepino, leche, soya, huevo, fresas","Receta deliciosa con pepino, queso, leche, fresas.",111,fácil
+Receta 737,cena,China,"pescado, salsa de tomate, tomate, pasta, carne, mostaza, aceite de oliva","Receta deliciosa con pescado, mostaza, salsa de tomate.",63,difícil
+Receta 738,bebida,México,"sal, vinagre, papa, pepino, champiñones, leche, pera, pollo","Receta deliciosa con papa, champiñones, vinagre.",76,media
+Receta 739,bebida,Francia,"aceite de oliva, maíz, vinagre, zanahoria, pera, pasta","Receta deliciosa con maíz, zanahoria, pasta, aceite de oliva.",117,fácil
+Receta 740,postre,Perú,"vinagre, arroz, pescado, espinaca, pasta, ajo, aguacate, manzana, mostaza","Receta deliciosa con aguacate, ajo, pescado.",84,fácil
+Receta 741,ensalada,España,"soya, pescado, arroz, mostaza, espinaca, lentejas, pasta, carne, queso, zanahoria","Receta deliciosa con pescado, zanahoria, arroz, queso, espinaca, lentejas.",77,difícil
+Receta 742,snack,Perú,"espinaca, cebolla, pollo, manzana, pera, limón, salsa de tomate, mantequilla, fresas, pimienta","Receta deliciosa con salsa de tomate, pera, mantequilla, pimienta.",57,media
+Receta 743,almuerzo,India,"sal, vinagre, champiñones, frijoles, limón, huevo, banano, carne, leche, pasta","Receta deliciosa con sal, champiñones, leche, huevo, banano, frijoles.",81,difícil
+Receta 744,cena,China,"papa, vinagre, carne, pan, miel","Receta deliciosa con miel, carne, vinagre, papa, pan.",76,media
+Receta 745,cena,Francia,"papa, pera, vinagre, miel, pimienta, leche, aguacate, mostaza, mantequilla, banano","Receta deliciosa con papa, miel, mostaza.",13,fácil
+Receta 746,ensalada,Japón,"tomate, limón, ajo, pepino, frijoles","Receta deliciosa con frijoles, limón, ajo, pepino, tomate.",100,difícil
+Receta 747,cena,Japón,"mantequilla, aguacate, mostaza, champiñones, cebolla, yogur, pimienta","Receta deliciosa con cebolla, mantequilla, champiñones, yogur, pimienta, aguacate.",82,difícil
+Receta 748,almuerzo,Francia,"aceite de oliva, arroz, vinagre, tomate, pimienta, zanahoria, miel, manzana, pasta","Receta deliciosa con aceite de oliva, arroz, miel.",100,difícil
+Receta 749,sopa,China,"pimienta, mostaza, zanahoria, yogur, carne, pescado, banano, miel","Receta deliciosa con miel, mostaza, pimienta, yogur, pescado.",55,media
+Receta 750,almuerzo,EE.UU.,"leche, miel, salsa de tomate, espinaca, pan, pollo, limón, queso, ajo","Receta deliciosa con miel, ajo, limón, espinaca, pollo, leche.",119,difícil
+Receta 751,sopa,Perú,"banano, yogur, queso, arroz, mostaza, carne, ajo, champiñones","Receta deliciosa con yogur, carne, ajo, queso, arroz, mostaza.",73,fácil
+Receta 752,cena,México,"aguacate, frijoles, cebolla, yogur, queso","Receta deliciosa con aguacate, frijoles, cebolla, queso, yogur.",41,difícil
+Receta 753,bebida,España,"miel, vinagre, aguacate, queso, leche","Receta deliciosa con vinagre, queso, aguacate, leche, miel.",33,media
+Receta 754,ensalada,India,"champiñones, tomate, pimienta, manzana, salsa de tomate","Receta deliciosa con salsa de tomate, pimienta, champiñones.",31,fácil
+Receta 755,ensalada,Japón,"lentejas, mostaza, sal, soya, pasta, tomate, espinaca, pan, salsa de tomate, mantequilla","Receta deliciosa con mantequilla, mostaza, soya, pasta.",28,fácil
+Receta 756,snack,México,"queso, maíz, zanahoria, pan, mostaza, arroz","Receta deliciosa con pan, mostaza, queso, arroz.",67,difícil
+Receta 757,postre,India,"aceite de oliva, tomate, pescado, miel, manzana, soya","Receta deliciosa con aceite de oliva, manzana, pescado.",25,fácil
+Receta 758,desayuno,España,"espinaca, lentejas, salsa de tomate, maíz, soya, vinagre, carne, limón","Receta deliciosa con vinagre, espinaca, soya, maíz.",6,media
+Receta 759,desayuno,España,"salsa de tomate, sal, pan, leche, huevo, limón, zanahoria","Receta deliciosa con salsa de tomate, pan, zanahoria, limón, leche.",101,difícil
+Receta 760,desayuno,Colombia,"mostaza, zanahoria, banano, aceite de oliva, queso, maíz, pimienta, mantequilla, manzana","Receta deliciosa con pimienta, maíz, banano, manzana, queso.",93,difícil
+Receta 761,postre,Francia,"cebolla, tomate, carne, yogur, pasta","Receta deliciosa con carne, pasta, yogur, tomate, cebolla.",6,fácil
+Receta 762,cena,Perú,"pepino, frijoles, soya, papa, limón, pasta, mostaza, manzana, salsa de tomate","Receta deliciosa con salsa de tomate, frijoles, papa.",105,fácil
+Receta 763,snack,México,"champiñones, ajo, pollo, fresas, maíz, aguacate, pimienta, yogur, queso, pescado","Receta deliciosa con champiñones, ajo, maíz, pescado, fresas.",74,media
+Receta 764,ensalada,India,"tomate, maíz, queso, pimienta, huevo, mostaza, lentejas, arroz, papa","Receta deliciosa con maíz, queso, huevo, papa, lentejas.",113,fácil
+Receta 765,snack,Colombia,"pescado, pollo, tomate, zanahoria, carne, limón","Receta deliciosa con pollo, limón, carne, pescado, zanahoria, tomate.",84,fácil
+Receta 766,almuerzo,India,"manzana, zanahoria, fresas, carne, pasta, espinaca, sal","Receta deliciosa con espinaca, zanahoria, sal, carne, manzana, fresas.",55,media
+Receta 767,ensalada,EE.UU.,"zanahoria, queso, champiñones, fresas, pasta, salsa de tomate, huevo, ajo","Receta deliciosa con pasta, zanahoria, fresas.",22,media
+Receta 768,almuerzo,China,"pepino, lentejas, banano, limón, soya","Receta deliciosa con limón, pepino, soya, lentejas.",78,difícil
+Receta 769,ensalada,España,"manzana, cebolla, queso, pimienta, leche, tomate","Receta deliciosa con cebolla, queso, pimienta, manzana, tomate, leche.",92,media
+Receta 770,desayuno,España,"cebolla, lentejas, carne, leche, aceite de oliva, sal, pasta","Receta deliciosa con leche, lentejas, aceite de oliva, sal, pasta, carne.",103,difícil
+Receta 771,sopa,EE.UU.,"banano, frijoles, vinagre, pimienta, zanahoria, espinaca, manzana","Receta deliciosa con banano, manzana, espinaca, frijoles.",94,media
+Receta 772,snack,EE.UU.,"salsa de tomate, lentejas, miel, fresas, yogur, mostaza, zanahoria, maíz, champiñones, frijoles","Receta deliciosa con lentejas, mostaza, frijoles, maíz, fresas, yogur.",96,media
+Receta 773,desayuno,EE.UU.,"mostaza, papa, banano, manzana, yogur, champiñones, salsa de tomate, pollo, pera","Receta deliciosa con papa, pollo, salsa de tomate.",44,difícil
+Receta 774,snack,España,"maíz, queso, sal, salsa de tomate, limón, pera, aguacate, mostaza, tomate, aceite de oliva","Receta deliciosa con tomate, queso, mostaza, aguacate, pera, salsa de tomate.",92,fácil
+Receta 775,postre,España,"banano, pepino, carne, fresas, zanahoria, queso, aceite de oliva, miel, limón","Receta deliciosa con zanahoria, pepino, fresas, queso.",77,media
+Receta 776,ensalada,Perú,"champiñones, carne, pimienta, mantequilla, aceite de oliva","Receta deliciosa con mantequilla, champiñones, pimienta, carne, aceite de oliva.",75,difícil
+Receta 777,almuerzo,Japón,"pasta, zanahoria, pera, carne, champiñones","Receta deliciosa con zanahoria, champiñones, pera, pasta.",86,difícil
+Receta 778,almuerzo,Japón,"ajo, pan, manzana, soya, papa, champiñones, pollo, tomate, fresas","Receta deliciosa con pan, pollo, champiñones, soya, papa, ajo.",87,difícil
+Receta 779,snack,China,"pan, banano, mantequilla, arroz, pimienta, mostaza, cebolla","Receta deliciosa con pimienta, mostaza, arroz.",34,difícil
+Receta 780,desayuno,Italia,"pera, huevo, sal, carne, miel, tomate, queso, pasta","Receta deliciosa con pasta, sal, tomate, miel, huevo, queso.",9,media
+Receta 781,cena,Perú,"tomate, carne, pollo, banano, ajo, espinaca, papa","Receta deliciosa con ajo, tomate, espinaca, carne, papa, banano.",39,media
+Receta 782,desayuno,Francia,"pasta, aguacate, tomate, papa, salsa de tomate","Receta deliciosa con pasta, tomate, aguacate, salsa de tomate.",62,difícil
+Receta 783,snack,México,"pera, pepino, vinagre, mantequilla, espinaca, pimienta","Receta deliciosa con pepino, espinaca, pimienta, pera, vinagre, mantequilla.",72,fácil
+Receta 784,postre,Italia,"pepino, vinagre, zanahoria, miel, champiñones, espinaca, fresas, mostaza, soya, aguacate","Receta deliciosa con miel, vinagre, espinaca, champiñones, fresas, pepino.",16,media
+Receta 785,sopa,Japón,"tomate, manzana, pollo, yogur, miel, soya, ajo, cebolla, mostaza, vinagre","Receta deliciosa con miel, mostaza, cebolla, ajo, vinagre, manzana.",59,media
+Receta 786,bebida,Japón,"huevo, pepino, banano, pescado, yogur, pan, maíz","Receta deliciosa con pan, pescado, pepino, maíz, banano, huevo.",11,media
+Receta 787,postre,Japón,"zanahoria, yogur, miel, pan, banano, pasta, mantequilla, pimienta","Receta deliciosa con zanahoria, pasta, miel, banano, pimienta, pan.",47,media
+Receta 788,postre,India,"frijoles, pescado, vinagre, pepino, miel","Receta deliciosa con miel, frijoles, vinagre.",9,difícil
+Receta 789,snack,Colombia,"pera, huevo, miel, yogur, sal, pasta, aguacate, zanahoria, manzana, mantequilla","Receta deliciosa con yogur, mantequilla, miel.",17,media
+Receta 790,bebida,Italia,"tomate, papa, huevo, mostaza, yogur, aguacate","Receta deliciosa con papa, aguacate, tomate, mostaza, yogur.",61,difícil
+Receta 791,sopa,China,"yogur, leche, lentejas, frijoles, champiñones, arroz, ajo, pan, aguacate, banano","Receta deliciosa con aguacate, champiñones, arroz, ajo, yogur.",23,fácil
+Receta 792,bebida,Colombia,"pasta, frijoles, cebolla, leche, papa, carne, pan, lentejas, huevo","Receta deliciosa con leche, carne, huevo, lentejas, pasta.",59,fácil
+Receta 793,cena,India,"frijoles, sal, banano, queso, maíz, mantequilla, arroz, pan","Receta deliciosa con queso, banano, pan, sal, frijoles.",113,media
+Receta 794,bebida,Francia,"champiñones, limón, cebolla, frijoles, vinagre","Receta deliciosa con frijoles, limón, champiñones, vinagre, cebolla.",77,difícil
+Receta 795,snack,India,"lentejas, zanahoria, pan, frijoles, fresas, pera, champiñones, arroz, pepino","Receta deliciosa con pepino, fresas, arroz, lentejas, pera.",93,fácil
+Receta 796,desayuno,Colombia,"pescado, aceite de oliva, pasta, miel, sal, papa, limón, lentejas, huevo","Receta deliciosa con pescado, huevo, aceite de oliva, miel, papa, pasta.",91,media
+Receta 797,snack,India,"frijoles, maíz, pepino, pan, pimienta, aguacate, zanahoria","Receta deliciosa con frijoles, pimienta, aguacate, pepino, pan, maíz.",67,fácil
+Receta 798,bebida,Francia,"pera, pimienta, cebolla, soya, aceite de oliva, queso","Receta deliciosa con pera, pimienta, cebolla.",98,media
+Receta 799,desayuno,España,"zanahoria, aceite de oliva, manzana, pescado, fresas, leche","Receta deliciosa con pescado, fresas, aceite de oliva, zanahoria, manzana, leche.",73,difícil
+Receta 800,cena,India,"aceite de oliva, lentejas, papa, espinaca, sal","Receta deliciosa con papa, aceite de oliva, espinaca, sal, lentejas.",33,media
+Receta 801,sopa,México,"aceite de oliva, tomate, pera, arroz, salsa de tomate","Receta deliciosa con aceite de oliva, pera, tomate, salsa de tomate, arroz.",56,media
+Receta 802,bebida,Perú,"maíz, fresas, miel, arroz, yogur","Receta deliciosa con miel, yogur, maíz, arroz, fresas.",110,difícil
+Receta 803,sopa,México,"pan, aguacate, salsa de tomate, vinagre, espinaca, leche, zanahoria, banano, yogur, limón","Receta deliciosa con banano, vinagre, salsa de tomate.",80,media
+Receta 804,snack,México,"miel, soya, yogur, zanahoria, papa, mostaza, sal, pescado, vinagre, pollo","Receta deliciosa con papa, soya, zanahoria, pollo, mostaza.",85,fácil
+Receta 805,bebida,Perú,"huevo, carne, limón, banano, aguacate, pasta, aceite de oliva","Receta deliciosa con carne, aguacate, banano, pasta, limón, huevo.",22,difícil
+Receta 806,snack,Colombia,"mostaza, pimienta, papa, maíz, leche, banano, zanahoria, limón, frijoles, cebolla","Receta deliciosa con banano, leche, zanahoria.",95,fácil
+Receta 807,postre,México,"espinaca, lentejas, mantequilla, huevo, salsa de tomate, papa, aguacate, pescado, maíz, manzana","Receta deliciosa con lentejas, maíz, espinaca, salsa de tomate.",111,difícil
+Receta 808,snack,España,"soya, espinaca, banano, aceite de oliva, papa, manzana, queso, salsa de tomate, pimienta","Receta deliciosa con soya, espinaca, queso, salsa de tomate.",75,fácil
+Receta 809,desayuno,México,"espinaca, mantequilla, vinagre, pollo, banano, fresas, queso, papa, yogur, miel","Receta deliciosa con pollo, queso, vinagre, yogur, fresas.",69,media
+Receta 810,bebida,Francia,"miel, manzana, queso, salsa de tomate, sal, pan","Receta deliciosa con pan, queso, miel, salsa de tomate.",50,fácil
+Receta 811,snack,India,"yogur, salsa de tomate, sal, espinaca, fresas, manzana, pimienta, pescado, pasta","Receta deliciosa con fresas, sal, pasta, pimienta, manzana, espinaca.",36,media
+Receta 812,ensalada,Italia,"carne, frijoles, vinagre, champiñones, cebolla, pera, salsa de tomate","Receta deliciosa con cebolla, vinagre, salsa de tomate, frijoles.",40,fácil
+Receta 813,sopa,México,"yogur, pimienta, manzana, aceite de oliva, papa, pepino, banano, soya, huevo","Receta deliciosa con pepino, papa, huevo, banano.",59,fácil
+Receta 814,almuerzo,Perú,"espinaca, fresas, soya, mantequilla, pollo, cebolla, manzana, aguacate","Receta deliciosa con soya, fresas, pollo.",8,fácil
+Receta 815,desayuno,Colombia,"arroz, ajo, fresas, aguacate, pepino, leche","Receta deliciosa con fresas, arroz, ajo, pepino, aguacate, leche.",52,media
+Receta 816,cena,Japón,"lentejas, ajo, vinagre, sal, manzana, limón, yogur, carne","Receta deliciosa con lentejas, vinagre, ajo, yogur, limón.",24,difícil
+Receta 817,ensalada,Francia,"pasta, aguacate, frijoles, vinagre, mantequilla, arroz, leche, champiñones, ajo, papa","Receta deliciosa con ajo, vinagre, mantequilla.",63,difícil
+Receta 818,almuerzo,Francia,"huevo, limón, yogur, pera, mantequilla, champiñones, banano, carne, pan, queso","Receta deliciosa con queso, carne, banano.",61,difícil
+Receta 819,snack,EE.UU.,"aguacate, ajo, pescado, miel, mantequilla, vinagre, salsa de tomate, frijoles, pollo, banano","Receta deliciosa con pescado, vinagre, mantequilla.",105,media
+Receta 820,sopa,China,"pasta, huevo, espinaca, manzana, yogur, sal","Receta deliciosa con espinaca, huevo, sal, pasta, yogur, manzana.",53,fácil
+Receta 821,postre,Francia,"tomate, soya, pescado, pepino, yogur, miel, ajo, leche, maíz, pollo","Receta deliciosa con soya, yogur, leche.",73,media
+Receta 822,almuerzo,India,"tomate, zanahoria, champiñones, miel, pera, cebolla, fresas, mostaza, pan, mantequilla","Receta deliciosa con mostaza, pera, cebolla, champiñones, pan.",7,difícil
+Receta 823,desayuno,Italia,"arroz, miel, pan, limón, cebolla, papa, pasta, aguacate, manzana, carne","Receta deliciosa con pan, papa, cebolla, manzana, pasta, aguacate.",10,difícil
+Receta 824,bebida,India,"limón, fresas, vinagre, miel, tomate, mostaza, lentejas, salsa de tomate","Receta deliciosa con tomate, lentejas, limón, miel.",106,media
+Receta 825,sopa,Colombia,"carne, huevo, aceite de oliva, soya, espinaca, vinagre, queso","Receta deliciosa con espinaca, vinagre, queso, soya.",47,fácil
+Receta 826,almuerzo,China,"mostaza, manzana, pimienta, vinagre, ajo, tomate, sal","Receta deliciosa con ajo, sal, mostaza, manzana.",40,fácil
+Receta 827,cena,EE.UU.,"pescado, pan, limón, manzana, pollo, carne","Receta deliciosa con pan, pollo, limón, pescado.",88,difícil
+Receta 828,snack,Italia,"champiñones, pera, mantequilla, pasta, espinaca, pollo","Receta deliciosa con pollo, champiñones, pasta, mantequilla, espinaca.",118,fácil
+Receta 829,snack,Italia,"zanahoria, espinaca, pollo, banano, pasta, arroz, cebolla, maíz","Receta deliciosa con pasta, espinaca, zanahoria, cebolla, maíz.",6,fácil
+Receta 830,almuerzo,México,"pollo, mostaza, pera, pescado, manzana, pimienta, mantequilla, espinaca, pan","Receta deliciosa con pan, manzana, pollo, pescado, pimienta, mantequilla.",95,media
+Receta 831,postre,China,"lentejas, papa, aceite de oliva, carne, sal, vinagre, espinaca","Receta deliciosa con lentejas, sal, vinagre, aceite de oliva, papa.",84,fácil
+Receta 832,snack,Francia,"fresas, salsa de tomate, vinagre, lentejas, soya, queso, arroz, yogur, leche, mostaza","Receta deliciosa con queso, soya, leche, salsa de tomate.",22,fácil
+Receta 833,sopa,Perú,"pollo, sal, pan, pasta, tomate, vinagre","Receta deliciosa con tomate, sal, pan, vinagre, pollo.",40,difícil
+Receta 834,cena,Italia,"ajo, pescado, pan, manzana, aceite de oliva, zanahoria, huevo, cebolla, arroz, pera","Receta deliciosa con aceite de oliva, huevo, ajo, manzana, pera, arroz.",27,difícil
+Receta 835,sopa,India,"huevo, pepino, queso, manzana, yogur, arroz, sal, aguacate","Receta deliciosa con aguacate, arroz, manzana, queso, pepino.",16,fácil
+Receta 836,desayuno,Italia,"fresas, champiñones, queso, tomate, papa, limón","Receta deliciosa con tomate, fresas, queso, papa.",90,media
+Receta 837,bebida,España,"espinaca, pepino, pasta, pescado, sal, papa, pimienta, manzana","Receta deliciosa con pimienta, pasta, pepino, manzana, espinaca, papa.",58,media
+Receta 838,postre,EE.UU.,"frijoles, salsa de tomate, pimienta, lentejas, champiñones, leche, banano, aguacate","Receta deliciosa con banano, pimienta, leche.",97,difícil
+Receta 839,sopa,España,"manzana, maíz, banano, leche, pera, aceite de oliva","Receta deliciosa con pera, banano, aceite de oliva, manzana.",61,fácil
+Receta 840,sopa,Francia,"limón, vinagre, manzana, queso, maíz, cebolla","Receta deliciosa con queso, maíz, vinagre, limón.",115,difícil
+Receta 841,cena,China,"pollo, salsa de tomate, zanahoria, arroz, aguacate, espinaca, pan","Receta deliciosa con salsa de tomate, aguacate, pan, arroz.",15,fácil
+Receta 842,sopa,China,"maíz, zanahoria, leche, mostaza, soya, yogur","Receta deliciosa con leche, maíz, yogur, soya.",108,difícil
+Receta 843,postre,Francia,"huevo, salsa de tomate, sal, aguacate, carne, pescado, frijoles, pepino, queso","Receta deliciosa con frijoles, salsa de tomate, carne, queso.",81,difícil
+Receta 844,desayuno,Japón,"aguacate, mantequilla, salsa de tomate, yogur, zanahoria, miel, pan, aceite de oliva, pasta, papa","Receta deliciosa con aceite de oliva, papa, aguacate, zanahoria.",41,difícil
+Receta 845,almuerzo,España,"fresas, pimienta, manzana, espinaca, pera","Receta deliciosa con fresas, manzana, pera, espinaca.",90,fácil
+Receta 846,ensalada,México,"yogur, sal, ajo, mantequilla, pera, champiñones","Receta deliciosa con pera, champiñones, yogur, mantequilla.",25,media
+Receta 847,desayuno,India,"frijoles, papa, pepino, zanahoria, cebolla, arroz, pescado, pera, champiñones, sal","Receta deliciosa con frijoles, pepino, zanahoria.",54,fácil
+Receta 848,snack,Perú,"vinagre, banano, fresas, ajo, papa","Receta deliciosa con vinagre, banano, fresas, ajo, papa.",58,fácil
+Receta 849,desayuno,Perú,"champiñones, zanahoria, pepino, tomate, frijoles, manzana, espinaca, pan, aceite de oliva, pollo","Receta deliciosa con champiñones, espinaca, pepino, pan.",11,fácil
+Receta 850,desayuno,Japón,"huevo, mantequilla, manzana, pescado, aceite de oliva, fresas, pollo, lentejas, pan, carne","Receta deliciosa con fresas, pan, manzana, aceite de oliva, carne.",39,media
+Receta 851,almuerzo,Perú,"vinagre, pimienta, cebolla, pera, mostaza","Receta deliciosa con vinagre, mostaza, pimienta, pera, cebolla.",10,media
+Receta 852,cena,Japón,"lentejas, maíz, zanahoria, papa, pasta","Receta deliciosa con lentejas, maíz, pasta, zanahoria, papa.",34,difícil
+Receta 853,almuerzo,China,"pera, champiñones, aguacate, pollo, mostaza, banano, papa, maíz, mantequilla, arroz","Receta deliciosa con banano, arroz, champiñones, papa, pera.",20,media
+Receta 854,desayuno,India,"carne, pasta, frijoles, pimienta, tomate, espinaca, pan, aguacate","Receta deliciosa con espinaca, carne, pasta, pan.",69,difícil
+Receta 855,snack,EE.UU.,"aguacate, lentejas, champiñones, pan, fresas, maíz, espinaca, leche, carne, pera","Receta deliciosa con fresas, maíz, aguacate, pan.",108,fácil
+Receta 856,desayuno,Colombia,"mostaza, pera, yogur, salsa de tomate, zanahoria, manzana, lentejas","Receta deliciosa con zanahoria, manzana, mostaza.",100,difícil
+Receta 857,postre,Colombia,"mostaza, espinaca, banano, limón, lentejas, huevo, pimienta","Receta deliciosa con limón, banano, mostaza, pimienta, lentejas.",19,media
+Receta 858,bebida,China,"salsa de tomate, espinaca, vinagre, frijoles, yogur","Receta deliciosa con frijoles, espinaca, yogur.",10,difícil
+Receta 859,sopa,EE.UU.,"ajo, maíz, pescado, leche, pan, arroz, manzana, banano, pepino, papa","Receta deliciosa con arroz, banano, ajo, papa, manzana, pescado.",8,difícil
+Receta 860,bebida,India,"carne, zanahoria, lentejas, yogur, pollo, queso, fresas, miel","Receta deliciosa con queso, carne, zanahoria, miel.",88,fácil
+Receta 861,desayuno,México,"miel, tomate, pimienta, ajo, pescado, banano, espinaca, champiñones","Receta deliciosa con pimienta, champiñones, miel, ajo, banano, espinaca.",96,fácil
+Receta 862,desayuno,Perú,"ajo, tomate, carne, soya, yogur, espinaca, salsa de tomate, pollo, pasta, maíz","Receta deliciosa con maíz, pollo, yogur, soya.",83,fácil
+Receta 863,ensalada,EE.UU.,"pimienta, pan, espinaca, papa, sal, mostaza, pasta","Receta deliciosa con espinaca, sal, papa, pasta.",15,media
+Receta 864,cena,EE.UU.,"tomate, cebolla, maíz, pimienta, pasta, pollo, pera, frijoles, leche","Receta deliciosa con pollo, tomate, pasta, frijoles.",102,difícil
+Receta 865,sopa,Perú,"pan, pasta, papa, manzana, pollo, champiñones, cebolla","Receta deliciosa con papa, champiñones, cebolla, pasta, pollo.",37,difícil
+Receta 866,postre,EE.UU.,"sal, maíz, queso, lentejas, mantequilla","Receta deliciosa con mantequilla, queso, lentejas, maíz, sal.",39,media
+Receta 867,ensalada,Perú,"ajo, sal, pasta, pimienta, fresas","Receta deliciosa con pasta, pimienta, sal.",94,fácil
+Receta 868,ensalada,Japón,"ajo, pollo, miel, maíz, zanahoria, queso, fresas","Receta deliciosa con miel, pollo, ajo, queso, fresas.",102,fácil
+Receta 869,bebida,EE.UU.,"arroz, pollo, tomate, ajo, miel, zanahoria, leche","Receta deliciosa con pollo, tomate, arroz.",63,fácil
+Receta 870,almuerzo,España,"lentejas, mostaza, frijoles, queso, pollo, pera, limón","Receta deliciosa con frijoles, pera, lentejas, queso, limón, mostaza.",15,media
+Receta 871,cena,España,"pepino, pescado, carne, pera, pollo","Receta deliciosa con pera, pepino, pollo, pescado, carne.",36,difícil
+Receta 872,snack,Colombia,"arroz, pimienta, pescado, mostaza, maíz, zanahoria, manzana, miel, papa, limón","Receta deliciosa con mostaza, arroz, limón, zanahoria, pescado.",94,fácil
+Receta 873,desayuno,España,"huevo, vinagre, pescado, aguacate, cebolla, papa, pimienta","Receta deliciosa con pescado, papa, vinagre, pimienta, cebolla, aguacate.",57,difícil
+Receta 874,cena,India,"frijoles, manzana, pimienta, maíz, ajo, miel","Receta deliciosa con maíz, frijoles, pimienta.",80,media
+Receta 875,sopa,España,"mostaza, vinagre, champiñones, pan, aceite de oliva, maíz, arroz, frijoles, pasta, pescado","Receta deliciosa con maíz, arroz, frijoles, pescado, aceite de oliva, pan.",43,difícil
+Receta 876,ensalada,Italia,"fresas, arroz, ajo, aceite de oliva, lentejas, queso, frijoles, leche","Receta deliciosa con frijoles, arroz, lentejas, aceite de oliva, ajo, leche.",62,fácil
+Receta 877,almuerzo,China,"espinaca, salsa de tomate, champiñones, papa, arroz, pepino, mostaza, pescado, carne, queso","Receta deliciosa con arroz, champiñones, salsa de tomate, carne.",60,media
+Receta 878,bebida,Francia,"maíz, leche, frijoles, huevo, mostaza, pera, aguacate, tomate, yogur, fresas","Receta deliciosa con tomate, fresas, maíz, pera, leche, huevo.",118,difícil
+Receta 879,sopa,India,"miel, mantequilla, carne, aguacate, sal, pollo, limón, banano, champiñones, pimienta","Receta deliciosa con miel, champiñones, limón, pimienta.",113,fácil
+Receta 880,desayuno,Francia,"miel, mostaza, pasta, pollo, leche","Receta deliciosa con pollo, mostaza, miel.",54,difícil
+Receta 881,ensalada,India,"champiñones, zanahoria, pollo, arroz, mantequilla, aguacate","Receta deliciosa con zanahoria, arroz, champiñones, aguacate.",113,fácil
+Receta 882,sopa,Perú,"espinaca, papa, sal, leche, aceite de oliva, maíz, pollo, pimienta, frijoles, pan","Receta deliciosa con pan, papa, aceite de oliva, frijoles, maíz, sal.",105,difícil
+Receta 883,ensalada,Japón,"lentejas, frijoles, mostaza, pasta, pera, ajo, pepino, espinaca, tomate, mantequilla","Receta deliciosa con frijoles, mantequilla, tomate, lentejas, pasta, mostaza.",39,fácil
+Receta 884,postre,Italia,"tomate, limón, champiñones, pan, lentejas","Receta deliciosa con champiñones, limón, lentejas, pan.",15,media
+Receta 885,snack,Perú,"yogur, papa, aguacate, pasta, sal","Receta deliciosa con pasta, papa, sal, aguacate, yogur.",97,difícil
+Receta 886,ensalada,España,"banano, pollo, vinagre, yogur, papa, leche, pan, carne, cebolla","Receta deliciosa con papa, leche, pan, pollo, vinagre.",58,difícil
+Receta 887,cena,Colombia,"pepino, papa, queso, vinagre, carne, ajo, banano, manzana, lentejas","Receta deliciosa con vinagre, ajo, carne, pepino, queso.",41,difícil
+Receta 888,snack,India,"huevo, pepino, banano, leche, pasta, queso, vinagre, lentejas","Receta deliciosa con banano, lentejas, vinagre.",45,fácil
+Receta 889,ensalada,Colombia,"mostaza, maíz, queso, lentejas, pan, champiñones, pescado, pera","Receta deliciosa con maíz, mostaza, champiñones.",40,difícil
+Receta 890,postre,China,"cebolla, sal, ajo, limón, fresas","Receta deliciosa con ajo, fresas, sal, limón, cebolla.",112,difícil
+Receta 891,desayuno,Francia,"aguacate, yogur, carne, lentejas, miel, arroz, soya","Receta deliciosa con arroz, soya, carne, aguacate, lentejas, yogur.",26,media
+Receta 892,ensalada,Japón,"vinagre, pescado, arroz, cebolla, champiñones, pepino, pan, carne, banano, leche","Receta deliciosa con banano, carne, leche, pescado.",32,difícil
+Receta 893,postre,Francia,"queso, sal, ajo, pescado, tomate, banano, maíz","Receta deliciosa con tomate, banano, ajo, pescado.",14,media
+Receta 894,desayuno,EE.UU.,"mostaza, pasta, pimienta, lentejas, aguacate, pollo","Receta deliciosa con pimienta, lentejas, pollo, aguacate.",41,difícil
+Receta 895,snack,México,"soya, mostaza, espinaca, limón, banano, vinagre, fresas","Receta deliciosa con limón, espinaca, mostaza.",28,fácil
+Receta 896,ensalada,EE.UU.,"mostaza, champiñones, espinaca, queso, salsa de tomate, pera, papa, sal, carne","Receta deliciosa con champiñones, salsa de tomate, mostaza, papa.",19,fácil
+Receta 897,snack,EE.UU.,"lentejas, miel, tomate, papa, pimienta, ajo, sal","Receta deliciosa con pimienta, tomate, sal.",78,difícil
+Receta 898,postre,EE.UU.,"banano, manzana, papa, ajo, fresas, sal, miel, pescado","Receta deliciosa con miel, fresas, papa, banano.",56,difícil
+Receta 899,sopa,México,"leche, manzana, aguacate, zanahoria, frijoles, maíz","Receta deliciosa con aguacate, maíz, zanahoria, leche, manzana.",50,difícil
+Receta 900,sopa,India,"lentejas, aguacate, papa, vinagre, aceite de oliva, salsa de tomate, arroz, yogur","Receta deliciosa con vinagre, lentejas, salsa de tomate, aceite de oliva.",12,fácil
+Receta 901,sopa,EE.UU.,"huevo, frijoles, carne, pan, salsa de tomate, yogur, queso","Receta deliciosa con salsa de tomate, yogur, queso, carne, huevo, frijoles.",5,difícil
+Receta 902,cena,China,"aceite de oliva, queso, mantequilla, vinagre, tomate, sal, manzana, maíz, lentejas","Receta deliciosa con sal, queso, manzana, mantequilla.",62,difícil
+Receta 903,postre,India,"cebolla, sal, limón, zanahoria, mostaza, huevo, maíz","Receta deliciosa con mostaza, cebolla, limón, maíz, sal, zanahoria.",106,media
+Receta 904,desayuno,Perú,"frijoles, lentejas, maíz, salsa de tomate, banano, aguacate","Receta deliciosa con maíz, aguacate, salsa de tomate, lentejas, banano, frijoles.",14,media
+Receta 905,postre,Perú,"soya, vinagre, pan, frijoles, ajo, limón, arroz, tomate","Receta deliciosa con tomate, soya, vinagre, limón, pan.",87,fácil
+Receta 906,sopa,Colombia,"huevo, champiñones, yogur, mostaza, leche, papa, pimienta, soya","Receta deliciosa con yogur, champiñones, mostaza, soya, leche, papa.",71,difícil
+Receta 907,sopa,Colombia,"pollo, limón, carne, champiñones, ajo, fresas, sal","Receta deliciosa con sal, champiñones, limón, pollo, fresas.",93,fácil
+Receta 908,bebida,España,"sal, cebolla, mantequilla, vinagre, banano","Receta deliciosa con sal, cebolla, banano, mantequilla, vinagre.",39,difícil
+Receta 909,cena,China,"champiñones, manzana, mostaza, cebolla, pan, pollo, ajo, yogur, miel, lentejas","Receta deliciosa con mostaza, miel, champiñones, yogur, ajo, pan.",86,media
+Receta 910,bebida,EE.UU.,"pera, pasta, soya, arroz, cebolla, sal, miel, lentejas, zanahoria, tomate","Receta deliciosa con zanahoria, miel, pasta, pera, sal, tomate.",85,fácil
+Receta 911,desayuno,China,"zanahoria, sal, queso, mostaza, banano, pasta, pollo, lentejas, pan, champiñones","Receta deliciosa con zanahoria, queso, banano, mostaza, lentejas, sal.",11,difícil
+Receta 912,bebida,China,"lentejas, arroz, cebolla, leche, tomate, mostaza, pasta, huevo, maíz","Receta deliciosa con huevo, arroz, lentejas.",73,fácil
+Receta 913,cena,Colombia,"fresas, lentejas, mantequilla, sal, champiñones, banano, pollo, ajo","Receta deliciosa con ajo, fresas, pollo, champiñones.",17,media
+Receta 914,postre,Perú,"pepino, pera, zanahoria, frijoles, leche, huevo, aceite de oliva","Receta deliciosa con huevo, frijoles, aceite de oliva, leche, pepino, pera.",59,media
+Receta 915,snack,Japón,"pollo, cebolla, carne, miel, fresas, zanahoria, espinaca, frijoles, aguacate","Receta deliciosa con carne, espinaca, cebolla, aguacate.",38,difícil
+Receta 916,snack,Perú,"arroz, papa, limón, zanahoria, espinaca, leche, pera","Receta deliciosa con espinaca, pera, papa, limón, zanahoria, leche.",64,fácil
+Receta 917,cena,México,"sal, limón, huevo, vinagre, pollo, papa, zanahoria, fresas, espinaca, carne","Receta deliciosa con vinagre, pollo, zanahoria, fresas, huevo, espinaca.",41,fácil
+Receta 918,almuerzo,Francia,"limón, cebolla, pera, ajo, carne, pepino, miel, arroz, aceite de oliva","Receta deliciosa con pepino, arroz, carne.",11,media
+Receta 919,cena,Perú,"pepino, banano, mantequilla, vinagre, carne, queso, pescado, yogur, aceite de oliva","Receta deliciosa con banano, pescado, aceite de oliva, vinagre, yogur.",37,media
+Receta 920,cena,México,"salsa de tomate, frijoles, manzana, maíz, pan, zanahoria, soya, banano, tomate, carne","Receta deliciosa con maíz, zanahoria, soya, frijoles, carne, salsa de tomate.",24,difícil
+Receta 921,postre,Francia,"lentejas, pan, ajo, pepino, salsa de tomate, mantequilla, limón","Receta deliciosa con ajo, pan, salsa de tomate, lentejas, mantequilla, pepino.",98,media
+Receta 922,ensalada,Japón,"cebolla, salsa de tomate, vinagre, maíz, yogur, papa, fresas, champiñones","Receta deliciosa con salsa de tomate, yogur, fresas, papa, cebolla, vinagre.",7,difícil
+Receta 923,snack,EE.UU.,"leche, espinaca, tomate, pan, mantequilla, cebolla, carne, maíz, aguacate","Receta deliciosa con cebolla, carne, espinaca, mantequilla, aguacate.",54,difícil
+Receta 924,bebida,Japón,"yogur, carne, mantequilla, sal, lentejas, soya, ajo","Receta deliciosa con carne, mantequilla, soya.",113,media
+Receta 925,sopa,China,"zanahoria, pera, mostaza, soya, frijoles, ajo, mantequilla, queso, espinaca","Receta deliciosa con mantequilla, mostaza, zanahoria, pera, espinaca, queso.",70,media
+Receta 926,cena,India,"sal, tomate, fresas, huevo, pera, pasta, champiñones","Receta deliciosa con fresas, tomate, huevo, champiñones, pera, pasta.",50,fácil
+Receta 927,ensalada,Japón,"lentejas, pollo, sal, salsa de tomate, aceite de oliva","Receta deliciosa con salsa de tomate, pollo, aceite de oliva, lentejas.",81,media
+Receta 928,cena,Italia,"zanahoria, pera, espinaca, pimienta, lentejas, soya, ajo, arroz, carne","Receta deliciosa con pimienta, espinaca, pera, carne.",54,difícil
+Receta 929,desayuno,España,"aguacate, miel, ajo, lentejas, pepino, zanahoria, tomate, vinagre, banano, soya","Receta deliciosa con soya, pepino, miel, tomate, ajo, banano.",103,fácil
+Receta 930,almuerzo,Perú,"lentejas, salsa de tomate, mostaza, sal, pasta, papa","Receta deliciosa con sal, lentejas, salsa de tomate.",13,fácil
+Receta 931,almuerzo,India,"arroz, mostaza, pan, champiñones, mantequilla, miel, ajo","Receta deliciosa con arroz, champiñones, mostaza, mantequilla, miel.",108,fácil
+Receta 932,postre,EE.UU.,"aceite de oliva, espinaca, pimienta, pollo, soya, pepino, manzana, frijoles","Receta deliciosa con frijoles, aceite de oliva, pimienta, soya, pepino.",74,difícil
+Receta 933,almuerzo,EE.UU.,"salsa de tomate, mostaza, espinaca, limón, yogur","Receta deliciosa con espinaca, mostaza, salsa de tomate.",49,fácil
+Receta 934,snack,Perú,"sal, cebolla, vinagre, mantequilla, huevo, salsa de tomate, soya, leche, pan","Receta deliciosa con leche, vinagre, mantequilla, soya, huevo, cebolla.",51,difícil
+Receta 935,snack,México,"pasta, miel, aceite de oliva, manzana, mostaza, fresas, pepino, cebolla, pera, limón","Receta deliciosa con miel, cebolla, pepino, pasta, aceite de oliva.",33,fácil
+Receta 936,snack,Colombia,"huevo, queso, vinagre, pera, leche, champiñones, zanahoria, pan, tomate","Receta deliciosa con leche, vinagre, zanahoria, champiñones.",117,difícil
+Receta 937,ensalada,Colombia,"aceite de oliva, leche, mostaza, aguacate, yogur","Receta deliciosa con leche, aguacate, aceite de oliva, mostaza, yogur.",112,media
+Receta 938,snack,México,"limón, maíz, pollo, tomate, yogur, manzana, fresas","Receta deliciosa con pollo, manzana, fresas, limón, tomate.",41,difícil
+Receta 939,postre,India,"sal, pasta, pan, carne, papa","Receta deliciosa con pan, carne, papa, sal, pasta.",98,fácil
+Receta 940,snack,China,"pollo, sal, ajo, mantequilla, soya","Receta deliciosa con soya, sal, pollo.",58,media
+Receta 941,snack,Colombia,"aguacate, vinagre, mantequilla, frijoles, fresas, banano, pollo, pasta, maíz, sal","Receta deliciosa con sal, pasta, fresas, maíz, mantequilla.",94,media
+Receta 942,desayuno,Italia,"manzana, pera, lentejas, tomate, champiñones","Receta deliciosa con tomate, lentejas, manzana, pera, champiñones.",116,fácil
+Receta 943,snack,EE.UU.,"yogur, pollo, papa, banano, limón, aguacate","Receta deliciosa con papa, limón, yogur, aguacate, pollo.",54,media
+Receta 944,ensalada,EE.UU.,"pan, tomate, pasta, pera, maíz, limón, ajo","Receta deliciosa con maíz, pera, pasta, ajo.",58,difícil
+Receta 945,bebida,Francia,"carne, queso, champiñones, aguacate, maíz, aceite de oliva, pescado, pan, arroz","Receta deliciosa con carne, aceite de oliva, pan.",34,media
+Receta 946,bebida,Japón,"salsa de tomate, aguacate, aceite de oliva, champiñones, pan","Receta deliciosa con champiñones, aceite de oliva, salsa de tomate, pan, aguacate.",67,fácil
+Receta 947,ensalada,Francia,"pollo, espinaca, lentejas, pan, huevo, soya, cebolla","Receta deliciosa con espinaca, pan, cebolla.",44,media
+Receta 948,ensalada,China,"limón, arroz, pescado, papa, queso","Receta deliciosa con pescado, arroz, queso.",28,fácil
+Receta 949,snack,India,"frijoles, arroz, espinaca, soya, limón, maíz, tomate, sal","Receta deliciosa con espinaca, frijoles, arroz.",106,media
+Receta 950,sopa,Francia,"banano, papa, cebolla, soya, lentejas, huevo","Receta deliciosa con soya, lentejas, papa, banano.",90,fácil
+Receta 951,sopa,México,"aceite de oliva, vinagre, carne, zanahoria, ajo, miel","Receta deliciosa con ajo, aceite de oliva, zanahoria, vinagre, miel, carne.",8,difícil
+Receta 952,snack,Japón,"espinaca, pescado, papa, soya, carne, yogur, tomate, frijoles, pimienta, sal","Receta deliciosa con soya, yogur, pescado, espinaca, pimienta, frijoles.",8,fácil
+Receta 953,desayuno,Colombia,"pimienta, yogur, vinagre, pescado, mostaza, carne, aceite de oliva","Receta deliciosa con yogur, aceite de oliva, carne, vinagre.",111,media
+Receta 954,almuerzo,EE.UU.,"lentejas, huevo, vinagre, banano, miel, cebolla, pescado, manzana","Receta deliciosa con miel, lentejas, huevo.",70,media
+Receta 955,snack,España,"salsa de tomate, ajo, lentejas, zanahoria, arroz, soya, pescado","Receta deliciosa con arroz, ajo, pescado, lentejas, salsa de tomate, zanahoria.",96,fácil
+Receta 956,sopa,EE.UU.,"aceite de oliva, fresas, papa, champiñones, frijoles, ajo, aguacate","Receta deliciosa con aguacate, champiñones, aceite de oliva, papa, ajo.",5,difícil
+Receta 957,almuerzo,India,"espinaca, pan, pollo, pepino, papa, banano, mostaza, zanahoria","Receta deliciosa con pepino, zanahoria, banano.",42,difícil
+Receta 958,almuerzo,España,"mantequilla, pan, fresas, arroz, soya, limón, lentejas","Receta deliciosa con fresas, pan, arroz, mantequilla, lentejas, limón.",109,difícil
+Receta 959,snack,India,"huevo, pepino, frijoles, vinagre, champiñones, yogur, pasta, soya, sal","Receta deliciosa con soya, yogur, pasta, pepino.",11,difícil
+Receta 960,ensalada,Perú,"limón, espinaca, aguacate, banano, sal, pan, miel, yogur","Receta deliciosa con limón, yogur, miel, pan.",82,fácil
+Receta 961,sopa,Perú,"pescado, miel, tomate, mantequilla, pan, carne, cebolla","Receta deliciosa con cebolla, tomate, pan, miel, carne.",86,fácil
+Receta 962,postre,China,"manzana, mantequilla, champiñones, aguacate, carne, vinagre, maíz, frijoles, pepino, pera","Receta deliciosa con mantequilla, pepino, frijoles, pera.",82,difícil
+Receta 963,desayuno,Japón,"manzana, banano, pera, arroz, pimienta, miel, limón, champiñones, vinagre, maíz","Receta deliciosa con pimienta, pera, limón.",62,difícil
+Receta 964,sopa,Italia,"carne, vinagre, arroz, queso, aguacate","Receta deliciosa con arroz, carne, aguacate.",45,difícil
+Receta 965,desayuno,México,"banano, pepino, arroz, pan, champiñones, sal, pescado, aguacate","Receta deliciosa con pan, aguacate, arroz, pepino, banano, pescado.",56,media
+Receta 966,ensalada,Colombia,"miel, pollo, fresas, aceite de oliva, queso, manzana, huevo, leche","Receta deliciosa con manzana, aceite de oliva, fresas, leche.",55,difícil
+Receta 967,bebida,Japón,"lentejas, limón, huevo, aceite de oliva, pimienta, yogur, leche, mantequilla","Receta deliciosa con limón, huevo, lentejas, yogur, pimienta.",84,fácil
+Receta 968,desayuno,Perú,"mostaza, maíz, champiñones, mantequilla, ajo","Receta deliciosa con ajo, maíz, champiñones, mantequilla, mostaza.",116,fácil
+Receta 969,postre,Francia,"pollo, maíz, soya, cebolla, ajo","Receta deliciosa con maíz, cebolla, ajo.",45,media
+Receta 970,ensalada,Italia,"huevo, yogur, limón, zanahoria, tomate, pimienta, pera, fresas, pan","Receta deliciosa con limón, huevo, pimienta, zanahoria.",83,fácil
+Receta 971,cena,EE.UU.,"carne, yogur, sal, tomate, pan, aguacate, pollo, aceite de oliva, frijoles, mantequilla","Receta deliciosa con sal, carne, frijoles, pollo, pan, aceite de oliva.",93,media
+Receta 972,snack,España,"miel, pescado, yogur, pera, papa, leche","Receta deliciosa con pera, pescado, papa, leche, miel, yogur.",8,fácil
+Receta 973,almuerzo,España,"salsa de tomate, frijoles, papa, pollo, pescado, sal, queso, cebolla","Receta deliciosa con frijoles, queso, cebolla, pollo, sal.",38,difícil
+Receta 974,postre,México,"queso, champiñones, arroz, frijoles, aguacate, miel, pepino, zanahoria","Receta deliciosa con champiñones, miel, queso, aguacate.",12,media
+Receta 975,ensalada,España,"pepino, frijoles, lentejas, pasta, papa, aceite de oliva, aguacate, cebolla, pescado, pimienta","Receta deliciosa con aceite de oliva, lentejas, pimienta, pepino, pasta, pescado.",22,fácil
+Receta 976,ensalada,Colombia,"banano, aguacate, mostaza, limón, pan","Receta deliciosa con limón, banano, mostaza, aguacate, pan.",39,difícil
+Receta 977,postre,México,"ajo, tomate, cebolla, aguacate, maíz","Receta deliciosa con aguacate, maíz, cebolla.",61,media
+Receta 978,postre,España,"huevo, vinagre, limón, pan, yogur, aguacate, pimienta, maíz, mantequilla, espinaca","Receta deliciosa con limón, mantequilla, huevo.",44,fácil
+Receta 979,bebida,Colombia,"pera, mostaza, zanahoria, salsa de tomate, champiñones, sal, soya, queso, leche, manzana","Receta deliciosa con manzana, sal, salsa de tomate, champiñones, pera, mostaza.",81,difícil
+Receta 980,postre,España,"arroz, fresas, huevo, sal, ajo, soya, banano","Receta deliciosa con ajo, fresas, soya.",79,fácil
+Receta 981,snack,Perú,"pasta, banano, salsa de tomate, pepino, fresas, miel, pan","Receta deliciosa con pasta, miel, pan.",73,media
+Receta 982,desayuno,España,"pasta, champiñones, ajo, soya, fresas, maíz","Receta deliciosa con maíz, ajo, fresas, soya, champiñones, pasta.",111,difícil
+Receta 983,desayuno,Francia,"huevo, carne, pescado, pepino, sal","Receta deliciosa con pescado, huevo, pepino, sal, carne.",27,fácil
+Receta 984,postre,España,"pollo, pera, miel, aguacate, sal, aceite de oliva, pepino, queso","Receta deliciosa con pepino, sal, aceite de oliva, pollo, pera, queso.",9,difícil
+Receta 985,almuerzo,Colombia,"pescado, aguacate, pollo, huevo, banano, leche, queso, papa","Receta deliciosa con aguacate, papa, queso, pescado.",80,media
+Receta 986,bebida,Italia,"arroz, cebolla, pasta, leche, pescado, pimienta, pepino","Receta deliciosa con leche, pimienta, pasta, pepino, cebolla, pescado.",102,difícil
+Receta 987,postre,México,"banano, papa, aceite de oliva, pan, miel, pescado, zanahoria, yogur, salsa de tomate, limón","Receta deliciosa con limón, yogur, banano, salsa de tomate, zanahoria, miel.",48,difícil
+Receta 988,desayuno,México,"frijoles, papa, tomate, mantequilla, salsa de tomate, miel","Receta deliciosa con miel, salsa de tomate, mantequilla, frijoles, papa.",22,media
+Receta 989,cena,Italia,"pan, queso, aceite de oliva, pepino, leche, huevo","Receta deliciosa con aceite de oliva, queso, huevo, leche.",98,fácil
+Receta 990,bebida,Perú,"pollo, papa, carne, pera, fresas","Receta deliciosa con papa, pera, fresas, carne, pollo.",68,fácil
+Receta 991,snack,Perú,"papa, pera, pepino, carne, sal, queso, yogur, manzana","Receta deliciosa con manzana, pepino, yogur, carne, papa, pera.",16,fácil
+Receta 992,almuerzo,España,"pepino, soya, lentejas, pollo, queso, fresas","Receta deliciosa con soya, fresas, queso, pollo, pepino, lentejas.",113,media
+Receta 993,desayuno,China,"yogur, aceite de oliva, pan, pescado, cebolla, miel, espinaca, aguacate, huevo","Receta deliciosa con pescado, cebolla, aguacate, miel.",25,media
+Receta 994,snack,EE.UU.,"salsa de tomate, aceite de oliva, cebolla, mantequilla, soya, vinagre, pescado, maíz","Receta deliciosa con mantequilla, aceite de oliva, soya, maíz.",18,fácil
+Receta 995,cena,Italia,"leche, soya, tomate, pan, carne, mostaza, zanahoria","Receta deliciosa con mostaza, carne, soya.",18,fácil
+Receta 996,cena,Francia,"aceite de oliva, frijoles, huevo, leche, pera","Receta deliciosa con frijoles, huevo, pera, aceite de oliva, leche.",107,difícil
+Receta 997,ensalada,España,"queso, miel, pepino, fresas, sal, salsa de tomate, tomate, pera","Receta deliciosa con miel, pera, fresas.",90,media
+Receta 998,bebida,México,"limón, soya, pasta, papa, frijoles, ajo, pan, tomate, mostaza","Receta deliciosa con frijoles, ajo, mostaza, soya.",103,fácil
+Receta 999,desayuno,Italia,"espinaca, salsa de tomate, carne, aguacate, pollo","Receta deliciosa con espinaca, pollo, aguacate.",11,media
+Receta 1000,desayuno,China,"mantequilla, champiñones, queso, pasta, carne, aguacate, soya, ajo","Receta deliciosa con queso, champiñones, soya.",89,media

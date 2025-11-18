@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Recetas</title>
+</head>
+<body>
+
+<h1>Recetas (muestra)</h1>
+
+<p>
+    <a href="{% url 'recetas:crear' %}">Crear receta</a>
+</p>
+
+<p>
+    <a href="{% url 'recetas:recomendador' %}">Buscar recetas por ingrediente</a>
+</p>
+
+<ul>
+    {% for r in recetas %}
+        <li>
+            <a href="{% url 'recetas:detalle' r.pk %}">{{ r.nombre }}</a>
+            — {{ r.categoria }}
+            — {{ r.tiempo_preparacion }} min
+        </li>
+    {% empty %}
+        <li>No hay recetas aún.</li>
+    {% endfor %}
+</ul>
+
+</body>
+</html>
