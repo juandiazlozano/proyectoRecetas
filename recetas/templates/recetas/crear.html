@@ -3,12 +3,59 @@
 {% block title %}Crear Receta{% endblock %}
 
 {% block content %}
-<div class="container">
-    <h2 class="mb-4">Crear una nueva receta</h2>
-    <form method="POST">
-        {% csrf_token %}
-        {{ form.as_p }}
-        <button type="submit" class="btn btn-success">Guardar</button>
-    </form>
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-primary">
+                <div class="card-header bg-primary text-white text-center">
+                    <h2 class="mb-0"><span class="me-2">🍳</span>Crear una nueva receta</h2>
+                </div>
+                <div class="card-body bg-light">
+                    <form method="POST">
+                        {% csrf_token %}
+                        <div class="row g-4">
+                            <div class="col-md-6">
+                                <label for="id_nombre" class="form-label">Nombre <span class="text-danger">*</span></label>
+                                {{ form.nombre }}
+                                <div class="form-text">Ejemplo: Tarta de manzana</div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="id_categoria" class="form-label">Categoría <span class="text-danger">*</span></label>
+                                {{ form.categoria }}
+                                <div class="form-text">Ejemplo: Postre, Plato principal...</div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="id_tiempo_preparacion" class="form-label">Tiempo de preparación (min)</label>
+                                {{ form.tiempo_preparacion }}
+                            </div>
+                            <div class="col-md-6">
+                                <label for="id_origen" class="form-label">Origen</label>
+                                {{ form.origen }}
+                                <div class="form-text">Ejemplo: España, México...</div>
+                            </div>
+                            <div class="col-12">
+                                <hr>
+                                <label for="id_ingredientes" class="form-label">Ingredientes <span class="text-danger">*</span></label>
+                                {{ form.ingredientes }}
+                                <div class="form-text">Separados por coma. Ejemplo: huevo, leche, azúcar</div>
+                            </div>
+                            <div class="col-12">
+                                <label for="id_descripcion" class="form-label">Descripción</label>
+                                {{ form.descripcion }}
+                            </div>
+                            <div class="col-12">
+                                <label for="id_preparacion" class="form-label">Preparación <span class="text-danger">*</span></label>
+                                {{ form.preparacion }}
+                                <div class="form-text">Explica los pasos para preparar la receta.</div>
+                            </div>
+                        </div>
+                        <div class="d-grid gap-2 mt-4">
+                            <button type="submit" class="btn btn-success btn-lg">Guardar receta</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 {% endblock %}

@@ -1,105 +1,51 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Recomendador de Recetas</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 700px;
-            margin: 50px auto;
-            background: #fff;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 0 15px rgba(0,0,0,0.1);
-        }
-        h2 {
-            color: #333;
-        }
-        form {
-            display: flex;
-            margin-bottom: 20px;
-        }
-        input[type="text"] {
-            flex: 1;
-            padding: 10px;
-            font-size: 16px;
-            border-radius: 5px;
-            border: 1px solid #ccc;
-        }
-        button {
-            padding: 10px 20px;
-            background-color: #ff69b4;
-            border: none;
-            color: white;
-            font-size: 16px;
-            border-radius: 5px;
-            margin-left: 10px;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #ff85c1;
-        }
-        .receta {
-            background: #f1f1f1;
-            padding: 15px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-        }
-        .receta h3 {
-            margin: 0 0 5px 0;
-        }
-     .volver {
-        display: inline-block;
-        margin-top: 20px;
-        padding: 10px 18px;
-        background-color: #ddd;
-        color: #333;
-        border-radius: 6px;
-        text-decoration: none;
-    }
-    .volver:hover {
-        background-color: #ccc;
-    }    
-    </style>
-</head>
-<body>
-<div class="container">
-    <h2>Recomendador de Recetas 🍴</h2>
-    <form method="post">
-        {% csrf_token %}
-        <input type="text" name="ingredientes" placeholder="Escribe los ingredientes que tienes..." required>
-        <button type="submit">Buscar</button>
-    </form>
+{% extends "recetas/base.html" %}
+{% block title %}Recomendador de Recetas{% endblock %}
 
-   {% if resultados %}
-    <h3>Recetas sugeridas:</h3>
-    {% for receta in resultados %}
-        <div class="receta">
-            <h3>{{ receta.nombre }} ({{ receta.categoria }})</h3>
-           <p><strong>Ingredientes:</strong> 
-    {% for ing in receta.ingredientes_lista %}
-        {% if ing|lower in ingredientes %}
-            <span style="background-color: #ffccff; padding:2px 4px; border-radius:3px;">{{ ing }}</span>{% if not forloop.last %}, {% endif %}
-        {% else %}
-            {{ ing }}{% if not forloop.last %}, {% endif %}
-        {% endif %}
-    {% endfor %}
-</p>
-            </p>
-            <p><strong>Descripción:</strong> {{ receta.descripcion }}</p>
-            <p><strong>Origen:</strong> {{ receta.origen }}</p>
+{% block content %}
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12 text-center mb-4">
+            <h1 class="display-4">Recetas</h1>
+            <p class="lead">Encuentra recetas según los ingredientes que tienes en casa.</p>
         </div>
-    {% endfor %}
-{% elif ingredientes %}
-    <p>No se encontraron recetas con "{{ ingredientes|join:', ' }}".</p>
-{% endif %}
-
-<a href="{% url 'recetas:index' %}" class="volver">Volver al inicio</a>
-
-</div> <!-- container -->
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg mb-4">
+                <div class="card-body">
+                    <h2 class="mb-3">Recomendador de Recetas <span>🍴</span></h2>
+                    <form method="post" class="d-flex mb-3">
+                        {% csrf_token %}
+                        <input type="text" name="ingredientes" class="form-control me-2" placeholder="Escribe los ingredientes que tienes..." required>
+                        <button type="submit" class="btn btn-info">Buscar</button>
+                    </form>
+                    {% if resultados %}
+                        <h3 class="mt-4">Recetas sugeridas:</h3>
+                        {% for receta in resultados %}
+                            <div class="card mb-3 border-primary">
+                                <div class="card-body">
+                                    <h4 class="card-title">{{ receta.nombre }} <span class="badge bg-secondary">{{ receta.categoria }}</span></h4>
+                                    <p><strong>Ingredientes:</strong>
+                                        {% for ing in receta.ingredientes_lista %}
+                                            {% if ing|lower in ingredientes %}
+                                                <span class="badge bg-info text-dark">{{ ing }}</span>{% if not forloop.last %}, {% endif %}
+                                            {% else %}
+                                                {{ ing }}{% if not forloop.last %}, {% endif %}
+                                            {% endif %}
+                                        {% endfor %}
+                                    </p>
+                                    <p><strong>Descripción:</strong> {{ receta.descripcion }}</p>
+                                    <p><strong>Origen:</strong> {{ receta.origen }}</p>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    {% elif ingredientes %}
+                        <div class="alert alert-warning mt-3">No se encontraron recetas con "{{ ingredientes|join:', ' }}".</div>
+                    {% endif %}
+                    <a href="{% url 'recetas:index' %}" class="btn btn-primary mt-3">Volver al inicio</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
